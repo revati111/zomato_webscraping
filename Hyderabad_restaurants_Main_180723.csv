@@ -1,0 +1,1044 @@
+,Unnamed: 0,links,names,ratings,price for one,cuisine,location,outlets,home_delivery,takeaway_available,vegetarian_only,indoor_seating
+0,0,https://www.zomato.com/hyderabad/al-armaan-hotel-1-falaknuma,Al Armaan Hotel,4.1,₹150 for one,"Hyderabadi, Biryani","Falaknuma, Hyderabad",0,yes,yes,no,no
+1,1,https://www.zomato.com/hyderabad/peshawar-2-malakpet,Peshawar,4.1,₹150 for one,"North Indian, Seafood, Kebab, Chinese","Malakpet, Hyderabad",2,yes,yes,no,yes
+2,2,https://www.zomato.com/hyderabad/balaji-santhosh-dhaba-kacheguda,Balaji Santhosh Dhaba,4.0,₹150 for one,"North Indian, Chinese, Biryani","Kacheguda, Hyderabad",0,yes,yes,no,yes
+3,3,https://www.zomato.com/hyderabad/pista-house-bakery-saroor-nagar,Pista House Bakery,4.1,₹150 for one,"Bakery, Desserts, Shawarma, Sandwich, Pizza, Fast Food, Salad, Beverages","Saroor Nagar, Hyderabad",15,no,no,no,no
+4,4,https://www.zomato.com/hyderabad/ohris-cake-nation-basheer-bagh,Ohri's Cake Nation,4.3,₹150 for one,"Bakery, Desserts, Ice Cream","Basheer Bagh, Hyderabad",13,yes,yes,no,no
+5,5,https://www.zomato.com/hyderabad/mehfil-narayanguda,Mehfil,4.1,₹150 for one,"Biryani, Chinese, Kebab, Mughlai, North Indian","Narayanguda, Hyderabad",9,yes,yes,no,yes
+6,6,https://www.zomato.com/hyderabad/scoops-ice-cream-2-charminar,Scoops Ice Cream,4.4,₹150 for one,"Ice Cream, Desserts, Pizza","Charminar, Hyderabad",58,yes,yes,no,yes
+7,7,https://www.zomato.com/hyderabad/shah-ghouse-hotel-restaurant-charminar,Shah Ghouse Hotel & Restaurant,4.2,₹150 for one,"North Indian, Mughlai, Chinese, Mandi, Biryani, Shawarma, Desserts","Charminar, Hyderabad",6,yes,yes,no,yes
+8,8,https://www.zomato.com/hyderabad/new-santosh-dhaba-begum-bazaar,New Santosh Dhaba,3.7,₹150 for one,"North Indian, Chinese, Biryani, Beverages","Begum Bazaar, Hyderabad",10,yes,yes,no,yes
+9,9,https://www.zomato.com/hyderabad/new-king-safina-hotel-1-charminar,New King Safina Hotel,4.3,₹150 for one,"Mughlai, Biryani, North Indian","Charminar, Hyderabad",0,yes,yes,no,yes
+10,10,https://www.zomato.com/hyderabad/ms-mandi-shawarma-charminar,MS Mandi & Shawarma,3.9,₹150 for one,"North Indian, Mandi, Fast Food, Pizza, Shawarma, Burger, Shake, Beverages","Charminar, Hyderabad",0,yes,yes,no,yes
+11,11,https://www.zomato.com/hyderabad/shahi-zaiqa-charminar,Shahi Zaiqa,4.0,₹150 for one,"Arabian, Mughlai, Chinese, Mandi, Shawarma","Charminar, Hyderabad",0,yes,yes,no,no
+12,12,https://www.zomato.com/hyderabad/ms-bakery-sweets-falaknuma,MS Bakery & Sweets,4.2,₹150 for one,"Bakery, Desserts, Fast Food, Pizza","Falaknuma, Hyderabad",0,yes,yes,no,no
+13,13,https://www.zomato.com/hyderabad/shah-ghouse-special-shawarma-charminar,Shah Ghouse Special Shawarma,4.1,₹150 for one,"Shawarma, Bakery, Beverages","Charminar, Hyderabad",2,yes,yes,no,no
+14,14,https://www.zomato.com/hyderabad/capital-multi-cuisine-restaurant-basheer-bagh,Capital Multi Cuisine Restaurant,3.8,₹150 for one,"Biryani, Chinese, North Indian, Mughlai","Basheer Bagh, Hyderabad",2,yes,yes,no,no
+15,15,https://www.zomato.com/hyderabad/lucky-restaurant-saroor-nagar,Lucky Restaurant,4.0,₹150 for one,"North Indian, Arabian, Continental, Chinese, Seafood, Mughlai, Desserts, Beverages","Saroor Nagar, Hyderabad",9,yes,yes,no,yes
+16,16,https://www.zomato.com/hyderabad/fancy-ice-cream-1-charminar,Fancy Ice Cream,4.1,₹150 for one,"Desserts, Ice Cream","Charminar, Hyderabad",3,yes,yes,no,yes
+17,17,https://www.zomato.com/hyderabad/al-rabea-mandi-house-charminar,Al Rabea Mandi House,4.3,₹150 for one,Mandi,"Charminar, Hyderabad",0,yes,yes,no,yes
+18,18,https://www.zomato.com/hyderabad/pista-house-koti,Pista House,4.2,₹150 for one,"North Indian, Chinese, Biryani, Kebab, Seafood, Ice Cream, Desserts, Beverages","Koti, Hyderabad",27,yes,yes,no,yes
+19,19,https://www.zomato.com/hyderabad/kfc-abids,KFC,4.0,₹150 for one,"Burger, Fast Food, Biryani, Desserts, Beverages","Abids, Hyderabad",71,yes,yes,no,yes
+20,20,https://www.zomato.com/hyderabad/4m-biryani-house-musheerabad,4M Biryani House,4.2,₹150 for one,"Biryani, Hyderabadi, North Indian, Chinese","Musheerabad, Hyderabad",0,yes,yes,no,yes
+21,21,https://www.zomato.com/hyderabad/cream-stone-ice-cream-himayath-nagar,Cream Stone Ice Cream,4.2,₹150 for one,"Ice Cream, Desserts","Himayath Nagar, Hyderabad",23,yes,yes,no,yes
+22,22,https://www.zomato.com/hyderabad/pizza-hut-kacheguda,Pizza Hut,3.9,₹150 for one,"Pizza, Pasta, Italian, Desserts, Beverages","Kacheguda, Hyderabad",62,yes,yes,no,yes
+23,23,https://www.zomato.com/hyderabad/burger-king-malakpet,Burger King,4.1,₹150 for one,"Burger, Fast Food","The Next Galleria Mall, Malakpet, Hyderabad",8,yes,yes,no,yes
+24,24,https://www.zomato.com/hyderabad/lucky-multicuisine-restaurant-somajiguda,Lucky Multicuisine Restaurant,3.8,₹150 for one,"North Indian, Chinese, Seafood, Mughlai, Biryani, Shawarma, Mandi","Somajiguda, Hyderabad",3,yes,yes,no,yes
+25,25,https://www.zomato.com/hyderabad/bawarchi-rtc-x-roads,Bawarchi,4.1,₹150 for one,"North Indian, Chinese, Seafood, Biryani, Mughlai, Desserts","RTC X roads, Hyderabad",0,yes,yes,no,yes
+26,26,https://www.zomato.com/hyderabad/al-rabea-al-arabi-cafeteria-saroor-nagar,Al Rabea Al Arabi Cafeteria,4.4,₹150 for one,"Wraps, Sandwich, Burger, Fast Food","Saroor Nagar, Hyderabad",2,yes,yes,no,yes
+27,27,https://www.zomato.com/hyderabad/mcdonalds-2-abids,McDonald's,4.0,₹150 for one,"Burger, Fast Food","MPM Mall, Abids, Hyderabad",3,yes,yes,no,yes
+28,28,https://www.zomato.com/hyderabad/red-bucket-biryani-saroor-nagar,Red Bucket Biryani,4.1,₹150 for one,Biryani,"Saroor Nagar, Hyderabad",39,yes,yes,no,no
+29,29,https://www.zomato.com/hyderabad/santosh-dhaba-abids,Santosh Dhaba,3.9,₹150 for one,"North Indian, Chinese, Italian, Biryani, Pizza, Pasta, Fast Food, Desserts","Abids, Hyderabad",11,yes,yes,no,yes
+30,30,https://www.zomato.com/hyderabad/cafe-555-aqeeq-restaurant-masab-tank,Cafe 555 & Aqeeq Restaurant,4.1,₹150 for one,"Hyderabadi, North Indian, Mughlai, Chinese, Seafood, Biryani, Shawarma, Desserts","Masab Tank, Hyderabad",0,yes,yes,no,yes
+31,31,https://www.zomato.com/hyderabad/mohammedia-shawarma-himayath-nagar,Mohammedia Shawarma,3.7,₹150 for one,"Shawarma, Kebab, Fast Food","Himayath Nagar, Hyderabad",32,yes,yes,no,no
+32,32,https://www.zomato.com/hyderabad/grand-hotel-abids,Grand Hotel,4.1,₹150 for one,"Biryani, North Indian, Mughlai, Chinese, Kebab, Seafood, Desserts, Beverages","Abids, Hyderabad",0,yes,yes,no,yes
+33,33,https://www.zomato.com/hyderabad/imperial-multi-cuisine-restaurant-1-malakpet,Imperial Multi Cuisine Restaurant,4.2,₹250 for one,"North Indian, Mughlai, Kebab, Chinese, Seafood, Biryani, Desserts","Malakpet, Hyderabad",2,yes,yes,no,yes
+34,34,https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-ghansi-bazaar,Kwality Wall’s Frozen Dessert and Ice Cream Shop,4.3,₹250 for one,"Ice Cream, Desserts","Ghansi Bazaar, Hyderabad",116,yes,no,no,no
+35,35,https://www.zomato.com/hyderabad/la-pinoz-pizza-1-himayath-nagar,La Pino'z Pizza,4.0,₹250 for one,"Pizza, Pasta, Italian, Fast Food","Himayath Nagar, Hyderabad",18,yes,yes,no,no
+36,36,https://www.zomato.com/hyderabad/hilton-restaurant-khairatabad,Hilton Restaurant,4.1,₹250 for one,"Biryani, North Indian, Chinese, Mughlai, Seafood, Desserts","Khairatabad, Hyderabad",0,yes,yes,no,yes
+37,37,https://www.zomato.com/hyderabad/cakezone-himayath-nagar,CakeZone,4.2,₹250 for one,"Bakery, Desserts","Himayath Nagar, Hyderabad",17,yes,yes,no,no
+38,38,https://www.zomato.com/hyderabad/nic-ice-creams-narayanguda,NIC Ice Creams,4.5,₹250 for one,"Ice Cream, Desserts","Narayanguda, Hyderabad",21,no,no,no,no
+39,39,https://www.zomato.com/hyderabad/lassi-shop-kacheguda,Lassi Shop,3.5,₹250 for one,"Ice Cream, Beverages, Shake, Desserts","Kacheguda, Hyderabad",61,yes,yes,no,yes
+40,40,https://www.zomato.com/hyderabad/bahar-biryani-cafe-dilsukhnagar,Bahar Biryani Cafe,3.8,₹250 for one,"Biryani, North Indian, Chinese, Mughlai, Beverages","Dilsukhnagar, Hyderabad",6,yes,yes,no,yes
+41,41,https://www.zomato.com/hyderabad/shree-santosh-family-dhaba-himayath-nagar,Shree Santosh Family Dhaba,4.1,₹250 for one,"North Indian, Chinese, Biryani, Desserts, Beverages","Himayath Nagar, Hyderabad",26,yes,yes,no,yes
+42,42,https://www.zomato.com/hyderabad/tipsy-topsy-bakery-saroor-nagar,Tipsy Topsy Bakery,3.9,₹250 for one,"Bakery, Burger, Rolls, Pizza, Fast Food, Chinese","Saroor Nagar, Hyderabad",13,yes,yes,no,yes
+43,43,https://www.zomato.com/hyderabad/aroma-family-restaurant-saroor-nagar,Aroma Family Restaurant,3.6,₹250 for one,"Hyderabadi, North Indian, Chinese, Biryani, Shawarma","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+44,44,https://www.zomato.com/hyderabad/faasos-wraps-rolls-1-abids,Faasos - Wraps & Rolls,4.1,₹250 for one,North Indian,"Abids, Hyderabad",29,no,no,no,no
+45,45,https://www.zomato.com/hyderabad/mandi-king-arabian-restaurant-malakpet,Mandi King Arabian Restaurant,4.1,₹200 for one,"Mandi, Kebab, Desserts","Malakpet, Hyderabad",3,yes,yes,no,yes
+46,46,https://www.zomato.com/hyderabad/ovenstory-pizza-abids,Ovenstory Pizza,4.1,₹200 for one,"Pizza, Fast Food","Abids, Hyderabad",29,no,no,no,no
+47,47,https://www.zomato.com/hyderabad/ms-bakery-attapur,MS Bakery,4.1,₹200 for one,"Pizza, Rolls, Fast Food, Desserts, Bakery","Attapur, Hyderabad",3,no,no,no,no
+48,48,https://www.zomato.com/hyderabad/mrcb-1-dilsukhnagar,MRCB,3.3,₹200 for one,Mughlai,"Dilsukhnagar, Hyderabad",10,yes,yes,no,no
+49,49,https://www.zomato.com/hyderabad/baskin-robbins-ice-cream-desserts-malakpet,Baskin Robbins - Ice Cream Desserts,4.1,₹200 for one,"Ice Cream, Desserts, Beverages","Malakpet, Hyderabad",35,yes,yes,no,yes
+50,50,https://www.zomato.com/hyderabad/behrouz-biryani-abids,Behrouz Biryani,4.1,₹200 for one,"Biryani, Kebab, Hyderabadi, Lucknowi","Abids, Hyderabad",30,no,no,no,no
+51,51,https://www.zomato.com/hyderabad/karachi-bakery-banjara-hills,Karachi Bakery,4.2,₹200 for one,"Bakery, Chinese, Pizza, Sandwich, Italian, Wraps, Street Food, Fast Food","Banjara Hills, Hyderabad",36,yes,yes,no,yes
+52,52,https://www.zomato.com/hyderabad/balaji-santosh-family-dhaba-amberpet,Balaji Santosh Family Dhaba,4.1,₹200 for one,"Chinese, North Indian, Ice Cream, Beverages","Amberpet, Hyderabad",19,yes,yes,no,yes
+53,53,https://www.zomato.com/hyderabad/kritunga-lakdikapul,Kritunga,3.5,₹200 for one,"Andhra, South Indian, Biryani, North Indian, Desserts","Lakdikapul, Hyderabad",19,yes,yes,no,yes
+54,54,https://www.zomato.com/hyderabad/airport-bawarchi-restaurant-chandrayanagutta,Airport Bawarchi Restaurant,4.1,₹200 for one,"North Indian, Chinese, Mughlai, Biryani","Chandrayanagutta, Hyderabad",2,yes,yes,no,yes
+55,55,https://www.zomato.com/hyderabad/jumera-hotel-4-chandrayanagutta,Jumera Hotel,4.5,₹200 for one,Biryani,"Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+56,56,https://www.zomato.com/hyderabad/the-thickshake-factory-2-himayath-nagar,The Thickshake Factory,3.8,₹200 for one,"Shake, Beverages","Himayath Nagar, Hyderabad",65,yes,yes,no,yes
+57,57,https://www.zomato.com/hyderabad/arabian-central-1-chandrayanagutta,Arabian Central,4.3,₹150 for one,"Arabian, Shawarma, Wraps, Burger, Fast Food","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+58,58,https://www.zomato.com/hyderabad/the-belgian-waffle-co-himayath-nagar,The Belgian Waffle Co.,4.3,₹150 for one,"Waffle, Pancake, Desserts, Ice Cream, Beverages","Himayath Nagar, Hyderabad",19,yes,yes,no,yes
+59,59,https://www.zomato.com/hyderabad/new-alams-falaknuma,New Alams,4.2,₹150 for one,"North Indian, Street Food","Falaknuma, Hyderabad",0,yes,yes,no,yes
+60,60,https://www.zomato.com/hyderabad/royal-juice-center-rajendra-nagar,Royal Juice Center,4.1,₹150 for one,"Juices, Beverages, Fast Food, Shake","Rajendra Nagar, Hyderabad",0,yes,yes,no,no
+61,61,https://www.zomato.com/hyderabad/natural-ice-cream-malakpet,Natural Ice Cream,4.5,₹150 for one,"Ice Cream, Desserts","Malakpet, Hyderabad",19,no,no,no,no
+62,62,https://www.zomato.com/hyderabad/makers-of-milkshakes-abids,Makers Of Milkshakes,4.2,₹150 for one,"Shake, Beverages, Ice Cream, Waffle","Abids, Hyderabad",55,yes,yes,no,yes
+63,63,https://www.zomato.com/hyderabad/golden-palace-attapur,Golden Palace,4.0,₹150 for one,"North Indian, Chinese, Biryani, Seafood","Attapur, Hyderabad",0,yes,yes,no,yes
+64,64,https://www.zomato.com/hyderabad/a1-chicken-pakoda-point-dilsukhnagar,A1 Chicken Pakoda Point,4.0,₹150 for one,"Chinese, Biryani, Shawarma, North Indian","Dilsukhnagar, Hyderabad",3,yes,yes,no,yes
+65,65,https://www.zomato.com/hyderabad/sahara-bakers-rtc-x-roads,Sahara Bakers,3.5,₹150 for one,"Chinese, Bakery, Sichuan, Pizza, Burger, Fast Food, Desserts","RTC X roads, Hyderabad",0,yes,yes,no,yes
+66,66,https://www.zomato.com/hyderabad/wendys-burgers-abids,Wendy's Burgers,4.1,₹150 for one,"Burger, Fast Food, Beverages","Abids, Hyderabad",7,no,no,no,no
+67,67,https://www.zomato.com/hyderabad/lunchbox-meals-and-thalis-abids,LunchBox - Meals and Thalis,4.2,₹150 for one,North Indian,"Abids, Hyderabad",30,no,no,no,no
+68,68,https://www.zomato.com/hyderabad/mandi-house-arabian-restaurant-saroor-nagar,Mandi House Arabian Restaurant,3.8,₹150 for one,"North Indian, Mandi, Arabian, Desserts","Saroor Nagar, Hyderabad",3,yes,yes,no,no
+69,69,https://www.zomato.com/hyderabad/asoka-restaurant-koti,Asoka Restaurant,3.9,₹200 for one,"Street Food, Chinese, North Indian, Biryani","Koti, Hyderabad",2,yes,yes,no,no
+70,70,https://www.zomato.com/hyderabad/sha-sha-shandaar-shawarma-narayanguda,Sha Sha Shandaar Shawarma,4.3,₹200 for one,"Fast Food, Shawarma","Narayanguda, Hyderabad",20,yes,yes,no,yes
+71,71,https://www.zomato.com/hyderabad/subway-malakpet,Subway,3.7,₹200 for one,"Healthy Food, Fast Food, Sandwich, Salad, Wraps, Beverages","Malakpet, Hyderabad",46,yes,yes,no,yes
+72,72,https://www.zomato.com/hyderabad/chickpet-donne-biryani-house-himayath-nagar,Chickpet Donne Biryani House,3.8,₹200 for one,"Biryani, Andhra","Himayath Nagar, Hyderabad",14,yes,yes,no,yes
+73,73,https://www.zomato.com/hyderabad/al-kareem-hotel-1-mehdipatnam,Al Kareem Hotel,4.2,₹200 for one,Hyderabadi,"Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+74,74,https://www.zomato.com/hyderabad/shawarma-house-narayanguda,Shawarma House,3.6,₹200 for one,"Fast Food, Shawarma","Narayanguda, Hyderabad",0,no,no,no,no
+75,75,https://www.zomato.com/hyderabad/santosh-family-dhaba-himayath-nagar,Santosh Family Dhaba,3.8,₹200 for one,"North Indian, Chinese, Biryani","Himayath Nagar, Hyderabad",9,yes,yes,no,yes
+76,76,https://www.zomato.com/hyderabad/the-biryani-life-abids,The Biryani Life,3.3,₹200 for one,"Biryani, Kebab, Hyderabadi, Lucknowi","Abids, Hyderabad",31,no,no,no,no
+77,77,https://www.zomato.com/hyderabad/santosh-family-dhaba-2-abids,Santosh Family Dhaba,3.8,₹200 for one,"North Indian, Chinese, Biryani, Desserts, Beverages","Abids, Hyderabad",8,yes,yes,no,yes
+78,78,https://www.zomato.com/hyderabad/cafe-bahar-basheer-bagh,Cafe Bahar,4.1,₹200 for one,"Hyderabadi, North Indian, Chinese","Basheer Bagh, Hyderabad",0,yes,yes,no,yes
+79,79,https://www.zomato.com/hyderabad/1989-pizza-thick-shakes-dilsukhnagar,1989 Pizza & Thick Shake's,3.8,₹200 for one,"Shake, Coffee, Beverages, Fast Food, Pizza, Pasta, Desserts","Dilsukhnagar, Hyderabad",4,yes,yes,no,yes
+80,80,https://www.zomato.com/hyderabad/sri-abhiruchi-biryani-chinese-fast-food-dilsukhnagar,Sri Abhiruchi Biryani & Chinese Fast Food,4.2,₹200 for one,"Biryani, Chinese, Seafood, North Indian, Hyderabadi, Sichuan","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+81,81,https://www.zomato.com/hyderabad/hotel-rumaan-chandrayanagutta,Hotel Rumaan,4.1,₹200 for one,"Hyderabadi, Biryani, North Indian, Mughlai, Chinese","Chandrayanagutta, Hyderabad",4,yes,yes,no,yes
+82,82,https://www.zomato.com/hyderabad/mataam-al-yamani-lakdikapul,Mataam Al Yamani,3.8,₹200 for one,"Arabian, Mandi","Lakdikapul, Hyderabad",3,yes,yes,no,yes
+83,83,https://www.zomato.com/hyderabad/kings-palace-amberpet,King's Palace,3.7,₹200 for one,"Biryani, Chinese, North Indian, Mughlai, Kebab","Amberpet, Hyderabad",0,yes,yes,no,yes
+84,84,https://www.zomato.com/hyderabad/shree-golden-palace-mehdipatnam,Shree Golden Palace,3.8,₹200 for one,"North Indian, Biryani, Chinese, South Indian","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+85,85,https://www.zomato.com/hyderabad/imperial-multicuisine-restaurant-tolichowki,Imperial Multicuisine Restaurant,4.1,₹200 for one,"North Indian, Chinese, Mughlai, Biryani, Beverages, Desserts","Tolichowki, Hyderabad",0,yes,yes,no,yes
+86,86,https://www.zomato.com/hyderabad/cake-lamore-himayath-nagar,Cake L'amore,4.1,₹200 for one,"Bakery, Desserts","Himayath Nagar, Hyderabad",8,yes,yes,no,no
+87,87,https://www.zomato.com/hyderabad/ramnagar-bawarchi-musheerabad,Ramnagar Bawarchi,3.6,₹200 for one,"North Indian, South Indian, Biryani, Andhra, Roast Chicken","Musheerabad, Hyderabad",0,no,no,no,no
+88,88,https://www.zomato.com/hyderabad/hotel-sitara-grand-banjara-hills,Hotel Sitara Grand,3.6,₹200 for one,"North Indian, Chinese, Andhra, Biryani, Seafood, Mughlai, Ice Cream, Beverages","Banjara Hills, Hyderabad",7,yes,yes,no,yes
+89,89,https://www.zomato.com/hyderabad/redaan-restaurant-charminar,Redaan Restaurant,4.3,₹200 for one,"Biryani, Chinese, Mughlai, Kebab, North Indian","Charminar, Hyderabad",2,yes,yes,no,yes
+90,90,https://www.zomato.com/hyderabad/sultan-darbar-mehdipatnam,Sultan Darbar,4.1,₹200 for one,"Mughlai, North Indian, Chinese","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+91,91,https://www.zomato.com/hyderabad/luckys-biryani-house-nallakunta,Lucky's Biryani House,3.6,₹200 for one,"North Indian, Chinese, Biryani","Nallakunta, Hyderabad",5,yes,yes,no,yes
+92,92,https://www.zomato.com/hyderabad/hotel-masha-allah-mandi-charminar,Hotel Masha Allah Mandi,3.8,₹200 for one,"North Indian, Mandi, Biryani, Mughlai","Charminar, Hyderabad",3,yes,yes,no,yes
+93,93,https://www.zomato.com/hyderabad/sweet-truth-cake-and-desserts-abids,Sweet Truth - Cake and Desserts,3.4,₹250 for one,"Desserts, Bakery, Ice Cream","Abids, Hyderabad",30,no,no,no,no
+94,94,https://www.zomato.com/hyderabad/spice-9-restaurant-malakpet,Spice 9 Restaurant,3.9,₹250 for one,"Hyderabadi, North Indian, Chinese, Mughlai, Kebab, Biryani, Seafood","Malakpet, Hyderabad",0,yes,yes,no,yes
+95,95,https://www.zomato.com/hyderabad/hotel-niagara-1-malakpet,Hotel Niagara,3.9,₹250 for one,"North Indian, Biryani, Arabian, Chinese, Mandi, Seafood, Kebab","Malakpet, Hyderabad",2,yes,yes,no,yes
+96,96,https://www.zomato.com/hyderabad/mashallah-shawarma-malakpet,Mashallah Shawarma,3.9,₹250 for one,"Rolls, Shawarma","Malakpet, Hyderabad",4,yes,yes,no,yes
+97,97,https://www.zomato.com/hyderabad/swathi-mess-dhaba-koti,Swathi Mess & Dhaba,4.2,₹250 for one,"North Indian, Chinese, Sichuan","Koti, Hyderabad",0,yes,yes,no,yes
+98,98,https://www.zomato.com/hyderabad/royal-juice-centre-rajendra-nagar,Royal Juice Centre,4.2,₹250 for one,"Juices, Fast Food, Shake, Salad, Pizza, Burger, Shawarma","Rajendra Nagar, Hyderabad",0,yes,yes,yes,no
+99,99,https://www.zomato.com/hyderabad/milan-juice-centre-nampally,Milan Juice Centre,4.1,₹250 for one,"Beverages, Desserts, Lebanese, Shake, Shawarma","Nampally, Hyderabad",0,yes,yes,no,yes
+100,100,https://www.zomato.com/hyderabad/mr-doner-house-falaknuma,Mr. Doner House,3.9,₹250 for one,"Fast Food, Lebanese, Beverages, Shake, Pizza, Burger","Falaknuma, Hyderabad",0,yes,yes,no,yes
+101,101,https://www.zomato.com/hyderabad/hotel-city-diamond-mehdipatnam,Hotel City Diamond,4.3,₹250 for one,"Biryani, Hyderabadi","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+102,102,https://www.zomato.com/hyderabad/deccan-elite-rajendra-nagar,Deccan Elite,4.1,₹250 for one,"North Indian, Mughlai, Chinese, Biryani","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+103,103,https://www.zomato.com/hyderabad/wow-momo-banjara-hills,WOW! Momo,3.9,₹250 for one,"Momos, Fast Food, Tibetan, Sichuan, Beverages","Banjara Hills, Hyderabad",28,yes,yes,no,yes
+104,104,https://www.zomato.com/hyderabad/deccan-bakery-and-sweet-charminar,Deccan Bakery And Sweet,4.0,₹250 for one,"Bakery, Mithai, Fast Food","Charminar, Hyderabad",3,yes,yes,no,no
+105,105,https://www.zomato.com/hyderabad/cafe-niloufer-1-lakdikapul,Cafe Niloufer,4.4,₹150 for one,"Cafe, Tea, Shake, Beverages, Bakery, Sandwich, Pizza, Fast Food","Lakdikapul, Hyderabad",4,yes,yes,no,yes
+106,106,https://www.zomato.com/hyderabad/al-saud-bait-al-mandi-1-narayanguda,Al Saud Bait Al Mandi,4.2,₹150 for one,"Arabian, Mandi","Narayanguda, Hyderabad",4,yes,yes,no,yes
+107,107,https://www.zomato.com/hyderabad/nausheen-fruit-juice-centre-chandrayanagutta,Nausheen Fruit Juice Centre,4.4,₹150 for one,"Juices, Beverages","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+108,108,https://www.zomato.com/hyderabad/captain-cook-dilsukhnagar,Captain Cook,New,₹150 for one,"South Indian, North Indian, Mandi, Chinese, Biryani, Mughlai, Seafood, Desserts","Dilsukhnagar, Hyderabad",5,yes,yes,no,yes
+109,109,https://www.zomato.com/hyderabad/food-track-charminar,Food Track,4.1,₹150 for one,"Fast Food, Burger, Sandwich, Pizza, Shake, Beverages","Charminar, Hyderabad",0,yes,yes,no,yes
+110,110,https://www.zomato.com/hyderabad/king-khaja-beef-mandi-house-saroor-nagar,King Khaja Beef Mandi House,4.1,₹150 for one,"Mandi, Fast Food, Lebanese, Biryani, Burger, Shawarma","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+111,111,https://www.zomato.com/hyderabad/late-night-biryani-saroor-nagar,Late Night Biryani,3.4,₹150 for one,"Chinese, Biryani, North Indian","Saroor Nagar, Hyderabad",0,no,no,no,no
+112,112,https://www.zomato.com/hyderabad/sarvi-restaurant-banjara-hills,Sarvi Restaurant,4.0,₹150 for one,"North Indian, Mughlai, Kebab, Chinese, Seafood, Desserts, Beverages","Banjara Hills, Hyderabad",2,yes,yes,no,yes
+113,113,https://www.zomato.com/hyderabad/hotel-mukarram-amberpet,Hotel Mukarram,4.2,₹150 for one,"Biryani, North Indian","Amberpet, Hyderabad",0,yes,yes,no,yes
+114,114,https://www.zomato.com/hyderabad/chotus-the-food-people-ghansi-bazaar,Chotu's The Food People,3.7,₹150 for one,"North Indian, Chinese, Biryani","Ghansi Bazaar, Hyderabad",3,yes,yes,no,yes
+115,115,https://www.zomato.com/hyderabad/masqati-ice-cream-1-attapur,Masqati Ice Cream,4.3,₹150 for one,"Ice Cream, Desserts, Pizza, Fast Food, Street Food, Beverages","Attapur, Hyderabad",13,yes,yes,no,no
+116,116,https://www.zomato.com/hyderabad/new-green-bawarchi-langer-houz,New Green Bawarchi,3.9,₹150 for one,"North Indian, Chinese, Biryani, Seafood, Mandi, Desserts, Beverages","Langer Houz, Hyderabad",0,yes,yes,no,yes
+117,117,https://www.zomato.com/hyderabad/santosh-dhaba-2-begum-bazaar,Santosh Dhaba,3.6,₹200 for one,"North Indian, Chinese, Biryani, Sichuan, Sandwich, Pizza, Salad, Beverages","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+118,118,https://www.zomato.com/hyderabad/sherton-restaurant-amberpet,Sherton Restaurant,4.2,₹200 for one,"Mughlai, Hyderabadi, Chinese, Biryani","Amberpet, Hyderabad",0,yes,yes,no,yes
+119,119,https://www.zomato.com/hyderabad/zomoz-the-momo-company-abids,Zomoz - The Momo Company,4.3,₹200 for one,"Momos, Chinese, Fast Food","Abids, Hyderabad",29,no,no,no,no
+120,120,https://www.zomato.com/hyderabad/krupa-mess-tiffins-abids,Krupa Mess & Tiffins,3.6,₹200 for one,"South Indian, Chinese, North Indian, Sichuan, Pizza","Abids, Hyderabad",2,yes,yes,no,yes
+121,121,https://www.zomato.com/hyderabad/grill-station-2-charminar,Grill Station,4.1,₹200 for one,"Fast Food, Lebanese, Shawarma","Charminar, Hyderabad",2,yes,yes,no,yes
+122,122,https://www.zomato.com/hyderabad/shadaan-restaurant-chandrayanagutta,Shadaan Restaurant,4.2,₹200 for one,"North Indian, Chinese, Hyderabadi","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+123,123,https://www.zomato.com/hyderabad/bake-delight-bakery-musheerabad,Bake Delight Bakery,3.6,₹200 for one,"Bakery, Fast Food, Chinese","Musheerabad, Hyderabad",0,yes,yes,no,no
+124,124,https://www.zomato.com/hyderabad/mandi-king-delite-arabian-restaurant-himayath-nagar,Mandi King Delite Arabian Restaurant,4.0,₹200 for one,"Mandi, North Indian, Mughlai, Seafood, Chinese, Desserts","Himayath Nagar, Hyderabad",0,yes,yes,no,yes
+125,125,https://www.zomato.com/hyderabad/hot-bucket-biryani-saroor-nagar,Hot Bucket Biryani,3.4,₹200 for one,"Biryani, South Indian","Saroor Nagar, Hyderabad",16,yes,yes,no,no
+126,126,https://www.zomato.com/hyderabad/baba-bakery-falaknuma,Baba Bakery,4.0,₹200 for one,"Bakery, North Indian, Desserts, Fast Food","Falaknuma, Hyderabad",0,yes,yes,no,no
+127,127,https://www.zomato.com/hyderabad/mohammedia-mandi-house-mehdipatnam,Mohammedia Mandi House,3.8,₹200 for one,"North Indian, Seafood, Chinese, Biryani, Mandi, Mughlai, Shawarma, Desserts","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+128,128,https://www.zomato.com/hyderabad/hotel-sohail-malakpet,Hotel Sohail,4.2,₹200 for one,"North Indian, Mughlai, Kebab, Chinese, Beverages, Desserts","Malakpet, Hyderabad",0,yes,yes,no,yes
+129,129,https://www.zomato.com/hyderabad/leons-burgers-wings-himayath-nagar,Leon's Burgers & Wings,4.2,₹200 for one,"Burger, Wraps, Fast Food","Himayath Nagar, Hyderabad",7,yes,yes,no,yes
+130,130,https://www.zomato.com/hyderabad/sahadeva-reddy-tiffins-dilsukhnagar,Sahadeva Reddy Tiffins,4.2,₹200 for one,Street Food,"Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+131,131,https://www.zomato.com/hyderabad/king-khaja-hotel-saroor-nagar,King Khaja Hotel,4.2,₹200 for one,"Hyderabadi, Biryani, Fast Food","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+132,132,https://www.zomato.com/hyderabad/nizams-khana-ghar-falaknuma,Nizams Khana Ghar,4.1,₹200 for one,"South Indian, Chinese, Street Food","Falaknuma, Hyderabad",0,yes,yes,no,yes
+133,133,https://www.zomato.com/hyderabad/just-bake-ramanthapur,Just Bake,3.5,₹200 for one,Bakery,"Ramanthapur, Hyderabad",36,yes,yes,no,no
+134,134,https://www.zomato.com/hyderabad/arabian-shawarma-narayanguda,Arabian Shawarma,3.9,₹200 for one,"Shawarma, Fast Food","Narayanguda, Hyderabad",8,yes,yes,no,yes
+135,135,https://www.zomato.com/hyderabad/grand-bawarchi-restaurant-falaknuma,Grand Bawarchi Restaurant,4.2,₹200 for one,"Chinese, Biryani, Mandi, Seafood, North Indian, Kebab","Falaknuma, Hyderabad",0,yes,yes,no,yes
+136,136,https://www.zomato.com/hyderabad/temptations-begum-bazaar,Temptations,3.9,₹200 for one,"Ice Cream, Desserts, Fast Food, Pizza","Begum Bazaar, Hyderabad",8,yes,yes,no,yes
+137,137,https://www.zomato.com/hyderabad/the-good-bowl-abids,The Good Bowl,3.9,₹200 for one,"Asian, Pasta, Biryani","Abids, Hyderabad",29,no,no,no,no
+138,138,https://www.zomato.com/hyderabad/varalakshmi-tiffins-2-dilsukhnagar,Varalakshmi Tiffins,4.4,₹200 for one,South Indian,"Dilsukhnagar, Hyderabad",9,yes,yes,no,yes
+139,139,https://www.zomato.com/hyderabad/big-bowl-chinese-himayath-nagar,Big Bowl Chinese,3.7,₹200 for one,"Chinese, Sichuan","Himayath Nagar, Hyderabad",12,no,no,no,no
+140,140,https://www.zomato.com/hyderabad/pista-house-cakes-desserts-saroor-nagar,Pista House - Cakes & Desserts,4.1,₹200 for one,"Bakery, Desserts","Saroor Nagar, Hyderabad",5,no,no,no,no
+141,141,https://www.zomato.com/hyderabad/new-grand-restaurant-bakery-begum-bazaar,New Grand Restaurant & Bakery,3.9,₹100 for one,"North Indian, Mughlai, Seafood, Rolls, Chinese, Sichuan, Biryani, Bakery","Begum Bazaar, Hyderabad",0,yes,yes,no,no
+142,142,https://www.zomato.com/hyderabad/santosh-family-dhaba-1-abids,Santosh Family Dhaba,3.7,₹100 for one,"North Indian, Chinese, Biryani","Abids, Hyderabad",2,yes,yes,no,no
+143,143,https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-3-malakpet,Kwality Wall’s Frozen Dessert And Ice Cream Shop,4.3,₹100 for one,"Ice Cream, Desserts","Malakpet, Hyderabad",15,no,no,no,no
+144,144,https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-6-malakpet,Kwality Wall’s Frozen Dessert and Ice Cream Shop,4.0,₹100 for one,"Ice Cream, Desserts","Malakpet, Hyderabad",5,no,no,no,no
+145,145,https://www.zomato.com/hyderabad/turkish-shawarma-house-chandrayanagutta,Turkish Shawarma House,3.8,₹100 for one,"Shawarma, Fast Food, Wraps","Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+146,146,https://www.zomato.com/hyderabad/biryani-culture-rtc-x-roads,Biryani Culture,4.1,₹100 for one,"Biryani, Chinese, South Indian, Street Food, Kebab, North Indian","RTC X roads, Hyderabad",0,no,no,no,no
+147,147,https://www.zomato.com/hyderabad/pista-house-premium-lounge-charminar,Pista House - Premium Lounge,4.1,₹100 for one,"North Indian, Chinese, Italian, Mughlai, Oriental, Seafood, Desserts, Beverages","Charminar Area, Charminar, Hyderabad",23,yes,yes,no,yes
+148,148,https://www.zomato.com/hyderabad/wow-china-1-banjara-hills,WOW! China,3.5,₹100 for one,"Chinese, Oriental, Asian, Sichuan, Seafood","Banjara Hills, Hyderabad",13,yes,yes,no,yes
+149,149,https://www.zomato.com/hyderabad/burrito-ice-cream-chandrayanagutta,Burrito Ice Cream,4.2,₹100 for one,"Ice Cream, Desserts, Beverages","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+150,150,https://www.zomato.com/hyderabad/rice-bowl-2-himayath-nagar,Rice Bowl,3.7,₹100 for one,"North Indian, South Indian","Himayath Nagar, Hyderabad",15,no,no,no,no
+151,151,https://www.zomato.com/hyderabad/balaji-santosh-dhaba-nampally,Balaji Santosh Dhaba,4.0,₹100 for one,"North Indian, Biryani, Chinese","Nampally, Hyderabad",12,yes,yes,no,yes
+152,152,https://www.zomato.com/hyderabad/4-chilis-kitchen-musheerabad,4 Chili's Kitchen,4.2,₹100 for one,"Chinese, Sichuan, Kebab, Seafood, North Indian, Mughlai, Biryani","Musheerabad, Hyderabad",0,yes,yes,no,no
+153,153,https://www.zomato.com/hyderabad/grand-restaurant-abids,Grand Restaurant,3.3,₹250 for one,"Biryani, Chinese, Mughlai, North Indian, Seafood","Abids, Hyderabad",0,yes,yes,no,yes
+154,154,https://www.zomato.com/hyderabad/riyan-hotel-nampally,Riyan Hotel,3.8,₹250 for one,"Mughlai, Biryani, North Indian, Seafood, Chinese","Nampally, Hyderabad",0,yes,yes,no,yes
+155,155,https://www.zomato.com/hyderabad/fishland-express-banjara-hills,Fishland Express,3.8,₹250 for one,"North Indian, Biryani, Chinese, South Indian, Andhra, Sichuan, Beverages","Banjara Hills, Hyderabad",2,yes,yes,no,yes
+156,156,https://www.zomato.com/hyderabad/snazzy-ice-cream-falaknuma,Snazzy Ice Cream,4.3,₹250 for one,Ice Cream,"Falaknuma, Hyderabad",2,yes,yes,no,yes
+157,157,https://www.zomato.com/hyderabad/marhaba-shawarma-wraps-himayath-nagar,Marhaba Shawarma & Wraps,4.0,₹250 for one,"Salad, Wraps, Fast Food, Shawarma, Shake","Himayath Nagar, Hyderabad",0,yes,yes,no,no
+158,158,https://www.zomato.com/hyderabad/the-lassi-corner-kacheguda,The Lassi Corner,3.9,₹250 for one,"Juices, Shake, Coffee, Beverages, Sandwich, Fast Food, Street Food, Desserts","Kacheguda, Hyderabad",43,yes,yes,no,no
+159,159,https://www.zomato.com/hyderabad/blue-sea-restaurant-basheer-bagh,Blue Sea Restaurant,4.1,₹250 for one,"Seafood, South Indian, Biryani, Chinese, North Indian","Basheer Bagh, Hyderabad",0,yes,yes,no,yes
+160,160,https://www.zomato.com/hyderabad/veggie-chinese-basheer-bagh,Veggie Chinese,4.2,₹250 for one,"Chinese, North Indian, Biryani","Basheer Bagh, Hyderabad",0,yes,yes,yes,no
+161,161,https://www.zomato.com/hyderabad/hotel-parwaz-2-rajendra-nagar,Hotel Parwaz,4.0,₹250 for one,"Chinese, North Indian, Mughlai, Biryani, Seafood, Mandi, Desserts, Beverages","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+162,162,https://www.zomato.com/hyderabad/pure-veg-meals-by-lunchbox-abids,Pure Veg meals by LunchBox,3.8,₹250 for one,North Indian,"Abids, Hyderabad",29,no,no,no,no
+163,163,https://www.zomato.com/hyderabad/turkish-central-nampally,Turkish Central,3.7,₹250 for one,"Turkish, Lebanese, Shawarma","Nampally, Hyderabad",0,yes,yes,no,yes
+164,164,https://www.zomato.com/hyderabad/vnr-fresh-juice-center-himayath-nagar,VNR Fresh Juice Center,3.7,₹250 for one,"Beverages, Ice Cream, Salad","Himayath Nagar, Hyderabad",0,yes,yes,no,no
+165,165,https://www.zomato.com/hyderabad/bhattad-ki-idli-rambharose-bhandar-narayanguda,Bhattad Ki Idli - Rambharose Bhandar,4.1,₹100 for one,South Indian,"Narayanguda, Hyderabad",4,yes,yes,no,yes
+166,166,https://www.zomato.com/hyderabad/zaitun-falaknuma,Zaitun,3.8,₹100 for one,"North Indian, Chinese, Mughlai, Kebab, Seafood, Mandi","Falaknuma, Hyderabad",0,yes,yes,no,yes
+167,167,https://www.zomato.com/hyderabad/al-akbar-fast-food-corner-2-charminar,Al Akbar Fast Food Corner,4.1,₹100 for one,"Chinese, Beverages","Charminar, Hyderabad",2,yes,yes,no,yes
+168,168,https://www.zomato.com/hyderabad/arabian-shawarma-burger-1-nampally,Arabian Shawarma & Burger,4.2,₹100 for one,"Fast Food, Beverages, Shawarma","Nampally, Hyderabad",0,no,no,no,no
+169,169,https://www.zomato.com/hyderabad/golden-zaiqa-restaurant-mehdipatnam,Golden Zaiqa Restaurant,3.9,₹100 for one,"Biryani, Chinese, North Indian, Seafood","Mehdipatnam, Hyderabad",0,yes,yes,no,no
+170,170,https://www.zomato.com/hyderabad/nazeer-juice-center-1-charminar,Nazeer Juice Center,4.2,₹100 for one,"Juices, Beverages, Desserts, Shake","Charminar, Hyderabad",0,yes,yes,no,yes
+171,171,https://www.zomato.com/hyderabad/masqati-ice-cream-abids,Masqati Ice Cream,4.4,₹100 for one,"Ice Cream, Desserts, Fast Food, Pizza","Abids, Hyderabad",8,yes,yes,no,no
+172,172,https://www.zomato.com/hyderabad/new-falak-restaurant-charminar,New Falak Restaurant,4.0,₹100 for one,"South Indian, Biryani","Charminar, Hyderabad",0,yes,yes,no,yes
+173,173,https://www.zomato.com/hyderabad/famous-ice-creams-nampally,Famous Ice Creams,4.2,₹100 for one,"Desserts, Ice Cream","Nampally, Hyderabad",0,yes,yes,no,no
+174,174,https://www.zomato.com/hyderabad/mr-bakes-dilsukhnagar,Mr. Bakes,3.4,₹100 for one,Burger,"Dilsukhnagar, Hyderabad",0,yes,yes,no,no
+175,175,https://www.zomato.com/hyderabad/kabul-darbar-tolichowki,Kabul Darbar,4.2,₹100 for one,"North Indian, Arabian, Afghan, Mandi, Mughlai","Tolichowki, Hyderabad",0,yes,yes,no,yes
+176,176,https://www.zomato.com/hyderabad/burhanpur-khowa-jalebi-charminar,Burhanpur Khowa Jalebi,4.3,₹100 for one,Mithai,"Charminar, Hyderabad",0,yes,yes,no,no
+177,177,https://www.zomato.com/hyderabad/andhra-meals-and-tiffins-mehdipatnam,Andhra Meals And Tiffins,4.0,₹50 for one,Andhra,"Mehdipatnam, Hyderabad",0,yes,yes,no,no
+178,178,https://www.zomato.com/hyderabad/warmoven-cake-desserts-dilsukhnagar,WarmOven Cake & Desserts,4.1,₹50 for one,"Bakery, Desserts, Ice Cream, Shake","Dilsukhnagar, Hyderabad",11,no,no,no,no
+179,179,https://www.zomato.com/hyderabad/gabru-di-chaap-himayath-nagar,Gabru Di Chaap,3.7,₹50 for one,"North Indian, Burger, Beverages","Himayath Nagar, Hyderabad",13,yes,yes,no,no
+180,180,https://www.zomato.com/hyderabad/theobroma-1-banjara-hills,Theobroma,4.4,₹50 for one,"Bakery, Desserts, Fast Food, Beverages","Banjara Hills, Hyderabad",22,yes,yes,no,yes
+181,181,https://www.zomato.com/hyderabad/central-bawarchi-1-attapur,Central Bawarchi,3.4,₹50 for one,"Chinese, North Indian, Biryani, Sichuan","Attapur, Hyderabad",0,no,no,no,no
+182,182,https://www.zomato.com/hyderabad/gelatica-gelato-ice-cream-narayanguda,Gelatica Gelato - Ice Cream,3.9,₹50 for one,"Ice Cream, Desserts","Narayanguda, Hyderabad",8,no,no,no,no
+183,183,https://www.zomato.com/hyderabad/pista-house-zafrani-tea-koti,Pista House Zafrani Tea,4.4,₹50 for one,"Tea, Beverages","Koti, Hyderabad",5,no,no,no,no
+184,184,https://www.zomato.com/hyderabad/star-hotel-musheerabad,Star Hotel,3.7,₹50 for one,"Chinese, Biryani","Musheerabad, Hyderabad",0,yes,yes,no,yes
+185,185,https://www.zomato.com/hyderabad/iceberg-organic-icecreams-himayath-nagar,Iceberg Organic Icecreams,3.9,₹50 for one,"Ice Cream, Bakery, Desserts","Himayath Nagar, Hyderabad",17,no,no,no,no
+186,186,https://www.zomato.com/hyderabad/hotel-akbar-darbar-1-falaknuma,Hotel Akbar Darbar,4.4,₹50 for one,"Hyderabadi, Street Food, Biryani, Kebab","Falaknuma, Hyderabad",0,yes,yes,no,yes
+187,187,https://www.zomato.com/hyderabad/al-madina-chinese-fast-food-1-chandrayanagutta,Al Madina Chinese Fast Food,3.9,₹50 for one,"Hyderabadi, Chinese","Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+188,188,https://www.zomato.com/hyderabad/essa-shawarma-chandrayanagutta,Essa Shawarma,3.2,₹50 for one,"Fast Food, Shawarma","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+189,189,https://www.zomato.com/hyderabad/al-labbaik-shawarma-mehdipatnam,Al-Labbaik Shawarma,3.4,₹150 for one,Shawarma,"Mehdipatnam, Hyderabad",4,yes,yes,no,yes
+190,190,https://www.zomato.com/hyderabad/onesta-banjara-hills,Onesta,3.6,₹150 for one,"Pizza, Pasta, Fast Food, Desserts, Beverages","Banjara Hills, Hyderabad",2,yes,yes,no,yes
+191,191,https://www.zomato.com/hyderabad/frykiki-banjara-hills,Frykiki,3.7,₹150 for one,"Cafe, Coffee, Beverages, Fast Food, Mexican, Wraps, Pizza, Pasta","Banjara Hills, Hyderabad",4,yes,yes,no,yes
+192,192,https://www.zomato.com/hyderabad/hotel-city-diamond-1-mehdipatnam,Hotel City Diamond,4.2,₹150 for one,"Biryani, Mughlai, Chinese","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+193,193,https://www.zomato.com/hyderabad/santosh-dhaba-1-begum-bazaar,Santosh Dhaba,3.7,₹150 for one,"North Indian, Chinese, Biryani","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+194,194,https://www.zomato.com/hyderabad/samosa-singh-kacheguda,Samosa Singh,3.8,₹150 for one,"Street Food, North Indian, Beverages","Kacheguda, Hyderabad",19,no,no,no,no
+195,195,https://www.zomato.com/hyderabad/thinduda-a-telangana-kitchen-dilsukhnagar,Thinduda - A Telangana Kitchen,3.9,₹150 for one,"Biryani, South Indian, Andhra","Dilsukhnagar, Hyderabad",0,yes,yes,no,no
+196,196,https://www.zomato.com/hyderabad/firangi-bake-abids,Firangi Bake,4.0,₹150 for one,"Italian, Mexican, Desserts","Abids, Hyderabad",31,no,no,no,no
+197,197,https://www.zomato.com/hyderabad/tashifa-home-make-foods-tolichowki,Tashifa Home Make Foods,3.1,₹150 for one,"North Indian, Chinese, Fast Food, Street Food, Beverages","Tolichowki, Hyderabad",0,yes,yes,no,no
+198,198,https://www.zomato.com/hyderabad/al-madina-fast-food-centre-charminar,Al Madina Fast Food Centre,3.8,₹150 for one,"Chinese, Mughlai, Biryani","Charminar, Hyderabad",0,no,no,no,no
+199,199,https://www.zomato.com/hyderabad/mohammeds-shawarma-tolichowki,Mohammed's Shawarma,4.2,₹150 for one,"Fast Food, Shawarma, Pizza, Burger, Wraps","Tolichowki, Hyderabad",0,yes,yes,no,yes
+200,200,https://www.zomato.com/hyderabad/istanbul-malakpet,Istanbul,4.3,₹150 for one,Wraps,"Malakpet, Hyderabad",3,yes,yes,no,yes
+201,201,https://www.zomato.com/hyderabad/grill-n-wrap-1-charminar,Grill N Wrap,3.9,₹150 for one,"Wraps, Shawarma, Fast Food, Beverages","Charminar Area, Charminar, Hyderabad",23,yes,yes,no,yes
+202,202,https://www.zomato.com/hyderabad/al-baik-arabian-cafeteria-saroor-nagar,AL-Baik Arabian Cafeteria,3.6,₹150 for one,"Wraps, Burger, Sandwich, Fast Food","Saroor Nagar, Hyderabad",0,yes,yes,no,no
+203,203,https://www.zomato.com/hyderabad/mataam-al-turky-family-restaurant-malakpet,Mataam Al Turky Family Restaurant,4.0,₹150 for one,"North Indian, Chinese, Kebab, Mughlai, Arabian, Desserts, Beverages","Malakpet, Hyderabad",0,yes,yes,no,yes
+204,204,https://www.zomato.com/hyderabad/momo-zone-the-momo-company-dilsukhnagar,Momo Zone - The Momo Company,4.1,₹150 for one,"Momos, Fast Food, Desserts","Dilsukhnagar, Hyderabad",12,no,no,no,no
+205,205,https://www.zomato.com/hyderabad/captain-kunafa-3-malakpet,Captain Kunafa,4.1,₹150 for one,"Desserts, Turkish","Malakpet, Hyderabad",3,yes,yes,no,yes
+206,206,https://www.zomato.com/hyderabad/turkish-doner-chandrayanagutta,Turkish Doner,3.2,₹150 for one,"Lebanese, Fast Food, Arabian, Shawarma","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+207,207,https://www.zomato.com/hyderabad/the-dessert-heaven-pure-veg-himayath-nagar,The Dessert Heaven - Pure Veg,4.2,₹150 for one,"Desserts, Bakery","Himayath Nagar, Hyderabad",17,no,no,no,no
+208,208,https://www.zomato.com/hyderabad/deccan-bakers-and-sweet-house-attapur,Deccan Bakers and Sweet House,4.0,₹150 for one,"Bakery, Street Food, Rolls","Attapur, Hyderabad",0,yes,no,no,no
+209,209,https://www.zomato.com/hyderabad/louis-burger-1-banjara-hills,Louis Burger,4.1,₹150 for one,"Burger, Fast Food","Banjara Hills, Hyderabad",4,no,no,no,no
+210,210,https://www.zomato.com/hyderabad/traffic-mandi-house-l-b-nagar,Traffic Mandi House,4.2,₹150 for one,"Seafood, North Indian, South Indian","L B Nagar, Hyderabad",0,no,no,no,no
+211,211,https://www.zomato.com/hyderabad/feel-in-saudi-chandrayanagutta,Feel In Saudi,3.2,₹150 for one,"Arabian, Lebanese, North Indian, Juices, Beverages, Shawarma","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+212,212,https://www.zomato.com/hyderabad/aazebo-tolichowki,Aazebo,4.2,₹150 for one,"Arabian, Mandi, Mughlai","Tolichowki, Hyderabad",2,yes,yes,no,yes
+213,213,https://www.zomato.com/hyderabad/mughals-bawarchi-attapur,Mughal's Bawarchi,3.5,₹200 for one,"Biryani, North Indian, Mughlai, Seafood, Chinese, Sichuan, Mandi, Desserts","Attapur, Hyderabad",0,yes,yes,no,yes
+214,214,https://www.zomato.com/hyderabad/a1-pakoda-house-saroor-nagar,A1 Pakoda House,3.9,₹200 for one,"Fast Food, Lebanese, Biryani, Chinese, Sichuan","Saroor Nagar, Hyderabad",0,no,no,no,no
+215,215,https://www.zomato.com/hyderabad/potful-claypot-biryanis-khairatabad,Potful - Claypot Biryanis,4.3,₹200 for one,"Biryani, Kebab, Mughlai, North Indian, Desserts, Beverages","Khairatabad, Hyderabad",9,yes,yes,no,yes
+216,216,https://www.zomato.com/hyderabad/taco-bell-malakpet,Taco Bell,3.7,₹200 for one,"Mexican, Fast Food, Wraps","The Next Galleria Mall, Malakpet, Hyderabad",8,yes,yes,no,yes
+217,217,https://www.zomato.com/hyderabad/tawakkal-bakery-sweets-falaknuma,Tawakkal Bakery & Sweets,3.4,₹200 for one,Mithai,"Falaknuma, Hyderabad",0,yes,yes,no,no
+218,218,https://www.zomato.com/hyderabad/rayees-shawarma-malakpet,Rayees Shawarma,4.3,₹200 for one,"Momos, Shawarma","Malakpet, Hyderabad",0,yes,yes,no,yes
+219,219,https://www.zomato.com/hyderabad/ovenfresh-cakes-and-desserts-himayath-nagar,Ovenfresh Cakes and Desserts,4.3,₹200 for one,"Bakery, Desserts, Ice Cream, Mithai, Beverages","Himayath Nagar, Hyderabad",15,yes,yes,no,no
+220,220,https://www.zomato.com/hyderabad/cravings-cafe-2-attapur,Cravings Cafe,4.1,₹200 for one,"Cafe, Pizza, Fast Food","Attapur, Hyderabad",0,yes,yes,no,yes
+221,221,https://www.zomato.com/hyderabad/nandu-fresh-fruit-juice-centre-himayath-nagar,Nandu Fresh Fruit Juice Centre,3.9,₹200 for one,"Beverages, Juices, Shake, Healthy Food","Himayath Nagar, Hyderabad",0,yes,yes,yes,no
+222,222,https://www.zomato.com/hyderabad/mandi-king-elite-arabian-restaurant-tolichowki,Mandi King Elite Arabian Restaurant,4.0,₹200 for one,"Arabian, Mandi, Mughlai","Tolichowki, Hyderabad",0,yes,yes,no,yes
+223,223,https://www.zomato.com/hyderabad/fch-fried-chicken-hub-mehdipatnam,FCH - Fried Chicken Hub,3.8,₹200 for one,"Fast Food, Burger, Wraps","Mehdipatnam, Hyderabad",2,yes,yes,no,no
+224,224,https://www.zomato.com/hyderabad/amay-tiffin-corner-abids,Amay Tiffin Corner,4.0,₹200 for one,"South Indian, Street Food, Juices, Beverages","Abids, Hyderabad",0,yes,yes,no,yes
+225,225,https://www.zomato.com/hyderabad/roll-zone-3-himayath-nagar,Roll Zone,3.9,₹100 for one,"Rolls, Momos","Himayath Nagar, Hyderabad",7,yes,yes,no,no
+226,226,https://www.zomato.com/hyderabad/sip-bite-1-malakpet,Sip & Bite,3.8,₹100 for one,"Shawarma, Wraps, Pizza, Burger, Fast Food, Desserts, Shake, Beverages","Malakpet, Hyderabad",0,yes,yes,no,yes
+227,227,https://www.zomato.com/hyderabad/masqati-true-juice-charminar,Masqati True Juice,4.0,₹100 for one,"Street Food, Fast Food, Beverages, Shake","Charminar Area, Charminar, Hyderabad",23,yes,yes,no,yes
+228,228,https://www.zomato.com/hyderabad/the-pizza-hub-kacheguda,The Pizza Hub,3.3,₹100 for one,"Street Food, Fast Food, Pizza, Beverages, Shake, Sichuan","Kacheguda, Hyderabad",3,yes,yes,yes,no
+229,229,https://www.zomato.com/hyderabad/alhamdulilah-juice-centre-charminar,Alhamdulilah Juice Centre,3.7,₹100 for one,"Juices, Shake, Beverages, Desserts","Charminar, Hyderabad",0,yes,yes,no,no
+230,230,https://www.zomato.com/hyderabad/al-ammar-arabian-cafeteria-saroor-nagar,Al Ammar Arabian Cafeteria,3.9,₹100 for one,"Lebanese, Wraps, Fast Food, Beverages","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+231,231,https://www.zomato.com/hyderabad/al-hashmi-fast-food-charminar,Al Hashmi Fast Food,4.0,₹100 for one,"North Indian, Chinese","Charminar, Hyderabad",0,yes,yes,no,yes
+232,232,https://www.zomato.com/hyderabad/new-balapur-bawarchi-restaurant-meerpet,New Balapur Bawarchi Restaurant,3.8,₹100 for one,"South Indian, Chinese, Biryani, Seafood","Meerpet, Hyderabad",0,yes,yes,no,no
+233,233,https://www.zomato.com/hyderabad/balaji-family-dhaba-saroor-nagar,Balaji Family Dhaba,3.8,₹100 for one,"North Indian, Chinese, Biryani","Saroor Nagar, Hyderabad",6,yes,yes,no,yes
+234,234,https://www.zomato.com/hyderabad/grand-bawarchi-attapur,Grand Bawarchi,3.5,₹100 for one,"Fast Food, Shawarma, Biryani","Attapur, Hyderabad",0,no,no,no,no
+235,235,https://www.zomato.com/hyderabad/bakers-kitchen-musheerabad,Bakers Kitchen,3.8,₹100 for one,"Chinese, Fast Food","Musheerabad, Hyderabad",0,yes,yes,no,no
+236,236,https://www.zomato.com/hyderabad/fusion-food-corner-1-chandrayanagutta,Fusion Food Corner,4.0,₹100 for one,"Wraps, Fast Food, Chinese, Shake, Beverages","Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+237,237,https://www.zomato.com/hyderabad/mehfill-e-sharwarma-himayath-nagar,Mehfill-E-Sharwarma,3.4,₹150 for one,"Shawarma, Fast Food","Himayath Nagar, Hyderabad",0,no,no,no,no
+238,238,https://www.zomato.com/hyderabad/mirs-grills-n-garlics-meerpet,Mir's Grills N Garlics,3.7,₹150 for one,"Fast Food, Chinese, Pizza, Sandwich, Wraps","Meerpet, Hyderabad",0,yes,yes,no,no
+239,239,https://www.zomato.com/hyderabad/shahenshah-mandi-amberpet,Shahenshah Mandi,4.2,₹150 for one,"North Indian, Seafood","Amberpet, Hyderabad",0,yes,yes,no,yes
+240,240,https://www.zomato.com/hyderabad/shahi-dastarkhwan-lakdikapul,Shahi Dastarkhwan,3.9,₹150 for one,"North Indian, Chinese, Seafood, Kebab, Mughlai, Biryani, Desserts, Beverages","Lakdikapul, Hyderabad",0,yes,yes,no,yes
+241,241,https://www.zomato.com/hyderabad/rachits-krishnatunga-restaurant-dilsukhnagar,Rachit's Krishnatunga Restaurant,4.0,₹150 for one,"North Indian, Chinese, Biryani, South Indian","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+242,242,https://www.zomato.com/hyderabad/milk-shake-factory-begum-bazaar,Milk Shake Factory,3.5,₹150 for one,"Shake, Coffee, Beverages, Burger, Sandwich, Fast Food","Begum Bazaar, Hyderabad",15,yes,yes,no,no
+243,243,https://www.zomato.com/hyderabad/bhagyalakshmi-dhaba-begum-bazaar,Bhagyalakshmi Dhaba,3.9,₹150 for one,"North Indian, Chinese, Biryani, Beverages","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+244,244,https://www.zomato.com/hyderabad/sammis-shawarma-narayanguda,Sammis Shawarma,4.0,₹150 for one,"Fast Food, Shawarma","Narayanguda, Hyderabad",2,yes,yes,no,no
+245,245,https://www.zomato.com/hyderabad/fruitoholic-amberpet,Fruitoholic,4.6,₹150 for one,"Healthy Food, Juices, Beverages","Amberpet, Hyderabad",9,no,no,no,no
+246,246,https://www.zomato.com/hyderabad/al-hamoor-arabian-restaurant-chandrayanagutta,Al - Hamoor Arabian Restaurant,3.8,₹150 for one,"Mandi, Desserts","Chandrayanagutta, Hyderabad",2,yes,yes,no,yes
+247,247,https://www.zomato.com/hyderabad/nazeer-juice-center-charminar,Nazeer Juice Center,4.2,₹150 for one,"Beverages, Juices, Healthy Food","Charminar, Hyderabad",0,yes,yes,no,yes
+248,248,https://www.zomato.com/hyderabad/the-kunafa-station-charminar,The Kunafa Station,3.5,₹150 for one,"Desserts, Lebanese","Charminar, Hyderabad",5,yes,yes,no,yes
+249,249,https://www.zomato.com/hyderabad/sandwich-eatery-1-narayanguda,Sandwich Eatery,3.9,₹150 for one,"Fast Food, Sandwich, Shake, Beverages, Burger, Coffee","Narayanguda, Hyderabad",11,yes,yes,no,yes
+250,250,https://www.zomato.com/hyderabad/sri-balaji-family-dhaba-mehdipatnam,Sri Balaji Family Dhaba,4.0,₹150 for one,"North Indian, Chinese, Biryani","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+251,251,https://www.zomato.com/hyderabad/barracks-grill-chandrayanagutta,Barrack's Grill,4.1,₹150 for one,"BBQ, Wraps, Burger, Fast Food, Lebanese, Mediterranean, Shake, Beverages","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+252,252,https://www.zomato.com/hyderabad/hotel-svm-grand-banjara-hills,Hotel SVM Grand,4.2,₹150 for one,"North Indian, Chinese, Mughlai, Seafood, Street Food, Biryani, Desserts, Beverages","Banjara Hills, Hyderabad",4,yes,no,no,yes
+253,253,https://www.zomato.com/hyderabad/juice-splash-ghansi-bazaar,Juice Splash,4.5,₹150 for one,"Beverages, Juices, Shake","Ghansi Bazaar, Hyderabad",0,no,no,no,no
+254,254,https://www.zomato.com/hyderabad/king-ghouse-restaurant-saroor-nagar,King Ghouse Restaurant,4.2,₹150 for one,"North Indian, Chinese, Mandi, Sichuan, Kebab, Mughlai, Biryani","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+255,255,https://www.zomato.com/hyderabad/natural-juice-cycle-1-falaknuma,Natural Juice Cycle,4.0,₹150 for one,"Juices, Shake, Desserts, Beverages","Falaknuma, Hyderabad",2,yes,yes,no,yes
+256,256,https://www.zomato.com/hyderabad/dosa-express-dilsukhnagar,Dosa Express,4.2,₹150 for one,South Indian,"Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+257,257,https://www.zomato.com/hyderabad/mandi-town-khairatabad,Mandi Town,3.8,₹150 for one,"Mandi, Chinese, North Indian, Arabian, Hyderabadi, Kebab","Khairatabad, Hyderabad",4,yes,yes,no,yes
+258,258,https://www.zomato.com/hyderabad/mughal-restaurant-lakdikapul,Mughal Restaurant,4.1,₹150 for one,"North Indian, Chinese, Biryani, Mughlai, Kebab, Desserts","Lakdikapul, Hyderabad",0,yes,yes,no,yes
+259,259,https://www.zomato.com/hyderabad/makkah-tiffin-centre-charminar,Makkah Tiffin Centre,3.8,₹150 for one,South Indian,"Charminar, Hyderabad",0,yes,yes,no,yes
+260,260,https://www.zomato.com/hyderabad/hotel-ghar-pakwan-malakpet,Hotel Ghar Pakwan,4.2,₹150 for one,"North Indian, Mughlai, Hyderabadi","Malakpet, Hyderabad",0,yes,yes,no,yes
+261,261,https://www.zomato.com/hyderabad/khichdi-express-1-himayath-nagar,Khichdi Express,4.0,₹200 for one,"North Indian, Salad, Beverages","Himayath Nagar, Hyderabad",9,yes,yes,no,no
+262,262,https://www.zomato.com/hyderabad/balapur-bawarchi-restaurant-meerpet,Balapur Bawarchi Restaurant,3.7,₹200 for one,"North Indian, Chinese, Biryani, Mughlai, Seafood","Meerpet, Hyderabad",0,yes,yes,no,yes
+263,263,https://www.zomato.com/hyderabad/burger-nine-attapur,Burger Nine,3.9,₹200 for one,"Burger, Wraps, Fast Food","Attapur, Hyderabad",4,yes,yes,no,yes
+264,264,https://www.zomato.com/hyderabad/astoria-restaurant-lakdikapul,Astoria Restaurant,3.9,₹200 for one,"Hyderabadi, North Indian, Seafood, Chinese, Mughlai, Biryani, Desserts, Beverages","Lakdikapul, Hyderabad",2,yes,yes,no,yes
+265,265,https://www.zomato.com/hyderabad/millet-express-dilsukhnagar,Millet Express,3.9,₹200 for one,"Healthy Food, South Indian, North Indian, Biryani, Beverages","Dilsukhnagar, Hyderabad",6,no,no,no,no
+266,266,https://www.zomato.com/hyderabad/maks-kitchen-1-mehdipatnam,Maks Kitchen,4.2,₹200 for one,"North Indian, Chinese, Mughlai","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+267,267,https://www.zomato.com/hyderabad/al-arabian-wraps-charminar,Al Arabian Wraps,4.3,₹200 for one,"Wraps, Fast Food, Beverages","Charminar, Hyderabad",0,yes,yes,no,no
+268,268,https://www.zomato.com/hyderabad/mandilicious-himayath-nagar,Mandilicious,4.1,₹200 for one,"Arabian, Chinese, North Indian, Mandi","Himayath Nagar, Hyderabad",2,yes,yes,no,yes
+269,269,https://www.zomato.com/hyderabad/vaibhav-tiffins-saroor-nagar,Vaibhav Tiffins,4.0,₹200 for one,South Indian,"Saroor Nagar, Hyderabad",0,no,no,no,no
+270,270,https://www.zomato.com/hyderabad/balaji-mangalam-family-restaurant-rajendra-nagar,Balaji Mangalam Family Restaurant,4.0,₹200 for one,"North Indian, Chinese, Biryani, Beverages","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+271,271,https://www.zomato.com/hyderabad/grills-corner-chandrayanagutta,Grills Corner,3.5,₹200 for one,"Lebanese, Fast Food, Pizza","Chandrayanagutta, Hyderabad",2,yes,yes,no,no
+272,272,https://www.zomato.com/hyderabad/shahi-rasoi-multicuisine-family-restaurant-masab-tank,Shahi Rasoi Multicuisine Family Restaurant,4.0,₹200 for one,"Chinese, North Indian, BBQ, Arabian, Sichuan, Seafood, Desserts, Beverages","Masab Tank, Hyderabad",0,yes,yes,no,yes
+273,273,https://www.zomato.com/hyderabad/roosterx-rtc-x-roads,RoosterX,4.2,₹150 for one,"Shawarma, Sandwich, Burger, Fast Food, BBQ","RTC X roads, Hyderabad",3,yes,yes,no,yes
+274,274,https://www.zomato.com/hyderabad/max-ice-cream-nampally,Max Ice Cream,4.1,₹150 for one,"Ice Cream, Desserts, Pizza","Nampally, Hyderabad",6,yes,yes,no,yes
+275,275,https://www.zomato.com/hyderabad/faasos-signature-wraps-and-rolls-mehdipatnam,Faasos Signature Wraps and Rolls,3.8,₹150 for one,North Indian,"Mehdipatnam, Hyderabad",29,no,no,no,no
+276,276,https://www.zomato.com/hyderabad/the-brooklyn-creamery-healthy-ice-cream-kacheguda,The Brooklyn Creamery - Healthy Ice Cream,3.9,₹150 for one,"Ice Cream, Desserts","Kacheguda, Hyderabad",29,no,no,no,no
+277,277,https://www.zomato.com/hyderabad/street-falafel-3-mehdipatnam,Street Falafel,3.7,₹150 for one,"Lebanese, Biryani, Fast Food","Mehdipatnam, Hyderabad",2,yes,yes,no,yes
+278,278,https://www.zomato.com/hyderabad/arabesq-1-tolichowki,Arabesq,3.8,₹150 for one,"Desserts, Lebanese, Turkish, Hyderabadi, Shake, Burger, Arabian, Beverages","Tolichowki, Hyderabad",0,yes,yes,no,no
+279,279,https://www.zomato.com/hyderabad/dude-restaurant-dilsukhnagar,Dude Restaurant,3.4,₹150 for one,"Chinese, Lebanese, Biryani","Dilsukhnagar, Hyderabad",0,no,no,no,no
+280,280,https://www.zomato.com/hyderabad/snappy-snacks-point-charminar,Snappy Snacks Point,3.5,₹150 for one,"Fast Food, Street Food, Momos","Charminar, Hyderabad",2,no,no,no,no
+281,281,https://www.zomato.com/hyderabad/the-favorite-biryani-and-shawarma-dilsukhnagar,The Favorite Biryani And Shawarma,3.3,₹150 for one,"Biryani, Chinese, Shawarma","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+282,282,https://www.zomato.com/hyderabad/feel-in-saudia-shawarma-malakpet,Feel In Saudia Shawarma,4.2,₹150 for one,Shawarma,"Malakpet, Hyderabad",2,yes,yes,no,yes
+283,283,https://www.zomato.com/hyderabad/akbar-fast-food-2-charminar,Akbar Fast Food,3.6,₹150 for one,"South Indian, North Indian","Charminar Area, Charminar, Hyderabad",23,yes,yes,no,yes
+284,284,https://www.zomato.com/hyderabad/shree-balaji-family-dhaba-attapur,Shree Balaji Family Dhaba,3.6,₹150 for one,"North Indian, Chinese, Rajasthani, Biryani, Ice Cream, Beverages","Attapur, Hyderabad",5,yes,yes,no,yes
+285,285,https://www.zomato.com/hyderabad/spicy-noodle-house-2-nallakunta,Spicy Noodle House,3.7,₹150 for one,"Chinese, Shawarma","Nallakunta, Hyderabad",0,yes,yes,no,no
+286,286,https://www.zomato.com/hyderabad/santosh-premium-dhaba-himayath-nagar,Santosh Premium Dhaba,4.0,₹150 for one,"North Indian, Chinese, Biryani","Himayath Nagar, Hyderabad",2,yes,yes,no,yes
+287,287,https://www.zomato.com/hyderabad/huber-holly-himayath-nagar,Huber & Holly,4.3,₹150 for one,"Ice Cream, Desserts, Pizza, Sandwich, Pasta, Beverages","Himayath Nagar, Hyderabad",5,yes,yes,no,yes
+288,288,https://www.zomato.com/hyderabad/tara-juice-world-malakpet,Tara Juice World,4.2,₹150 for one,"Beverages, Juices, Shake","Malakpet, Hyderabad",0,yes,yes,no,yes
+289,289,https://www.zomato.com/hyderabad/alhamdulillah-hotel-falaknuma,Alhamdulillah Hotel,4.1,₹150 for one,"Hyderabadi, Chinese, Mughlai, Seafood, Biryani","Falaknuma, Hyderabad",4,yes,yes,no,no
+290,290,https://www.zomato.com/hyderabad/coffee-and-more-banjara-hills,Coffee And More,4.2,₹150 for one,"Fast Food, Coffee, Beverages","Banjara Hills, Hyderabad",0,yes,yes,no,no
+291,291,https://www.zomato.com/hyderabad/harleys-fine-baking-banjara-hills,Harley's Fine Baking,4.3,₹150 for one,Bakery,"Banjara Hills, Hyderabad",7,yes,yes,no,yes
+292,292,https://www.zomato.com/hyderabad/lassi-shakes-amberpet,Lassi & Shakes,4.2,₹150 for one,"Beverages, Shake, Desserts, Fast Food","Amberpet, Hyderabad",12,yes,yes,no,yes
+293,293,https://www.zomato.com/hyderabad/gullu-dadas-biryani-abids,Gullu Dadas Biryani,4.0,₹150 for one,"Biryani, North Indian, Kebab, Desserts","Abids, Hyderabad",4,yes,yes,no,yes
+294,294,https://www.zomato.com/hyderabad/abhi-ruchilu-dilsukhnagar,Abhi Ruchilu,3.5,₹150 for one,"Biryani, Chinese","Dilsukhnagar, Hyderabad",0,no,no,no,no
+295,295,https://www.zomato.com/hyderabad/ibaco-saroor-nagar,Ibaco,4.3,₹150 for one,Desserts,"Saroor Nagar, Hyderabad",14,yes,yes,no,yes
+296,296,https://www.zomato.com/hyderabad/aladdin-arabian-family-restaurant-falaknuma,Aladdin Arabian Family Restaurant,3.5,₹150 for one,"Arabian, Mandi, North Indian","Falaknuma, Hyderabad",0,yes,yes,no,yes
+297,297,https://www.zomato.com/hyderabad/safeena-bakery-sweets-charminar,Safeena Bakery & Sweets,4.3,₹100 for one,"Bakery, Fast Food, Street Food, Andhra","Charminar, Hyderabad",0,yes,yes,no,no
+298,298,https://www.zomato.com/hyderabad/eclair-de-cake-himayath-nagar,Eclair De Cake,4.1,₹100 for one,"Bakery, Desserts","Himayath Nagar, Hyderabad",8,no,no,no,no
+299,299,https://www.zomato.com/hyderabad/al-baik-chandrayanagutta,AL - Baik,3.1,₹100 for one,"Sandwich, Burger, Shawarma, Street Food","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+300,300,https://www.zomato.com/hyderabad/chinese-bite-1-attapur,Chinese Bite,3.2,₹100 for one,"Chinese, Momos","Attapur, Hyderabad",2,yes,yes,no,yes
+301,301,https://www.zomato.com/hyderabad/nani-cakes-amberpet,Nani Cakes,4.1,₹100 for one,Bakery,"Amberpet, Hyderabad",0,yes,yes,no,no
+302,302,https://www.zomato.com/hyderabad/zam-zam-arabian-mandi-malakpet,Zam Zam Arabian Mandi,3.5,₹100 for one,"Arabian, Desserts, Beverages","Malakpet, Hyderabad",2,yes,yes,no,yes
+303,303,https://www.zomato.com/hyderabad/the-exotic-shawarma-himayath-nagar,The Exotic Shawarma,4.0,₹100 for one,"Fast Food, Beverages, Shake, Pizza, Momos, Shawarma","Himayath Nagar, Hyderabad",5,no,no,no,no
+304,304,https://www.zomato.com/hyderabad/dumont-creamery-himayath-nagar,Dumont Creamery,4.2,₹100 for one,"Desserts, Ice Cream, Shake","Himayath Nagar, Hyderabad",11,yes,yes,no,yes
+305,305,https://www.zomato.com/hyderabad/govind-dosa-himayath-nagar,Govind Dosa,4.0,₹100 for one,South Indian,"Himayath Nagar, Hyderabad",3,yes,yes,no,yes
+306,306,https://www.zomato.com/hyderabad/bismillah-hotel-1-falaknuma,Bismillah Hotel,4.2,₹100 for one,"Hyderabadi, Mughlai, Biryani","Falaknuma, Hyderabad",3,yes,yes,no,yes
+307,307,https://www.zomato.com/hyderabad/kadir-nurman-bonafide-shawarma-banjara-hills,Kadir Nurman - Bonafide Shawarma,4.2,₹100 for one,Shawarma,"Banjara Hills, Hyderabad",6,yes,yes,no,no
+308,308,https://www.zomato.com/hyderabad/babai-grand-hotel-attapur,Babai Grand Hotel,3.5,₹100 for one,"South Indian, Chinese, Fast Food, Biryani","Attapur, Hyderabad",0,yes,yes,no,yes
+309,309,https://www.zomato.com/hyderabad/tcs-the-cake-story-himayath-nagar,TCS The Cake Story,3.8,₹100 for one,Bakery,"Himayath Nagar, Hyderabad",0,yes,yes,no,no
+310,310,https://www.zomato.com/hyderabad/the-wrap-corner-falaknuma,The Wrap Corner,4.3,₹100 for one,"Fast Food, Wraps","Falaknuma, Hyderabad",0,yes,yes,no,no
+311,311,https://www.zomato.com/hyderabad/continue-night-way-1-falaknuma,Continue Night Way,3.8,₹100 for one,North Indian,"Falaknuma, Hyderabad",0,no,no,no,no
+312,312,https://www.zomato.com/hyderabad/starboy-pizza-shakes-attapur,Starboy Pizza & Shakes,3.2,₹100 for one,"Pizza, Italian, Desserts, Beverages","Attapur, Hyderabad",6,no,no,no,no
+313,313,https://www.zomato.com/hyderabad/sattipandu-biryani-saroor-nagar,Sattipandu Biryani,3.5,₹100 for one,Biryani,"Saroor Nagar, Hyderabad",0,no,no,no,no
+314,314,https://www.zomato.com/hyderabad/madhur-sweets-masab-tank,Madhur Sweets,4.5,₹100 for one,"Mithai, Desserts","Masab Tank, Hyderabad",0,yes,yes,no,no
+315,315,https://www.zomato.com/hyderabad/panda-xpress-banjara-hills,Panda Xpress,3.5,₹100 for one,"South Indian, North Indian, Chinese, Sichuan, Mughlai, Kebab, Biryani","Banjara Hills, Hyderabad",2,no,no,no,no
+316,316,https://www.zomato.com/hyderabad/balaji-santosh-family-dhaba-saroor-nagar,Balaji Santosh Family Dhaba,3.5,₹100 for one,"North Indian, Chinese","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+317,317,https://www.zomato.com/hyderabad/sri-gayathripuram-food-court-l-b-nagar,Sri Gayathripuram Food Court,4.1,₹100 for one,"Chinese, Biryani, North Indian, Seafood, Sichuan","L B Nagar, Hyderabad",0,no,no,no,no
+318,318,https://www.zomato.com/hyderabad/gokul-dosa-ghar-kothapet,Gokul Dosa Ghar,3.9,₹100 for one,"South Indian, Chinese","Kothapet, Hyderabad",0,yes,yes,no,yes
+319,319,https://www.zomato.com/hyderabad/qvinch-1-attapur,Qvinch,3.7,₹100 for one,"Fast Food, Juices, Shake, Beverages, Salad","Attapur, Hyderabad",0,yes,yes,no,no
+320,320,https://www.zomato.com/hyderabad/gourmet-ice-cream-cakes-by-baskin-robbins-malakpet,Gourmet Ice Cream Cakes by Baskin Robbins,3.5,₹100 for one,"Desserts, Ice Cream, Bakery","Malakpet, Hyderabad",12,no,no,no,no
+321,321,https://www.zomato.com/hyderabad/turkish-mehdipatnam,Turkish,3.9,₹100 for one,"Chinese, North Indian, Shawarma","Mehdipatnam, Hyderabad",0,yes,yes,no,no
+322,322,https://www.zomato.com/hyderabad/barbeque-nation-abids,Barbeque Nation,3.9,₹100 for one,"BBQ, North Indian, Biryani, Kebab, Continental, Chinese, Desserts, Beverages","Abids, Hyderabad",12,yes,yes,no,yes
+323,323,https://www.zomato.com/hyderabad/papajis-kitchen-amberpet,Papaji's Kitchen,3.8,₹100 for one,"North Indian, Biryani, Kebab","Amberpet, Hyderabad",0,yes,yes,no,no
+324,324,https://www.zomato.com/hyderabad/sri-narsing-bhelpuri-juice-centre-abids,Sri Narsing Bhelpuri & Juice Centre,3.9,₹100 for one,"North Indian, Fast Food, Street Food, Chinese, Beverages, Pizza, Momos","Abids, Hyderabad",4,yes,yes,no,yes
+325,325,https://www.zomato.com/hyderabad/mehboob-alams-restaurant-falaknuma,Mehboob Alam's Restaurant,New,₹100 for one,"Andhra, North Indian, Mughlai, Biryani, Chinese, Seafood","Falaknuma, Hyderabad",0,yes,yes,no,no
+326,326,https://www.zomato.com/hyderabad/kings-mezbaan-restaurant-attapur,Kings Mezbaan Restaurant,3.7,₹100 for one,"Mughlai, North Indian, Chinese, Biryani","Attapur, Hyderabad",0,yes,yes,no,yes
+327,327,https://www.zomato.com/hyderabad/ubq-by-barbeque-nation-banjara-hills,UBQ by Barbeque Nation,3.6,₹100 for one,"BBQ, North Indian, Chinese, Street Food, Kebab, Beverages, Desserts","Banjara Hills, Hyderabad",10,no,no,no,no
+328,328,https://www.zomato.com/hyderabad/the-royal-palace-malakpet,The Royal Palace,4.0,₹100 for one,"North Indian, Chinese, Mughlai, Biryani","Malakpet, Hyderabad",0,yes,yes,no,yes
+329,329,https://www.zomato.com/hyderabad/house-of-wraps-1-nampally,House Of Wraps,4.2,₹100 for one,"Fast Food, Ice Cream, Desserts, Wraps, Pizza, Beverages, Shake","Nampally, Hyderabad",0,yes,yes,no,yes
+330,330,https://www.zomato.com/hyderabad/spicy-bucket-biryani-saroor-nagar,Spicy Bucket Biryani,3.6,₹100 for one,"Biryani, South Indian","Saroor Nagar, Hyderabad",0,no,no,no,no
+331,331,https://www.zomato.com/hyderabad/a-balaji-santosh-dhaba-langer-houz,A Balaji Santosh Dhaba,3.9,₹100 for one,"North Indian, Biryani, Chinese","Langer Houz, Hyderabad",0,yes,yes,no,yes
+332,332,https://www.zomato.com/hyderabad/1989-milkshakes-1-dilsukhnagar,1989 Milkshakes,4.2,₹100 for one,"Shake, Coffee, Beverages, Fast Food, Pizza, Pasta, Desserts","Dilsukhnagar, Hyderabad",4,yes,yes,no,yes
+333,333,https://www.zomato.com/hyderabad/as-bakers-saroor-nagar,As Bakers,4.0,₹150 for one,"Bakery, Desserts","Saroor Nagar, Hyderabad",0,yes,yes,no,no
+334,334,https://www.zomato.com/hyderabad/angaara-himayath-nagar,Angaara,3.9,₹150 for one,"Chinese, North Indian, Seafood, Sichuan","Himayath Nagar, Hyderabad",0,yes,yes,no,yes
+335,335,https://www.zomato.com/hyderabad/smoke-sizzle-narayanguda,Smoke & Sizzle,3.9,₹150 for one,"Chinese, Lebanese, Wraps, Kebab, North Indian, Biryani","Narayanguda, Hyderabad",0,yes,yes,no,yes
+336,336,https://www.zomato.com/hyderabad/mubarak-darbar-attapur,Mubarak Darbar,4.2,₹150 for one,"Mughlai, Hyderabadi, Chinese, Biryani, Fast Food, Kebab, Roast Chicken","Attapur, Hyderabad",0,yes,yes,no,yes
+337,337,https://www.zomato.com/hyderabad/vinayak-tiffins-nallakunta,Vinayak Tiffins,3.9,₹150 for one,South Indian,"Nallakunta, Hyderabad",0,yes,yes,no,yes
+338,338,https://www.zomato.com/hyderabad/shubh-laxmi-dhaba-begum-bazaar,Shubh Laxmi Dhaba,4.0,₹150 for one,"North Indian, Chinese, Biryani, Beverages","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+339,339,https://www.zomato.com/hyderabad/deccan-chef-nampally,Deccan Chef,4.2,₹150 for one,"Biryani, Chinese, North Indian, Hyderabadi","Nampally, Hyderabad",0,yes,yes,no,no
+340,340,https://www.zomato.com/hyderabad/amrit-juice-centre-rtc-x-roads,Amrit Juice Centre,3.5,₹150 for one,"Beverages, Juices, Shake","RTC X roads, Hyderabad",0,yes,yes,no,no
+341,341,https://www.zomato.com/hyderabad/sauced-up-masab-tank,Sauced Up,4.4,₹150 for one,"Burger, Fast Food","Masab Tank, Hyderabad",0,yes,yes,no,yes
+342,342,https://www.zomato.com/hyderabad/lalaji-dilli-wale-kothapet,Lalaji Dilli Wale,3.2,₹150 for one,"Chinese, North Indian, Beverages","Kothapet, Hyderabad",0,no,no,no,no
+343,343,https://www.zomato.com/hyderabad/istanbul-doner-chandrayanagutta,Istanbul Doner,3.3,₹150 for one,"Shawarma, Fast Food","Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+344,344,https://www.zomato.com/hyderabad/al-aqwan-bait-al-mandi-chandrayanagutta,Al Aqwan Bait Al Mandi,4.1,₹150 for one,"Arabian, Kebab, Seafood, Mandi, Desserts","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+345,345,https://www.zomato.com/hyderabad/old-mumbai-ice-cream-malakpet,Old Mumbai Ice Cream,3.8,₹150 for one,"Ice Cream, Desserts, Shake, Beverages","Malakpet, Hyderabad",7,yes,yes,no,yes
+346,346,https://www.zomato.com/hyderabad/mandi@37-arabian-restaurant-chandrayanagutta,Mandi@37 Arabian Restaurant,3.8,₹150 for one,"North Indian, Mandi, Mughlai, Kebab, Seafood","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+347,347,https://www.zomato.com/hyderabad/sri-santosh-dhaba-1-malakpet,Sri Santosh Dhaba,3.8,₹150 for one,"North Indian, Mughlai, Biryani, Chinese","Malakpet, Hyderabad",3,yes,yes,no,yes
+348,348,https://www.zomato.com/hyderabad/tea-time-and-food-club-malakpet,Tea Time And Food Club,4.0,₹150 for one,"Shawarma, Burger, Pizza, Wraps, Fast Food, Street Food, Shake, Beverages","Malakpet, Hyderabad",0,yes,yes,no,yes
+349,349,https://www.zomato.com/hyderabad/65-corner-fast-food-lakdikapul,65 Corner Fast Food,4.1,₹150 for one,Chinese,"Lakdikapul, Hyderabad",0,yes,yes,no,no
+350,350,https://www.zomato.com/hyderabad/fruitfull-himayath-nagar,Fruitfull,4.1,₹150 for one,"Healthy Food, Desserts","Himayath Nagar, Hyderabad",3,no,no,no,no
+351,351,https://www.zomato.com/hyderabad/rolls-bowls-by-feedx-khairatabad,Rolls & Bowls By Feedx,3.3,₹150 for one,"North Indian, Rolls, Chinese, Fast Food, Beverages","Khairatabad, Hyderabad",6,yes,yes,no,no
+352,352,https://www.zomato.com/hyderabad/aromas-of-golconda-2-rtc-x-roads,Aroma's Of Golconda,4.2,₹150 for one,"Biryani, Chinese, Seafood","RTC X roads, Hyderabad",0,no,no,no,no
+353,353,https://www.zomato.com/hyderabad/ymga-food-studio-charminar,YMGA Food Studio,3.7,₹150 for one,"Burger, Sandwich, Pizza, Arabian, Wraps, Mughlai, Mandi, Beverages","Charminar, Hyderabad",2,yes,yes,no,yes
+354,354,https://www.zomato.com/hyderabad/sh-shawarma-amberpet,SH Shawarma,4.1,₹150 for one,"Momos, Burger, Wraps, Shawarma, Fast Food","Amberpet, Hyderabad",2,yes,yes,no,no
+355,355,https://www.zomato.com/hyderabad/the-masala-house-banjara-hills,The Masala House,3.6,₹150 for one,"North Indian, South Indian","Banjara Hills, Hyderabad",0,no,no,no,no
+356,356,https://www.zomato.com/hyderabad/new-york-waffles-dinges-attapur,New York Waffles & Dinges,3.5,₹150 for one,"Waffle, Desserts, Beverages, Bakery, Ice Cream","Attapur, Hyderabad",6,no,no,no,no
+357,357,https://www.zomato.com/hyderabad/sanjos-donuts-dilsukhnagar,Sanjos Donuts,4.1,₹150 for one,Desserts,"Dilsukhnagar, Hyderabad",11,yes,yes,no,no
+358,358,https://www.zomato.com/hyderabad/gulzar-sweets-charminar,Gulzar Sweets,4.4,₹150 for one,"Mithai, Street Food","Charminar, Hyderabad",0,yes,yes,no,no
+359,359,https://www.zomato.com/hyderabad/arabian-food-court-falaknuma,Arabian Food Court,4.0,₹150 for one,"Rolls, Burger, Fast Food","Falaknuma, Hyderabad",0,yes,yes,no,no
+360,360,https://www.zomato.com/hyderabad/zafars-fine-dine-tolichowki,Zafar's Fine Dine,4.0,₹150 for one,"Arabian, North Indian, Mughlai, Chinese, Mandi, Sichuan, Desserts","Tolichowki, Hyderabad",0,yes,yes,no,yes
+361,361,https://www.zomato.com/hyderabad/pakka-local-banjara-hills,Pakka Local,4.0,₹150 for one,"Andhra, Kebab, Chinese, North Indian, Biryani, Chettinad, Mughlai","Banjara Hills, Hyderabad",4,yes,yes,no,yes
+362,362,https://www.zomato.com/hyderabad/sri-santhosh-family-dhaba-amberpet,Sri Santhosh Family Dhaba,4.1,₹150 for one,"North Indian, Chinese, Biryani, Desserts","Amberpet, Hyderabad",0,yes,yes,no,yes
+363,363,https://www.zomato.com/hyderabad/janata-drive-in-falaknuma,Janata Drive In,3.7,₹150 for one,"North Indian, Chinese, Mandi, Italian, Burger, Shawarma, Desserts, Beverages","Falaknuma, Hyderabad",0,yes,yes,no,yes
+364,364,https://www.zomato.com/hyderabad/pista-kashmiri-tea-restaurant-charminar,Pista Kashmiri Tea Restaurant,3.8,₹150 for one,"Tea, Coffee, Beverages","Charminar, Hyderabad",0,yes,yes,no,no
+365,365,https://www.zomato.com/hyderabad/cyan-cafe-malakpet,Cyan Cafe,4.1,₹150 for one,"Sandwich, Pizza, Burger, Fast Food","Malakpet, Hyderabad",0,no,no,no,no
+366,366,https://www.zomato.com/hyderabad/arabian-shawarma-burger-nampally,Arabian Shawarma & Burger,3.8,₹150 for one,"Burger, Fast Food, Beverages, Desserts, Shawarma","Nampally, Hyderabad",0,yes,yes,no,no
+367,367,https://www.zomato.com/hyderabad/shawarma-house-1-chandrayanagutta,Shawarma House,4.0,₹150 for one,"Fast Food, Shawarma","Chandrayanagutta, Hyderabad",0,no,no,no,no
+368,368,https://www.zomato.com/hyderabad/santosh-family-dhaba-attapur,Santosh Family Dhaba,4.1,₹150 for one,"Chinese, Biryani, North Indian","Attapur, Hyderabad",0,no,no,no,no
+369,369,https://www.zomato.com/hyderabad/mi-tiffin-center-chinese-fast-food-saroor-nagar,MI Tiffin Center & Chinese Fast Food,New,₹100 for one,"Chinese, Sichuan","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+370,370,https://www.zomato.com/hyderabad/new-chotus-ghansi-bazaar,New Chotu's,3.5,₹100 for one,South Indian,"Ghansi Bazaar, Hyderabad",0,yes,yes,no,no
+371,371,https://www.zomato.com/hyderabad/froops-1-begum-bazaar,Froops,4.0,₹100 for one,Ice Cream,"Begum Bazaar, Hyderabad",12,yes,yes,no,no
+372,372,https://www.zomato.com/hyderabad/wholesale-cakes-1-l-b-nagar,Wholesale Cakes,3.8,₹100 for one,"Bakery, Shawarma, Fast Food","L B Nagar, Hyderabad",0,yes,yes,no,yes
+373,373,https://www.zomato.com/hyderabad/gianis-ice-cream-shakes-sundaes-himayath-nagar,"Gianis - Ice Cream, Shakes & Sundaes",4.0,₹100 for one,"Ice Cream, Desserts","Himayath Nagar, Hyderabad",7,yes,yes,no,yes
+374,374,https://www.zomato.com/hyderabad/ruby-restaurant-chandrayanagutta,Ruby Restaurant,4.1,₹100 for one,"Chinese, Arabian, Mughlai, Biryani, Beverages","Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+375,375,https://www.zomato.com/hyderabad/pvr-café-malakpet,PVR Café,4.1,₹100 for one,"Fast Food, Momos, Beverages","The Next Galleria Mall, Malakpet, Hyderabad",8,no,no,no,no
+376,376,https://www.zomato.com/hyderabad/the-wrap-house-malakpet,The Wrap House,4.1,₹100 for one,"Wraps, Burger, Lebanese, Fast Food","Malakpet, Hyderabad",0,yes,yes,no,yes
+377,377,https://www.zomato.com/hyderabad/nikhils-hot-spice-chinese-fast-food-kacheguda,Nikhil's Hot & Spice Chinese Fast Food,4.2,₹100 for one,"Chinese, Sichuan, Shawarma","Kacheguda, Hyderabad",0,yes,yes,no,yes
+378,378,https://www.zomato.com/hyderabad/new-ali-cafe-1-charminar,New Ali Cafe,4.0,₹100 for one,"Hyderabadi, Biryani","Charminar, Hyderabad",0,no,no,no,no
+379,379,https://www.zomato.com/hyderabad/ohris-eatmor-basheer-bagh,Ohri's Eatmor,4.1,₹100 for one,"Fast Food, North Indian, Sandwich, Italian, Pizza, Ice Cream, Desserts, Beverages","Basheer Bagh, Hyderabad",4,yes,yes,no,yes
+380,380,https://www.zomato.com/hyderabad/seeta-juice-center-himayath-nagar,Seeta Juice Center,3.8,₹100 for one,"Ice Cream, Juices, Shake, Healthy Food","Himayath Nagar, Hyderabad",0,yes,yes,no,yes
+381,381,https://www.zomato.com/hyderabad/ali-babas-mandi-saroor-nagar,Ali Baba’s Mandi,3.7,₹400 for one,"Arabian, Mandi, Mughlai, Kebab, Desserts","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+382,382,https://www.zomato.com/hyderabad/zaffran-mataam-alarabi-falaknuma,Zaffran Mataam Alarabi,4.1,₹400 for one,"Arabian, Biryani, Mandi, Mughlai, Desserts","Falaknuma, Hyderabad",0,yes,yes,no,yes
+383,383,https://www.zomato.com/hyderabad/sri-vathsala-urban-mandi-family-restaurant-saroor-nagar,Sri Vathsala Urban Mandi Family Restaurant,3.7,₹400 for one,"South Indian, North Indian, Mandi, Chinese, Seafood, Biryani, Mughlai, Kebab","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+384,384,https://www.zomato.com/hyderabad/kouzina-kafe-the-food-court-dilsukhnagar,Kouzina Kafe - The Food Court,3.8,₹400 for one,"Fast Food, Burger, Momos, Rolls, Desserts, Bakery, Shake","Dilsukhnagar, Hyderabad",11,no,no,no,no
+385,385,https://www.zomato.com/hyderabad/swap-banjara-hills,Swap,4.0,₹400 for one,"Healthy Food, Salad, North Indian, Pasta, Sandwich","Banjara Hills, Hyderabad",3,no,no,no,no
+386,386,https://www.zomato.com/hyderabad/vantalakka-tiffins-saroor-nagar,Vantalakka Tiffins,4.1,₹400 for one,"South Indian, Street Food","Saroor Nagar, Hyderabad",0,no,no,no,no
+387,387,https://www.zomato.com/hyderabad/lakshmi-restaurant-dilsukhnagar,Lakshmi Restaurant,3.3,₹400 for one,"Biryani, Chinese","Dilsukhnagar, Hyderabad",0,no,no,no,no
+388,388,https://www.zomato.com/hyderabad/imran-restaurant-falaknuma,Imran Restaurant,4.1,₹400 for one,"Chinese, North Indian, Fast Food, Biryani, Kebab","Falaknuma, Hyderabad",0,yes,yes,no,yes
+389,389,https://www.zomato.com/hyderabad/sharmaji-pav-bhaji-centre-abids,Sharmaji Pav Bhaji Centre,4.2,₹400 for one,"North Indian, Chinese","Abids, Hyderabad",0,yes,yes,no,no
+390,390,https://www.zomato.com/hyderabad/zaheer-juice-center-malakpet,Zaheer Juice Center,4.5,₹400 for one,"Juices, Beverages, Shake, Desserts, Salad","Malakpet, Hyderabad",0,yes,yes,no,no
+391,391,https://www.zomato.com/hyderabad/oh-my-shawarma-padmarao-nagar-secunderabad,Oh My Shawarma,3.7,₹400 for one,"Chinese, Shawarma, North Indian, Sandwich","Padmarao Nagar, Secunderabad",2,yes,yes,no,yes
+392,392,https://www.zomato.com/hyderabad/dine-hill-masab-tank,Dine Hill,3.9,₹400 for one,"North Indian, Chinese","Masab Tank, Hyderabad",0,yes,yes,no,yes
+393,393,https://www.zomato.com/hyderabad/al-hashmi-arabian-shawarma-fast-food-charminar,Al Hashmi Arabian Shawarma & Fast Food,4.0,₹100 for one,"Fast Food, Shawarma","Charminar, Hyderabad",0,yes,yes,no,yes
+394,394,https://www.zomato.com/hyderabad/agarwals-family-dhaba-himayath-nagar,Agarwal's Family Dhaba,3.6,₹100 for one,"North Indian, Chinese, Biryani","Himayath Nagar, Hyderabad",2,yes,yes,no,yes
+395,395,https://www.zomato.com/hyderabad/archana-multi-foods-himayath-nagar,Archana Multi Foods,4.1,₹100 for one,"South Indian, Chinese, North Indian, Sandwich","Himayath Nagar, Hyderabad",0,no,no,no,no
+396,396,https://www.zomato.com/hyderabad/master-bucket-biryani-himayath-nagar,Master Bucket Biryani,4.0,₹100 for one,Biryani,"Himayath Nagar, Hyderabad",2,yes,yes,no,no
+397,397,https://www.zomato.com/hyderabad/99-pancakes-himayath-nagar,99 Pancakes,3.7,₹100 for one,"Pancake, Waffle, Desserts, Fast Food, Shake, Beverages","Himayath Nagar, Hyderabad",4,yes,yes,no,yes
+398,398,https://www.zomato.com/hyderabad/o-cakes-malakpet,O-Cakes,3.9,₹100 for one,"Bakery, Desserts, Fast Food","Malakpet, Hyderabad",4,yes,yes,no,no
+399,399,https://www.zomato.com/hyderabad/maharajas-biryani-attapur,Maharajas Biryani,New,₹100 for one,"Biryani, Chinese, Kebab, North Indian, Salad, Mughlai, Seafood","Attapur, Hyderabad",0,no,no,no,no
+400,400,https://www.zomato.com/hyderabad/vamshis-noodles-house-1-nallakunta,Vamshi's Noodles House,4.1,₹100 for one,Chinese,"Nallakunta, Hyderabad",0,yes,yes,no,no
+401,401,https://www.zomato.com/hyderabad/blah-blah-resto-bake-dilsukhnagar,Blah Blah Resto Bake,3.5,₹100 for one,"Chinese, North Indian, Biryani, Beverages, Pizza, Seafood, Sandwich, Burger","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+402,402,https://www.zomato.com/hyderabad/kafe-chai-nashta-1-charminar,Kafe Chai Nashta,4.1,₹100 for one,"South Indian, Street Food, Desserts","Charminar, Hyderabad",0,yes,yes,no,yes
+403,403,https://www.zomato.com/hyderabad/shawarmaz-lakdikapul,Shawarma'z,3.9,₹100 for one,Shawarma,"Lakdikapul, Hyderabad",0,no,no,no,no
+404,404,https://www.zomato.com/hyderabad/the-snack-hack-chandrayanagutta,The Snack Hack,3.9,₹100 for one,"Hyderabadi, Sandwich, Pizza, Burger, Wraps, Mexican, Fast Food","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+405,405,https://www.zomato.com/hyderabad/safa-matam-al-mandi-malakpet,Safa Matam Al Mandi,4.0,₹200 for one,"Arabian, Mandi","Malakpet, Hyderabad",0,yes,yes,no,yes
+406,406,https://www.zomato.com/hyderabad/noto-healthy-ice-cream-basheer-bagh,NOTO - Healthy Ice Cream,4.0,₹200 for one,Ice Cream,"Basheer Bagh, Hyderabad",5,no,no,no,no
+407,407,https://www.zomato.com/hyderabad/yaba-chinese-fast-food-falaknuma,Yaba Chinese Fast Food,4.2,₹200 for one,Chinese,"Falaknuma, Hyderabad",0,yes,yes,no,yes
+408,408,https://www.zomato.com/hyderabad/mughlai-dastarkhwan-multi-cuisine-restaurant-1-abids,Mughlai Dastarkhwan Multi Cuisine Restaurant,3.3,₹200 for one,"Chinese, North Indian, Hyderabadi, Seafood, Mughlai, Biryani, Street Food, Fast Food","Abids, Hyderabad",0,yes,yes,no,yes
+409,409,https://www.zomato.com/hyderabad/big-cheese-cafe-rajendra-nagar,Big Cheese Cafe,3.8,₹200 for one,"Pizza, Burger, Sandwich, Shawarma, Fast Food, Street Food, Shake, Beverages","Rajendra Nagar, Hyderabad",3,yes,yes,no,yes
+410,410,https://www.zomato.com/hyderabad/golden-zaiqa-shawarma-mehdipatnam,Golden Zaiqa Shawarma,3.4,₹200 for one,Shawarma,"Mehdipatnam, Hyderabad",0,no,no,no,no
+411,411,https://www.zomato.com/hyderabad/yuva-fast-food-court-ramanthapur,Yuva Fast Food Court,3.9,₹200 for one,"North Indian, Chinese, Biryani","Ramanthapur, Hyderabad",0,yes,yes,no,no
+412,412,https://www.zomato.com/hyderabad/muddapappu-avakai-com-himayath-nagar,Muddapappu Avakai.com,3.8,₹200 for one,South Indian,"Himayath Nagar, Hyderabad",5,no,no,no,no
+413,413,https://www.zomato.com/hyderabad/mandi@36-banjara-hills,Mandi@36,4.1,₹200 for one,"Arabian, Mandi, Fast Food, Desserts, Beverages","Banjara Hills, Hyderabad",2,yes,yes,no,yes
+414,414,https://www.zomato.com/hyderabad/ice-and-spice-tolichowki,Ice And Spice,4.1,₹200 for one,"Fast Food, Lebanese, Desserts","Tolichowki, Hyderabad",0,yes,yes,no,yes
+415,415,https://www.zomato.com/hyderabad/burger-it-up-dilsukhnagar,Burger It Up,4.2,₹200 for one,"Burger, American, Fast Food, Desserts, Shake, Beverages","Dilsukhnagar, Hyderabad",11,no,no,no,no
+416,416,https://www.zomato.com/hyderabad/special-cakes-meerpet,Special Cakes,3.9,₹200 for one,"Bakery, Desserts","Meerpet, Hyderabad",0,yes,yes,no,yes
+417,417,https://www.zomato.com/hyderabad/sri-ruchi-pulaos-dilsukhnagar,Sri Ruchi Pulao's,4.0,₹150 for one,"Andhra, North Indian, Biryani, Chinese","Dilsukhnagar, Hyderabad",0,yes,yes,no,no
+418,418,https://www.zomato.com/hyderabad/balaji-dhaba-abids,Balaji Dhaba,3.9,₹150 for one,"North Indian, Chinese, Biryani","Abids, Hyderabad",0,no,no,no,no
+419,419,https://www.zomato.com/hyderabad/a-m-tiffin-centre-1-narayanguda,A M Tiffin Centre,4.0,₹150 for one,South Indian,"Narayanguda, Hyderabad",0,yes,yes,no,yes
+420,420,https://www.zomato.com/hyderabad/saleem-ki-haleem-by-hyderabad-spice-masab-tank,Saleem Ki Haleem By Hyderabad Spice,4.2,₹150 for one,"Arabian, Biryani, Mughlai","Masab Tank, Hyderabad",0,yes,yes,no,yes
+421,421,https://www.zomato.com/hyderabad/khichdi-central-1-abids,Khichdi Central,3.6,₹150 for one,"Healthy Food, North Indian, Pasta, Beverages","Abids, Hyderabad",9,no,no,no,no
+422,422,https://www.zomato.com/hyderabad/klip2deal-homefood-malakpet,Klip2deal Homefood,3.8,₹150 for one,"North Indian, Rolls","Malakpet, Hyderabad",0,yes,yes,no,no
+423,423,https://www.zomato.com/hyderabad/pista-house-mandi-attapur,Pista House Mandi,4.3,₹150 for one,"Biryani, North Indian","Attapur, Hyderabad",2,yes,yes,no,yes
+424,424,https://www.zomato.com/hyderabad/new-mandi-house-l-b-nagar,New Mandi House,4.1,₹150 for one,Mandi,"L B Nagar, Hyderabad",0,yes,yes,no,yes
+425,425,https://www.zomato.com/hyderabad/oye-pizza-abids,Oye Pizza,3.8,₹150 for one,"Pizza, Fast Food, Street Food, Shake, Beverages","Abids, Hyderabad",2,yes,yes,no,yes
+426,426,https://www.zomato.com/hyderabad/sai-kailash-dhaba-attapur,Sai Kailash Dhaba,3.9,₹150 for one,"Chinese, North Indian, Biryani, Beverages","Attapur, Hyderabad",0,yes,yes,no,yes
+427,427,https://www.zomato.com/hyderabad/great-food-company-abids,Great Food Company,-,₹150 for one,North Indian,"Abids, Hyderabad",7,no,no,no,no
+428,428,https://www.zomato.com/hyderabad/ubq-by-barbeque-nation-abids,UBQ by Barbeque Nation,3.9,₹150 for one,"BBQ, North Indian, Chinese, Street Food, Kebab, Beverages, Desserts","Abids, Hyderabad",2,yes,yes,no,yes
+429,429,https://www.zomato.com/hyderabad/skypark-cafe-1-banjara-hills,Skypark Cafe,3.8,₹350 for one,"Cafe, Chinese, Continental","Banjara Hills, Hyderabad",0,yes,yes,no,yes
+430,430,https://www.zomato.com/hyderabad/waffle-studio-himayath-nagar,Waffle Studio,3.7,₹350 for one,"Waffle, Pancake, Shake","Himayath Nagar, Hyderabad",6,no,no,no,no
+431,431,https://www.zomato.com/hyderabad/slay-coffee-malakpet,SLAY Coffee,3.7,₹350 for one,"Cafe, Coffee, Beverages, Desserts, Bakery, Sandwich, Shake","Malakpet, Hyderabad",29,no,no,no,no
+432,432,https://www.zomato.com/hyderabad/pachadlu-vs-kaaralu-himayath-nagar,Pachadlu Vs Kaaralu,3.7,₹350 for one,Andhra,"Himayath Nagar, Hyderabad",5,no,no,no,no
+433,433,https://www.zomato.com/hyderabad/chai-toh-banti-hai-himayath-nagar,Chai Toh Banti hai,3.3,₹350 for one,"Street Food, Beverages, Tea","Himayath Nagar, Hyderabad",4,no,no,no,no
+434,434,https://www.zomato.com/hyderabad/ankara-shawarma-sandwiches-chandrayanagutta,Ankara Shawarma & Sandwiches,4.3,₹350 for one,"Shawarma, Fast Food","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+435,435,https://www.zomato.com/hyderabad/indiana-burgers-dilsukhnagar,Indiana Burgers,3.3,₹350 for one,"Burger, Fast Food, Rolls, Beverages, Desserts, Shake","Dilsukhnagar, Hyderabad",12,no,no,no,no
+436,436,https://www.zomato.com/hyderabad/fruitfull-dilsukhnagar,Fruitfull,3.9,₹350 for one,Healthy Food,"Dilsukhnagar, Hyderabad",2,no,no,no,no
+437,437,https://www.zomato.com/hyderabad/the-biryani-dudes-multi-cuisine-restaurant-falaknuma,The Biryani Dudes Multi Cuisine Restaurant,-,₹350 for one,"Hyderabadi, Mandi, North Indian, Mughlai, Chinese, Seafood, Kebab, Biryani","Falaknuma, Hyderabad",0,yes,yes,no,yes
+438,438,https://www.zomato.com/hyderabad/garden-street-kitchen-saroor-nagar,Garden Street Kitchen,3.9,₹350 for one,"North Indian, Chinese, Biryani, Beverages","Saroor Nagar, Hyderabad",0,yes,yes,no,no
+439,439,https://www.zomato.com/hyderabad/the-dessert-zone-dilsukhnagar,The Dessert Zone,3.8,₹350 for one,"Desserts, Shake, Ice Cream, Bakery, Beverages","Dilsukhnagar, Hyderabad",11,no,no,no,no
+440,440,https://www.zomato.com/hyderabad/mmk-kitchens-2-dilsukhnagar,MMK Kitchen's,3.9,₹350 for one,"South Indian, Shawarma, Chinese, Biryani","Dilsukhnagar, Hyderabad",0,no,no,no,no
+441,441,https://www.zomato.com/hyderabad/abood-mandi-chandrayanagutta,Abood Mandi,4.2,₹200 for one,"Arabian, Hyderabadi","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+442,442,https://www.zomato.com/hyderabad/juice-world-1-saroor-nagar,Juice World,4.2,₹200 for one,"Pizza, Fast Food, Street Food, Healthy Food, Juices, Shake, Beverages, Desserts","Saroor Nagar, Hyderabad",2,yes,yes,no,yes
+443,443,https://www.zomato.com/hyderabad/mahalaxmi-tiffin-centre-nampally,Mahalaxmi Tiffin Centre,4.0,₹200 for one,South Indian,"Nampally, Hyderabad",6,yes,yes,no,yes
+444,444,https://www.zomato.com/hyderabad/just-parantha-banjara-hills,Just Parantha,4.3,₹200 for one,North Indian,"Banjara Hills, Hyderabad",0,yes,yes,no,yes
+445,445,https://www.zomato.com/hyderabad/mehfil-e-biryani-somajiguda,Mehfil E biryani,New,₹200 for one,"Biryani, Hyderabadi","Somajiguda, Hyderabad",0,no,no,no,no
+446,446,https://www.zomato.com/hyderabad/wow-chicken-by-wow-momo-boiguda-secunderabad,WOW! Chicken by WOW! Momo,3.8,₹200 for one,"American, Fast Food, Burger, Beverages","Boiguda, Secunderabad",5,yes,yes,no,no
+447,447,https://www.zomato.com/hyderabad/angaara-kababs-on-charcoal-attapur,Angaara Kababs On Charcoal,3.8,₹200 for one,"Kebab, North Indian, Mughlai, Chinese, Seafood, Biryani","Attapur, Hyderabad",3,yes,yes,no,no
+448,448,https://www.zomato.com/hyderabad/mandar-tolichowki,Mandar,4.1,₹200 for one,"North Indian, Chinese, Andhra, Mandi, Mughlai, Kebab, Biryani, Desserts","Tolichowki, Hyderabad",0,yes,yes,no,yes
+449,449,https://www.zomato.com/hyderabad/retro-rolls-charminar,Retro Rolls,New,₹200 for one,"Pizza, Burger, Wraps, Shawarma, Fast Food","Charminar, Hyderabad",0,yes,yes,no,no
+450,450,https://www.zomato.com/hyderabad/amfah-hotel-mehdipatnam,Amfah Hotel,3.7,₹200 for one,"Biryani, North Indian","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+451,451,https://www.zomato.com/hyderabad/papacream-banjara-hills,Papacream,3.7,₹200 for one,"Ice Cream, Desserts","Banjara Hills, Hyderabad",4,no,no,no,no
+452,452,https://www.zomato.com/hyderabad/natural-fruits-juices-salads-dilsukhnagar,Natural Fruits Juices & Salads,4.1,₹200 for one,"Juices, Beverages, Salad, Healthy Food","Dilsukhnagar, Hyderabad",0,yes,yes,yes,no
+453,453,https://www.zomato.com/hyderabad/sai-charan-dhabha-ghansi-bazaar,Sai Charan Dhabha,4.3,₹250 for one,"North Indian, Chinese","Ghansi Bazaar, Hyderabad",0,yes,yes,no,yes
+454,454,https://www.zomato.com/hyderabad/pandu-fast-food-centre-mehdipatnam,Pandu Fast Food Centre,4.1,₹250 for one,"Chinese, Sichuan","Mehdipatnam, Hyderabad",0,no,no,no,no
+455,455,https://www.zomato.com/hyderabad/eat-neat-adikmet,Eat Neat,3.8,₹250 for one,"Fast Food, Continental, Sichuan","Adikmet, Hyderabad",2,no,no,no,no
+456,456,https://www.zomato.com/hyderabad/momo-nation-khairatabad,Momo Nation,3.6,₹250 for one,Momos,"Khairatabad, Hyderabad",0,no,no,no,no
+457,457,https://www.zomato.com/hyderabad/banjara-9-restaurant-khairatabad,Banjara 9 Restaurant,4.2,₹250 for one,"Chinese, North Indian, Kebab, Seafood, Mughlai, Biryani, Mandi, Desserts","Khairatabad, Hyderabad",0,yes,yes,no,yes
+458,458,https://www.zomato.com/hyderabad/vr-raghavendra-tiffins-rajendra-nagar,VR Raghavendra Tiffins,4.0,₹250 for one,South Indian,"Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+459,459,https://www.zomato.com/hyderabad/al-arabia-shawarma-2-nampally,Al Arabia Shawarma,4.2,₹250 for one,Shawarma,"Nampally, Hyderabad",0,yes,yes,no,yes
+460,460,https://www.zomato.com/hyderabad/azaan-bait-al-mandi-rtc-x-roads,Azaan Bait Al Mandi,4.0,₹250 for one,"Arabian, Mandi, Mughlai, Seafood, Desserts, Beverages","RTC X roads, Hyderabad",0,yes,yes,no,yes
+461,461,https://www.zomato.com/hyderabad/best-belgian-waffle-himayath-nagar,Best Belgian Waffle,4.3,₹250 for one,"Waffle, Desserts, Beverages","Himayath Nagar, Hyderabad",0,yes,no,no,no
+462,462,https://www.zomato.com/hyderabad/crumbcoat-khairatabad,Crumbcoat,4.0,₹250 for one,"Waffle, Pancake, Desserts, Beverages","Khairatabad, Hyderabad",2,no,no,no,no
+463,463,https://www.zomato.com/hyderabad/green-dot-pizza-attapur,Green Dot Pizza,3.1,₹250 for one,"Pizza, Italian, Beverages, Desserts","Attapur, Hyderabad",4,no,no,no,no
+464,464,https://www.zomato.com/hyderabad/cupcake-bliss-cakes-desserts-dilsukhnagar,Cupcake Bliss Cakes & Desserts,4.1,₹250 for one,"Bakery, Desserts, Ice Cream","Dilsukhnagar, Hyderabad",11,no,no,no,no
+465,465,https://www.zomato.com/hyderabad/scoops-tiffin-centre-begum-bazaar,Scoops Tiffin Centre,4.0,₹100 for one,"Street Food, Fast Food, South Indian, Pizza","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+466,466,https://www.zomato.com/hyderabad/spice-6-global-dining-banjara-hills,Spice 6 - Global Dining,4.2,₹100 for one,"Lebanese, North Indian, Chinese, Sandwich, Kebab, Seafood, Desserts","Banjara Hills, Hyderabad",2,yes,yes,no,yes
+467,467,https://www.zomato.com/hyderabad/coffee-cream-attapur,Coffee Cream,3.7,₹100 for one,"Fast Food, Desserts, Beverages, Pasta, Pizza, Sandwich, Italian, Chinese","Attapur, Hyderabad",2,yes,yes,no,yes
+468,468,https://www.zomato.com/hyderabad/food-bucks-falaknuma,Food Bucks,4.1,₹100 for one,"Burger, Wraps, Roast Chicken, Salad, Fast Food, Shake, Beverages","Falaknuma, Hyderabad",0,yes,yes,no,yes
+469,469,https://www.zomato.com/hyderabad/haji-ali-juice-center-abids,Haji Ali Juice Center,4.1,₹100 for one,"Juices, Shake, Pizza, Rolls, Sandwich, Fast Food, Desserts","Abids, Hyderabad",0,yes,yes,no,yes
+470,470,https://www.zomato.com/hyderabad/food-court-adda-1-dilsukhnagar,Food Court Adda,-,₹100 for one,"Chinese, Momos","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+471,471,https://www.zomato.com/hyderabad/new-balaji-santosh-dhaba-saroor-nagar,New Balaji Santosh Dhaba,4.0,₹100 for one,"North Indian, Chinese","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+472,472,https://www.zomato.com/hyderabad/hibacci-north-east-asian-kitchen-4-banjara-hills,Hibacci -North East Asian Kitchen,4.2,₹100 for one,"Asian, Momos, Korean, Sushi, Beverages, Burmese, Japanese","Banjara Hills, Hyderabad",0,yes,yes,no,yes
+473,473,https://www.zomato.com/hyderabad/shahi-zaiqa-basheer-bagh,Shahi Zaiqa,3.6,₹100 for one,Hyderabadi,"Basheer Bagh, Hyderabad",0,yes,yes,no,no
+474,474,https://www.zomato.com/hyderabad/biryani-box-dilsukhnagar,Biryani Box,New,₹100 for one,"Biryani, Mughlai","Dilsukhnagar, Hyderabad",0,no,no,no,no
+475,475,https://www.zomato.com/hyderabad/la-mama-masab-tank,La Mama,3.8,₹100 for one,"Fast Food, Burger, Lebanese","Masab Tank, Hyderabad",0,no,no,no,no
+476,476,https://www.zomato.com/hyderabad/the-shawarmas-spot-nampally,The Shawarmas Spot,4.0,₹100 for one,"Shawarma, Fast Food","Nampally, Hyderabad",3,yes,yes,no,no
+477,477,https://www.zomato.com/hyderabad/favourite-shawarma-chandrayanagutta,Favourite Shawarma,New,₹150 for one,"Shawarma, Burger, Fast Food","Chandrayanagutta, Hyderabad",0,no,no,no,no
+478,478,https://www.zomato.com/hyderabad/urban-singh-1-abids,Urban Singh,3.4,₹150 for one,"North Indian, Biryani, Desserts, Beverages, Chinese","Abids, Hyderabad",7,no,no,no,no
+479,479,https://www.zomato.com/hyderabad/red-oven-bakers-falaknuma,Red Oven Bakers,4.3,₹150 for one,"Bakery, Pizza, Burger, Sandwich, Fast Food","Falaknuma, Hyderabad",0,yes,yes,no,yes
+480,480,https://www.zomato.com/hyderabad/dum-safar-biryani-abids,Dum Safar Biryani,4.0,₹150 for one,"Biryani, North Indian, Kebab, BBQ, Beverages, Desserts","Abids, Hyderabad",12,no,no,no,no
+481,481,https://www.zomato.com/hyderabad/mirha-cloud-restro-meerpet,Mirha Cloud & Restro,-,₹150 for one,Biryani,"Meerpet, Hyderabad",2,yes,yes,no,no
+482,482,https://www.zomato.com/hyderabad/pista-bakery-chandrayanagutta,Pista Bakery,4.0,₹150 for one,Fast Food,"Chandrayanagutta, Hyderabad",0,no,no,no,no
+483,483,https://www.zomato.com/hyderabad/sri-balaji-prithviraj-family-dhaba-narayanguda,Sri Balaji Prithviraj Family Dhaba,4.0,₹150 for one,"Fast Food, North Indian, Chinese, Biryani, Beverages","Narayanguda, Hyderabad",0,yes,yes,no,yes
+484,484,https://www.zomato.com/hyderabad/mr-grill-shawarmas-kebabs-meerpet,Mr. Grill - Shawarmas & Kebabs,4.2,₹150 for one,"Shawarma, Kebab","Meerpet, Hyderabad",0,no,no,no,no
+485,485,https://www.zomato.com/hyderabad/v-cafe-meals-by-pvr-malakpet,V Cafe- Meals By PVR,3.7,₹150 for one,"Burger, Sandwich, Fast Food","Malakpet, Hyderabad",7,no,no,no,no
+486,486,https://www.zomato.com/hyderabad/begum-bazar-dosa-kothapet,Begum Bazar Dosa,3.4,₹150 for one,South Indian,"Kothapet, Hyderabad",0,no,no,no,no
+487,487,https://www.zomato.com/hyderabad/krishna-idlis-dosas-abids,Krishna Idli's & Dosa's,3.6,₹150 for one,"South Indian, Fast Food","Abids, Hyderabad",0,yes,yes,no,yes
+488,488,https://www.zomato.com/hyderabad/vadapav-more-himayath-nagar,Vadapav & More,3.9,₹150 for one,Street Food,"Himayath Nagar, Hyderabad",3,no,no,no,no
+489,489,https://www.zomato.com/hyderabad/roostly-somajiguda,Roostly,3.5,₹200 for one,"Fast Food, Shake, Beverages","Somajiguda, Hyderabad",3,no,no,no,no
+490,490,https://www.zomato.com/hyderabad/balaji-mukesh-mithai-bhandar-saroor-nagar,Balaji Mukesh Mithai Bhandar,4.4,₹200 for one,Mithai,"Saroor Nagar, Hyderabad",0,yes,yes,yes,no
+491,491,https://www.zomato.com/hyderabad/tasty-foods-musheerabad,Tasty Foods,4.0,₹200 for one,"Andhra, Biryani, South Indian","Musheerabad, Hyderabad",0,yes,yes,no,no
+492,492,https://www.zomato.com/hyderabad/veg-daawat-by-behrouz-abids,Veg Daawat By Behrouz,3.7,₹200 for one,"Biryani, North Indian, Mughlai","Abids, Hyderabad",30,no,no,no,no
+493,493,https://www.zomato.com/hyderabad/de-cafe-studio-malakpet,De Cafe Studio,3.7,₹200 for one,"Cafe, Coffee, Sandwich, Fast Food, Burger, Chinese, Desserts, Beverages","Malakpet, Hyderabad",0,yes,yes,no,yes
+494,494,https://www.zomato.com/hyderabad/chicken-65-express-dilsukhnagar,Chicken 65 Express,3.3,₹200 for one,"Biryani, Chinese","Dilsukhnagar, Hyderabad",0,no,no,no,no
+495,495,https://www.zomato.com/hyderabad/de-fresh-arabian-grill-mehdipatnam,De Fresh Arabian Grill,4.0,₹200 for one,"Burger, Pizza, Fast Food, Shake","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+496,496,https://www.zomato.com/hyderabad/labbaik-kings-mustafa-hotel-charminar,Labbaik King's Mustafa Hotel,3.9,₹200 for one,"Hyderabadi, Mughlai, Biryani","Charminar, Hyderabad",0,yes,yes,no,yes
+497,497,https://www.zomato.com/hyderabad/lets-scoop-ice-cream-cafe-rtc-x-roads,Let's Scoop Ice Cream Cafe,4.1,₹200 for one,"Ice Cream, Desserts, Fast Food, Shake","RTC X roads, Hyderabad",0,no,no,no,no
+498,498,https://www.zomato.com/hyderabad/sofra-culture-cuisine-banjara-hills,Sofra Culture Cuisine,3.9,₹200 for one,"Biryani, Mandi, Chinese, South Indian, Arabian, Mughlai, Desserts, Beverages","Banjara Hills, Hyderabad",0,yes,yes,no,no
+499,499,https://www.zomato.com/hyderabad/pranav-dhaba-begum-bazaar,Pranav Dhaba,4.4,₹200 for one,"North Indian, Chinese, Biryani","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+500,500,https://www.zomato.com/hyderabad/pariwar-dhaba-shamshabad,Pariwar Dhaba,3.7,₹200 for one,"North Indian, Mughlai, Chinese, Fast Food, Seafood, Desserts","Shamshabad, Hyderabad",0,yes,yes,no,yes
+501,501,https://www.zomato.com/hyderabad/doner-wrap-chandrayanagutta,Doner Wrap,4.0,₹150 for one,"Fast Food, Beverages","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+502,502,https://www.zomato.com/hyderabad/rayalaseema-spice-kitchen-banjara-hills,Rayalaseema Spice Kitchen,3.5,₹150 for one,"Andhra, Mughlai, Fast Food, Street Food","Banjara Hills, Hyderabad",2,no,no,no,no
+503,503,https://www.zomato.com/hyderabad/eat-with-fun-4-rtc-x-roads,Eat With Fun,3.5,₹150 for one,"Pizza, Burger, Shake, Street Food","RTC X roads, Hyderabad",0,no,no,no,no
+504,504,https://www.zomato.com/hyderabad/new-balaji-santosh-family-dhaba-rajendra-nagar,New Balaji Santosh Family Dhaba,4.0,₹150 for one,"Fast Food, Chinese, North Indian","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+505,505,https://www.zomato.com/hyderabad/brownbear-1-amberpet,BrownBear,3.5,₹150 for one,"Fast Food, Pizza, Hot dogs, Rolls, Pancake","Amberpet, Hyderabad",16,yes,yes,no,no
+506,506,https://www.zomato.com/hyderabad/al-harmain-shawarma-1-nampally,Al - Harmain Shawarma,4.2,₹150 for one,Shawarma,"Nampally, Hyderabad",0,no,no,no,no
+507,507,https://www.zomato.com/hyderabad/tabla-banjara-hills,Tabla,3.6,₹150 for one,"North Indian, Chinese, Andhra, Mughlai, Kebab, Biryani, South Indian, Desserts","Banjara Hills, Hyderabad",5,yes,yes,no,yes
+508,508,https://www.zomato.com/hyderabad/tossing-flame-banjara-hills,Tossing Flame,3.9,₹150 for one,"Chinese, Seafood","Banjara Hills, Hyderabad",0,no,no,no,no
+509,509,https://www.zomato.com/hyderabad/satvikam-a-pure-veg-affair-1-kothapet,Satvikam - A Pure Veg Affair,3.4,₹150 for one,"Biryani, North Indian, Chinese","Kothapet, Hyderabad",0,no,no,no,no
+510,510,https://www.zomato.com/hyderabad/thali-99-boiguda-secunderabad,Thali 99,3.5,₹150 for one,"Andhra, South Indian, Mughlai","Boiguda, Secunderabad",0,no,no,no,no
+511,511,https://www.zomato.com/hyderabad/voulga-hotel-bakery-nampally,Voulga Hotel & Bakery,4.3,₹150 for one,"North Indian, Chinese, Mughlai, Seafood, Biryani, Beverages","Nampally, Hyderabad",0,yes,yes,no,yes
+512,512,https://www.zomato.com/hyderabad/art-of-biryani-kothapet,Art Of Biryani,3.7,₹150 for one,"Biryani, North Indian, Kebab, Mughlai, Desserts","Kothapet, Hyderabad",0,yes,yes,no,yes
+513,513,https://www.zomato.com/hyderabad/momo-guy-attapur,Momo Guy,3.4,₹150 for one,"Momos, Tibetan, Asian, Beverages","Attapur, Hyderabad",5,yes,yes,no,no
+514,514,https://www.zomato.com/hyderabad/azizia-hotel-nampally,Azizia Hotel,3.9,₹150 for one,"North Indian, Chinese, Biryani, Andhra, Desserts, Mughlai","Nampally, Hyderabad",0,yes,yes,no,no
+515,515,https://www.zomato.com/hyderabad/waffled-attapur,Waffled,4.0,₹150 for one,"Waffle, Desserts, Fast Food, Street Food, Shake","Attapur, Hyderabad",0,no,no,no,no
+516,516,https://www.zomato.com/hyderabad/sweet-land-loops-banjara-hills,Sweet Land Loops,3.2,₹150 for one,"Waffle, Desserts, Fast Food, Shake, Beverages","Banjara Hills, Hyderabad",3,yes,yes,no,yes
+517,517,https://www.zomato.com/hyderabad/silver-salt-banjara-hills,Silver Salt,3.8,₹150 for one,"North Indian, Mughlai, Biryani, Seafood, Desserts, Beverages","Banjara Hills, Hyderabad",0,yes,yes,no,yes
+518,518,https://www.zomato.com/hyderabad/star-paan-shop-ghansi-bazaar,Star Paan Shop,4.3,₹150 for one,"Paan, Ice Cream","Ghansi Bazaar, Hyderabad",0,yes,yes,no,no
+519,519,https://www.zomato.com/hyderabad/geetha-gari-vantalu-musheerabad,Geetha Gari Vantalu,3.9,₹150 for one,Andhra,"Musheerabad, Hyderabad",0,no,no,no,no
+520,520,https://www.zomato.com/hyderabad/padmavathi-tiffins-dilsukhnagar,Padmavathi Tiffins,4.0,₹150 for one,South Indian,"Dilsukhnagar, Hyderabad",0,no,no,no,no
+521,521,https://www.zomato.com/hyderabad/pizza-fun-1-rtc-x-roads,Pizza Fun,3.2,₹150 for one,"Pizza, Fast Food, Beverages","RTC X roads, Hyderabad",0,yes,yes,no,no
+522,522,https://www.zomato.com/hyderabad/the-mad-chef-saroor-nagar,The Mad Chef,3.9,₹150 for one,"Chinese, Wraps, Burger, Fast Food","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+523,523,https://www.zomato.com/hyderabad/7-sisters-5-banjara-hills,7 Sisters,4.0,₹150 for one,"Asian, North Eastern, Assamese, Seafood","Banjara Hills, Hyderabad",5,yes,yes,no,yes
+524,524,https://www.zomato.com/hyderabad/jumbo-sandwich-musheerabad,Jumbo Sandwich,-,₹150 for one,"Sandwich, Fast Food","Musheerabad, Hyderabad",2,no,no,no,no
+525,525,https://www.zomato.com/hyderabad/hotel-delhi-dastarkhan-malakpet,Hotel Delhi Dastarkhan,4.0,₹150 for one,Hyderabadi,"Malakpet, Hyderabad",3,yes,yes,no,no
+526,526,https://www.zomato.com/hyderabad/house-of-burger-nampally,House Of Burger,4.2,₹150 for one,"Lebanese, Pizza, Burger, Sandwich, Fast Food, Desserts, Beverages","Nampally, Hyderabad",0,yes,yes,no,no
+527,527,https://www.zomato.com/hyderabad/italian-pizzeria-mehdipatnam,Italian Pizzeria,3.4,₹150 for one,"Pizza, Fast Food, Burger, Pasta, Sandwich, Shake","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+528,528,https://www.zomato.com/hyderabad/epic-cafe-dilsukhnagar,Epic Cafe,New,₹150 for one,"Chinese, Pizza, Sichuan, Fast Food, Shake","Dilsukhnagar, Hyderabad",0,yes,yes,no,no
+529,529,https://www.zomato.com/hyderabad/chaat-cart-malakpet,Chaat Cart,3.7,₹150 for one,"Street Food, Fast Food","Malakpet, Hyderabad",0,yes,yes,yes,no
+530,530,https://www.zomato.com/hyderabad/siddique-kabab-centre-tolichowki,Siddique Kabab Centre,4.1,₹150 for one,"North Indian, Chinese","Tolichowki, Hyderabad",3,yes,yes,no,yes
+531,531,https://www.zomato.com/hyderabad/saakshi-biryani-house-dilsukhnagar,Saakshi Biryani House,3.4,₹150 for one,Biryani,"Dilsukhnagar, Hyderabad",2,yes,yes,no,no
+532,532,https://www.zomato.com/hyderabad/chef-o-menu-attapur,Chef O Menu,3.3,₹150 for one,"Biryani, Chinese, North Indian","Attapur, Hyderabad",0,yes,yes,no,yes
+533,533,https://www.zomato.com/hyderabad/italian-express-basheer-bagh,Italian Express,3.2,₹150 for one,"Chinese, Fast Food, Pizza, Pasta, Italian","Basheer Bagh, Hyderabad",2,yes,yes,no,no
+534,534,https://www.zomato.com/hyderabad/eat-and-treat-falaknuma,Eat And Treat,3.6,₹150 for one,"Fast Food, Street Food, Momos, Ice Cream, Desserts, Beverages","Falaknuma, Hyderabad",0,no,no,no,no
+535,535,https://www.zomato.com/hyderabad/the-deccan-bristo-kothapet,The Deccan Bristo,3.3,₹150 for one,"Biryani, North Indian, Chinese, Beverages","Kothapet, Hyderabad",0,yes,yes,no,no
+536,536,https://www.zomato.com/hyderabad/as-kunafa-chandrayanagutta,AS Kunafa,4.3,₹150 for one,Desserts,"Chandrayanagutta, Hyderabad",0,no,no,no,no
+537,537,https://www.zomato.com/hyderabad/shalimar-sweets-and-bakery-mehdipatnam,Shalimar Sweets And Bakery,3.6,₹150 for one,Mithai,"Mehdipatnam, Hyderabad",0,yes,yes,no,no
+538,538,https://www.zomato.com/hyderabad/sai-gokul-kothapet,Sai Gokul,4.0,₹150 for one,"Street Food, Chinese, Pizza","Kothapet, Hyderabad",0,yes,yes,no,yes
+539,539,https://www.zomato.com/hyderabad/box9-attapur,Box9,3.9,₹150 for one,"Wraps, Burger, Fast Food","Attapur, Hyderabad",0,yes,yes,no,yes
+540,540,https://www.zomato.com/hyderabad/mc-pen-pasta-boiguda-secunderabad,MC Pen Pasta,-,₹150 for one,Pasta,"Boiguda, Secunderabad",2,no,no,no,no
+541,541,https://www.zomato.com/hyderabad/wholesale-bakery-l-b-nagar,Wholesale Bakery,3.8,₹150 for one,"Bakery, Desserts, Fast Food, Burger, Shawarma","L B Nagar, Hyderabad",0,yes,yes,no,yes
+542,542,https://www.zomato.com/hyderabad/punjabi-family-dhaba-meerpet,Punjabi Family Dhaba,3.9,₹150 for one,"North Indian, Mughlai, Chinese, Biryani","Meerpet, Hyderabad",0,yes,yes,no,yes
+543,543,https://www.zomato.com/hyderabad/lassi-shop-hub-1-koti,Lassi Shop Hub,3.9,₹150 for one,"Shake, Coffee, Beverages, Fast Food, Desserts","Koti, Hyderabad",2,yes,yes,no,no
+544,544,https://www.zomato.com/hyderabad/sri-santosh-dhaba-1-saroor-nagar,Sri Santosh Dhaba,3.5,₹150 for one,"North Indian, Chinese, Biryani","Saroor Nagar, Hyderabad",0,yes,yes,no,no
+545,545,https://www.zomato.com/hyderabad/arabian-juices-and-salads-mehdipatnam,Arabian Juices And Salads,3.7,₹150 for one,"Desserts, Salad, Shake, Juices, Beverages","Mehdipatnam, Hyderabad",2,yes,yes,no,no
+546,546,https://www.zomato.com/hyderabad/mayur-pan-house-abids,Mayur Pan House,3.9,₹150 for one,"Street Food, Pizza, Sandwich, Paan, Beverages, Ice Cream","Abids, Hyderabad",8,yes,yes,no,yes
+547,547,https://www.zomato.com/hyderabad/n-spicy-bite-fast-food-langer-houz,N Spicy Bite Fast Food,4.2,₹150 for one,Chinese,"Langer Houz, Hyderabad",0,yes,yes,no,no
+548,548,https://www.zomato.com/hyderabad/zaiqa-arabian-food-court-2-saroor-nagar,Zaiqa Arabian Food Court,4.0,₹150 for one,"Mandi, Chinese, Desserts","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+549,549,https://www.zomato.com/hyderabad/be-high-bros-himayath-nagar,Be High Bro's,3.2,₹200 for one,"Continental, Pizza, Burger, Fast Food, Italian, Salad, Beverages","Himayath Nagar, Hyderabad",0,no,no,no,no
+550,550,https://www.zomato.com/hyderabad/versatile-kitchens-panjagutta,Versatile Kitchens,4.0,₹200 for one,"South Indian, Salad, Chinese","Panjagutta, Hyderabad",0,no,no,no,no
+551,551,https://www.zomato.com/hyderabad/mandi-at-arabia-falaknuma,Mandi At Arabia,-,₹200 for one,"Arabian, Mughlai, Mandi, Beverages","Falaknuma, Hyderabad",0,yes,yes,no,yes
+552,552,https://www.zomato.com/hyderabad/rajasthan-rasoi-attapur,Rajasthan Rasoi,3.8,₹200 for one,"North Indian, Chinese, Beverages","Attapur, Hyderabad",2,yes,yes,no,yes
+553,553,https://www.zomato.com/hyderabad/dbs-dum-pukht-biryanis-boiguda-secunderabad,DB's - Dum Pukht Biryani's,3.2,₹200 for one,Biryani,"Boiguda, Secunderabad",2,no,no,no,no
+554,554,https://www.zomato.com/hyderabad/mr-faddy-mehdipatnam,Mr. Faddy,4.0,₹200 for one,"Roast Chicken, Burger, Fast Food, Beverages","Mehdipatnam, Hyderabad",0,yes,yes,no,no
+555,555,https://www.zomato.com/hyderabad/kulfi-nation-banjara-hills,Kulfi Nation,4.3,₹200 for one,"Ice Cream, Desserts","Banjara Hills, Hyderabad",4,no,no,no,no
+556,556,https://www.zomato.com/hyderabad/mataam-al-jazirah-nampally,Mataam AL Jazirah,4.2,₹200 for one,"Arabian, Biryani, Mandi, Mughlai, Seafood, Desserts","Nampally, Hyderabad",0,yes,yes,no,yes
+557,557,https://www.zomato.com/hyderabad/bimbisara-resturant-dilsukhnagar,Bimbisara Resturant,3.2,₹200 for one,"North Indian, Mughlai, Chinese, Biryani, Seafood, Street Food, Shawarma","Dilsukhnagar, Hyderabad",0,no,no,no,no
+558,558,https://www.zomato.com/hyderabad/aahaa-food-court-2-amberpet,Aahaa Food Court,3.3,₹200 for one,"South Indian, Chinese, North Indian, Beverages","Amberpet, Hyderabad",0,yes,yes,no,yes
+559,559,https://www.zomato.com/hyderabad/panda-momos-attapur,Panda Momos,3.2,₹200 for one,"Momos, Tibetan, Desserts, Beverages","Attapur, Hyderabad",4,no,no,no,no
+560,560,https://www.zomato.com/hyderabad/cakes-online-2-mehdipatnam,Cakes Online,3.6,₹200 for one,"Bakery, Desserts","Mehdipatnam, Hyderabad",3,no,no,no,no
+561,561,https://www.zomato.com/hyderabad/tabish-restaurant-falaknuma,Tabish Restaurant,4.0,₹150 for one,"Chinese, Mughlai, Kebab, Shawarma","Falaknuma, Hyderabad",0,yes,yes,no,yes
+562,562,https://www.zomato.com/hyderabad/fusion-biryani-musheerabad,Fusion Biryani,3.1,₹150 for one,"Biryani, Desserts","Musheerabad, Hyderabad",4,no,no,no,no
+563,563,https://www.zomato.com/hyderabad/kapoors-cafe-banjara-hills,Kapoor's Cafe,4.1,₹150 for one,"North Indian, Desserts, Beverages","Banjara Hills, Hyderabad",0,yes,yes,no,yes
+564,564,https://www.zomato.com/hyderabad/s-n-home-kitchen-malakpet,S N Home Kitchen,New,₹150 for one,"North Indian, Chinese","Malakpet, Hyderabad",0,no,no,no,no
+565,565,https://www.zomato.com/hyderabad/layers-cakes-desserts-saroor-nagar,Layers - Cakes & Desserts,3.9,₹150 for one,"Bakery, Desserts","Saroor Nagar, Hyderabad",0,no,no,no,no
+566,566,https://www.zomato.com/hyderabad/new-balaji-family-dhaba-malakpet,New Balaji Family Dhaba,3.9,₹150 for one,"North Indian, Chinese, Biryani","Malakpet, Hyderabad",2,yes,yes,no,yes
+567,567,https://www.zomato.com/hyderabad/the-red-biryani-charminar,The Red Biryani,New,₹150 for one,Biryani,"Charminar, Hyderabad",0,no,no,no,no
+568,568,https://www.zomato.com/hyderabad/frozen-thickshake-dilsukhnagar,Frozen Thickshake,-,₹150 for one,Shake,"Dilsukhnagar, Hyderabad",0,no,no,no,no
+569,569,https://www.zomato.com/hyderabad/alina-wraps-1-saroor-nagar,Alina Wraps,4.0,₹150 for one,"Fast Food, Wraps, Shawarma","Saroor Nagar, Hyderabad",0,yes,yes,no,no
+570,570,https://www.zomato.com/hyderabad/10d-express-banjara-hills,10D Express,3.5,₹150 for one,"North Indian, Continental, Pizza, Italian, Burger, Fast Food","The Joint, Banjara Hills, Hyderabad",2,yes,yes,no,no
+571,571,https://www.zomato.com/hyderabad/mumbaichee-chaat-street-himayath-nagar,Mumbaichee Chaat Street,3.3,₹150 for one,Street Food,"Himayath Nagar, Hyderabad",4,no,no,no,no
+572,572,https://www.zomato.com/hyderabad/nasheman-hotel-masab-tank,Nasheman Hotel,4.3,₹150 for one,"Hyderabadi, Biryani, Kebab, Beverages","Masab Tank, Hyderabad",0,yes,yes,no,yes
+573,573,https://www.zomato.com/hyderabad/sri-bhagyalaxmi-dhaba-2-koti,Sri Bhagyalaxmi Dhaba-2,-,₹200 for one,"North Indian, Chinese","Koti, Hyderabad",0,yes,yes,yes,no
+574,574,https://www.zomato.com/hyderabad/fast-food-home-made-dilsukhnagar,Fast Food Home Made,3.3,₹200 for one,"Chinese, Biryani","Dilsukhnagar, Hyderabad",0,no,no,no,no
+575,575,https://www.zomato.com/hyderabad/fire-ice-mandi-restaurent-langer-houz,Fire & Ice Mandi Restaurent,4.1,₹200 for one,"Arabian, Mughlai, Hyderabadi, Mandi","Langer Houz, Hyderabad",0,yes,yes,no,yes
+576,576,https://www.zomato.com/hyderabad/shabab-bait-al-mandi-abids,Shabab Bait Al Mandi,4.1,₹200 for one,"Arabian, Mughlai, Kebab, Desserts","Abids, Hyderabad",0,yes,yes,no,yes
+577,577,https://www.zomato.com/hyderabad/cakes-hub-banjara-hills,Cakes Hub,3.4,₹200 for one,Bakery,"Banjara Hills, Hyderabad",0,no,no,no,no
+578,578,https://www.zomato.com/hyderabad/mehfil-shawarma-rajendra-nagar,Mehfil Shawarma,3.4,₹200 for one,"Beverages, Shawarma","Rajendra Nagar, Hyderabad",0,yes,yes,no,no
+579,579,https://www.zomato.com/hyderabad/euro-bakers-nampally,Euro Bakers,3.8,₹200 for one,"Bakery, Fast Food","Nampally, Hyderabad",0,yes,yes,no,no
+580,580,https://www.zomato.com/hyderabad/shanbhags-chinese-food-court-charminar,Shanbhag's Chinese Food Court,4.0,₹200 for one,"North Indian, Chinese, Seafood","Charminar, Hyderabad",0,yes,yes,no,yes
+581,581,https://www.zomato.com/hyderabad/the-thickshake-project-himayath-nagar,The Thickshake Project,3.7,₹200 for one,Shake,"Himayath Nagar, Hyderabad",4,no,no,no,no
+582,582,https://www.zomato.com/hyderabad/kong-fu-khairatabad,Kong Fu,-,₹200 for one,"Momos, Beverages","Khairatabad, Hyderabad",2,no,no,no,no
+583,583,https://www.zomato.com/hyderabad/mohini-multicuisine-restaurant-basheer-bagh,Mohini Multicuisine Restaurant,4.0,₹200 for one,"North Indian, Biryani, Mughlai","Basheer Bagh, Hyderabad",0,yes,yes,no,yes
+584,584,https://www.zomato.com/hyderabad/60-tiffins-saroor-nagar,60 Tiffins,4.3,₹200 for one,"South Indian, Street Food","Saroor Nagar, Hyderabad",0,no,no,no,no
+585,585,https://www.zomato.com/hyderabad/ice-cafe-lassi-shop-3-nampally,Ice Cafe & Lassi Shop,3.4,₹100 for one,"Desserts, Shake, Juices, Beverages, Salad","Nampally, Hyderabad",0,yes,yes,no,no
+586,586,https://www.zomato.com/hyderabad/garage-the-mandi-house-l-b-nagar,Garage The Mandi House,3.9,₹100 for one,"Arabian, Mandi","L B Nagar, Hyderabad",0,yes,yes,no,yes
+587,587,https://www.zomato.com/hyderabad/chizza-pizza-boiguda-secunderabad,Chizza Pizza,-,₹100 for one,Pizza,"Boiguda, Secunderabad",0,no,no,no,no
+588,588,https://www.zomato.com/hyderabad/healing-rice-bowls-himayath-nagar,Healing Rice Bowls,4.0,₹100 for one,"North Indian, South Indian","Himayath Nagar, Hyderabad",4,no,no,no,no
+589,589,https://www.zomato.com/hyderabad/ameen-cafe-1-charminar,Ameen Cafe,4.3,₹100 for one,"Chinese, Street Food","Charminar, Hyderabad",0,yes,yes,no,no
+590,590,https://www.zomato.com/hyderabad/cups-puffs-4-malakpet,Cups & Puffs,-,₹100 for one,"Fast Food, Street Food, Healthy Food, Beverages","Malakpet, Hyderabad",0,yes,yes,no,yes
+591,591,https://www.zomato.com/hyderabad/arabian-mandi-and-shawarma-1-malakpet,Arabian Mandi And Shawarma,-,₹100 for one,"Mandi, Shawarma","Malakpet, Hyderabad",0,no,no,no,no
+592,592,https://www.zomato.com/hyderabad/yummy-bee-banjara-hills,Yummy Bee,4.3,₹100 for one,"Bakery, Desserts, Sandwich","Banjara Hills, Hyderabad",3,no,no,no,no
+593,593,https://www.zomato.com/hyderabad/ohris-serengeti-banjara-hills,Ohri's Serengeti,4.0,₹100 for one,"North Indian, Mughlai, Desserts, Beverages","Banjara Hills, Hyderabad",0,yes,yes,no,yes
+594,594,https://www.zomato.com/hyderabad/cakes-life-banjara-hills,Cakes Life,3.9,₹100 for one,Bakery,"Alcazar Mall, Jubilee Hills, Hyderabad",3,no,no,no,no
+595,595,https://www.zomato.com/hyderabad/yuhanis-food-for-your-thought-1-attapur,Yuhani's - Food For Your Thought,New,₹100 for one,Street Food,"Attapur, Hyderabad",0,no,no,no,no
+596,596,https://www.zomato.com/hyderabad/tinky-restaruant-begum-bazaar,Tinky Restaruant,-,₹100 for one,"South Indian, Seafood, Chinese, Biryani","Begum Bazaar, Hyderabad",0,yes,yes,no,no
+597,597,https://www.zomato.com/hyderabad/gourmet-gully-himayath-nagar,Gourmet Gully,3.7,₹250 for one,"Continental, Pizza, Healthy Food","Himayath Nagar, Hyderabad",0,no,no,no,no
+598,598,https://www.zomato.com/hyderabad/arabian-knights-marhaba-narayanguda,Arabian Knight's Marhaba,4.0,₹250 for one,"North Indian, Chinese, Seafood, Mandi, Mughlai, Biryani, Desserts, Beverages","Narayanguda, Hyderabad",0,yes,yes,no,yes
+599,599,https://www.zomato.com/hyderabad/sundae-everyday-ice-creams-dilsukhnagar,Sundae Everyday Ice Creams,4.0,₹250 for one,"Ice Cream, Desserts, Shake","Dilsukhnagar, Hyderabad",10,no,no,no,no
+600,600,https://www.zomato.com/hyderabad/winners-pizza-fresh-dough-attapur,Winners Pizza - Fresh Dough,3.6,₹250 for one,"Pizza, Fast Food, Desserts, Beverages","Attapur, Hyderabad",0,no,no,no,no
+601,601,https://www.zomato.com/hyderabad/crisp-n-spice-rtc-x-roads,Crisp N Spice,3.2,₹250 for one,Street Food,"RTC X roads, Hyderabad",2,no,no,no,no
+602,602,https://www.zomato.com/hyderabad/govind-di-maggie-attapur,Govind Di Maggie,3.8,₹250 for one,Street Food,"Attapur, Hyderabad",0,no,no,no,no
+603,603,https://www.zomato.com/hyderabad/spice-express-dilsukhnagar,Spice Express,-,₹250 for one,"Chinese, Biryani","Dilsukhnagar, Hyderabad",0,no,no,no,no
+604,604,https://www.zomato.com/hyderabad/swaad-veg-banjara-hills,Swaad Veg,3.6,₹250 for one,"North Indian, South Indian, Chinese, Biryani","Banjara Hills, Hyderabad",0,no,no,no,no
+605,605,https://www.zomato.com/hyderabad/shake-studio-himayath-nagar,Shake Studio,4.0,₹250 for one,"Beverages, Fast Food, Shake, Waffle","Himayath Nagar, Hyderabad",6,yes,yes,no,yes
+606,606,https://www.zomato.com/hyderabad/kodi-biryani-dilsukhnagar,Kodi Biryani,-,₹250 for one,"Biryani, Chinese","Dilsukhnagar, Hyderabad",0,no,no,no,no
+607,607,https://www.zomato.com/hyderabad/iqbal-cafe-1-charminar,Iqbal Cafe,4.3,₹250 for one,"Hyderabadi, Biryani","Charminar, Hyderabad",0,yes,yes,no,yes
+608,608,https://www.zomato.com/hyderabad/the-absolute-biryanis-dilsukhnagar,The Absolute Biryani's,-,₹250 for one,"Biryani, North Indian, Fast Food, Chinese","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+609,609,https://www.zomato.com/hyderabad/a1-fish-wish-attapur,A1 Fish Wish,4.3,₹450 for one,"Seafood, Chinese, North Indian","Attapur, Hyderabad",0,yes,yes,no,yes
+610,610,https://www.zomato.com/hyderabad/fanooz-restaurant-banquet-masab-tank,Fanooz Restaurant & Banquet,3.7,₹450 for one,"Hyderabadi, Mughlai, Biryani","Masab Tank, Hyderabad",0,yes,yes,no,yes
+611,611,https://www.zomato.com/hyderabad/a-n-s-family-special-foods-1-ramanthapur,A N S Family Special Foods,4.2,₹450 for one,"Street Food, South Indian","Ramanthapur, Hyderabad",0,no,no,no,no
+612,612,https://www.zomato.com/hyderabad/50-fruits-mehdipatnam,50 Fruits,3.7,₹450 for one,"Beverages, Street Food, Sandwich, Salad, Shake, Juices","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+613,613,https://www.zomato.com/hyderabad/hotel-megha-city-basheer-bagh,Hotel Megha City,4.3,₹450 for one,"North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages","Basheer Bagh, Hyderabad",0,yes,yes,no,yes
+614,614,https://www.zomato.com/hyderabad/caramel-shakes-nampally,Caramel Shakes,3.1,₹450 for one,"Sandwich, Fast Food, Street Food, Shake, Beverages","Nampally, Hyderabad",0,yes,yes,yes,no
+615,615,https://www.zomato.com/hyderabad/alishan-restro-charminar,Alishan Restro,3.7,₹450 for one,"Chinese, Momos, Rolls","Charminar, Hyderabad",0,yes,yes,no,yes
+616,616,https://www.zomato.com/hyderabad/té-a-tea-tradition-kacheguda,Té - A Tea Tradition,4.3,₹450 for one,"Tea, Shake, Beverages, Fast Food, Sandwich, Street Food","Kacheguda, Hyderabad",2,yes,yes,yes,no
+617,617,https://www.zomato.com/hyderabad/ice-spice-restaurants-tolichowki,Ice & Spice Restaurants,3.9,₹450 for one,"Arabian, Fast Food, North Indian, Chinese, Shawarma, Desserts, Beverages","Tolichowki, Hyderabad",0,yes,yes,no,yes
+618,618,https://www.zomato.com/hyderabad/fruit-bowl-delight-nallakunta,Fruit Bowl Delight,4.1,₹450 for one,Healthy Food,"Nallakunta, Hyderabad",0,no,no,no,no
+619,619,https://www.zomato.com/hyderabad/lassi-falooda-co-himayath-nagar,Lassi & Falooda Co.,3.9,₹450 for one,"Desserts, Beverages","Himayath Nagar, Hyderabad",4,no,no,no,no
+620,620,https://www.zomato.com/hyderabad/the-grand-plaza-hotel-abids,The Grand Plaza Hotel,3.2,₹450 for one,"Hyderabadi, North Indian, Mughlai, Seafood, Biryani, Chinese","Abids, Hyderabad",0,yes,yes,no,yes
+621,621,https://www.zomato.com/hyderabad/balaji-santhosh-dhaba-l-b-nagar,Balaji Santhosh Dhaba,4.1,₹300 for one,"Chinese, North Indian, Biryani","L B Nagar, Hyderabad",0,yes,yes,no,yes
+622,622,https://www.zomato.com/hyderabad/fried-rice-turminal-saroor-nagar,Fried Rice Turminal,New,₹300 for one,Chinese,"Saroor Nagar, Hyderabad",0,no,no,no,no
+623,623,https://www.zomato.com/hyderabad/shawarma-palace-dilsukhnagar,Shawarma Palace,3.4,₹300 for one,"Shawarma, Fast Food, Beverages","Dilsukhnagar, Hyderabad",0,no,no,no,no
+624,624,https://www.zomato.com/hyderabad/good-food-therapy-1-rtc-x-roads,Good Food Therapy,4.0,₹300 for one,"Shawarma, Pizza, Sandwich, Fast Food, Chinese, Desserts, Beverages","RTC X roads, Hyderabad",0,no,no,no,no
+625,625,https://www.zomato.com/hyderabad/asian-meal-box-banjara-hills,Asian Meal Box,3.6,₹300 for one,"Chinese, Sichuan","Banjara Hills, Hyderabad",0,no,no,no,no
+626,626,https://www.zomato.com/hyderabad/biryani-corner-somajiguda,Biryani Corner,New,₹300 for one,"Biryani, Hyderabadi","Somajiguda, Hyderabad",0,no,no,no,no
+627,627,https://www.zomato.com/hyderabad/naimat-delight-khairatabad,Naimat Delight,4.0,₹300 for one,"South Indian, Desserts","Khairatabad, Hyderabad",0,no,no,no,no
+628,628,https://www.zomato.com/hyderabad/msa-brite-restaurant-attapur,MSA Brite Restaurant,3.5,₹300 for one,Fast Food,"Attapur, Hyderabad",0,yes,yes,no,yes
+629,629,https://www.zomato.com/hyderabad/cakes-99-banjara-hills,Cakes 99,3.6,₹300 for one,"Bakery, Desserts","Banjara Hills, Hyderabad",3,yes,yes,no,no
+630,630,https://www.zomato.com/hyderabad/simrats-dhaba-begum-bazaar,Simrat's Dhaba,4.0,₹300 for one,"North Indian, Chinese","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+631,631,https://www.zomato.com/hyderabad/dosa-24x7-1-kothapet,Dosa 24x7,New,₹300 for one,South Indian,"Kothapet, Hyderabad",0,no,no,no,no
+632,632,https://www.zomato.com/hyderabad/h-s-kitchen-chandrayanagutta,H S Kitchen,3.2,₹300 for one,"North Indian, Pasta, Street Food","Chandrayanagutta, Hyderabad",0,no,no,no,no
+633,633,https://www.zomato.com/hyderabad/tasty-momos-1-khairatabad,Tasty Momos,3.5,₹200 for one,"Momos, Fast Food, Beverages, Shake","Khairatabad, Hyderabad",0,yes,yes,no,no
+634,634,https://www.zomato.com/hyderabad/m-s-nahari-malai-paya-charminar,M.S Nahari & Malai Paya,-,₹200 for one,"Hyderabadi, Pakistani","Charminar, Hyderabad",0,yes,yes,no,yes
+635,635,https://www.zomato.com/hyderabad/arabic-kunafa-khairatabad,Arabic Kunafa,4.0,₹200 for one,Desserts,"Khairatabad, Hyderabad",0,no,no,no,no
+636,636,https://www.zomato.com/hyderabad/d-4-donut-himayath-nagar,D 4 Donut,4.0,₹200 for one,Desserts,"Himayath Nagar, Hyderabad",0,no,no,no,no
+637,637,https://www.zomato.com/hyderabad/a1-golden-fast-food-and-tea-point-amberpet,A1 Golden Fast Food And Tea Point,3.9,₹200 for one,"Chinese, Street Food","Amberpet, Hyderabad",0,yes,yes,no,yes
+638,638,https://www.zomato.com/hyderabad/the-waffle-co-banjara-hills,The Waffle Co,4.0,₹200 for one,"Desserts, Waffle, Beverages, Pancake","Banjara Hills, Hyderabad",5,yes,yes,no,yes
+639,639,https://www.zomato.com/hyderabad/spicy-dhaba-begum-bazaar,Spicy Dhaba,4.1,₹200 for one,"North Indian, Chinese, Biryani","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+640,640,https://www.zomato.com/hyderabad/lalaji-dilli-wale-chaat-kothapet,Lalaji Dilli Wale Chaat,3.4,₹200 for one,"Street Food, Fast Food, Beverages","Kothapet, Hyderabad",0,no,no,no,no
+641,641,https://www.zomato.com/hyderabad/mouzo-momos-somajiguda,Mouzo Momos,3.3,₹200 for one,"Momos, Fast Food, Burger, Beverages","Somajiguda, Hyderabad",0,no,no,no,no
+642,642,https://www.zomato.com/hyderabad/spicy-aatithyam-biryani-hub-saroor-nagar,Spicy Aatithyam Biryani Hub,-,₹200 for one,"Biryani, Chinese, North Indian","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+643,643,https://www.zomato.com/hyderabad/zain-sweets-charminar,Zain Sweets,3.8,₹200 for one,Mithai,"Charminar, Hyderabad",0,yes,yes,no,no
+644,644,https://www.zomato.com/hyderabad/bawarchi-shawarma-rajendra-nagar,Bawarchi Shawarma,3.0,₹200 for one,Shawarma,"Rajendra Nagar, Hyderabad",0,yes,yes,no,no
+645,645,https://www.zomato.com/hyderabad/spicy-food-court-falaknuma,Spicy Food Court,New,₹150 for one,"North Indian, Mughlai, Chinese","Falaknuma, Hyderabad",0,yes,yes,no,yes
+646,646,https://www.zomato.com/hyderabad/raju-gari-pulao-dilsukhnagar,Raju Gari Pulao,3.5,₹200 for one,"Andhra, Street Food, North Indian","Dilsukhnagar, Hyderabad",0,no,no,no,no
+647,647,https://www.zomato.com/hyderabad/bismillah-hotel-2-mehdipatnam,Bismillah Hotel,3.1,₹100 for one,Hyderabadi,"Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+648,648,https://www.zomato.com/hyderabad/ufo-fries-corn-l-b-nagar,UFO Fries & Corn,3.5,₹200 for one,"Burger, Pizza, Wraps, Fast Food, Beverages","L B Nagar, Hyderabad",3,yes,yes,no,yes
+649,649,https://www.zomato.com/hyderabad/ride-fried-chicken-boiguda-secunderabad,Ride Fried Chicken,3.0,₹200 for one,Fast Food,"Boiguda, Secunderabad",2,no,no,no,no
+650,650,https://www.zomato.com/hyderabad/turkish-medbhee-restaurant-dilsukhnagar,Turkish Medbhee Restaurant,4.2,₹400 for one,"Turkish, Mandi","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+651,651,https://www.zomato.com/hyderabad/juice-and-sandwich-point-1-mehdipatnam,Juice And Sandwich Point,3.9,₹150 for one,"Beverages, Sandwich, Juices, Salad, Healthy Food, Shake","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+652,652,https://www.zomato.com/hyderabad/thickshake-junction-saroor-nagar,Thickshake Junction,4.5,₹150 for one,"Beverages, Ice Cream, Shake","Saroor Nagar, Hyderabad",0,no,no,no,no
+653,653,https://www.zomato.com/hyderabad/tib-the-icecream-bakery-2-koti,TIB - The Icecream Bakery,3.7,₹150 for one,"Ice Cream, Desserts, Shake, Beverages","Koti, Hyderabad",5,yes,yes,no,no
+654,654,https://www.zomato.com/hyderabad/pind-da-paratha-attapur,Pind Da Paratha,3.2,₹150 for one,"North Indian, Beverages","Attapur, Hyderabad",2,no,no,no,no
+655,655,https://www.zomato.com/hyderabad/new-babar-bakery-2-falaknuma,New Babar Bakery,4.3,₹100 for one,"Fast Food, Bakery, Desserts","Falaknuma, Hyderabad",0,yes,yes,no,no
+656,656,https://www.zomato.com/hyderabad/al-rahma-bakers-and-sweets-nampally,Al Rahma Bakers And Sweets,4.0,₹150 for one,"Bakery, Desserts, Mithai, Street Food","Nampally, Hyderabad",0,yes,yes,no,yes
+657,657,https://www.zomato.com/hyderabad/shahi-kabab-1-tolichowki,Shahi Kabab,3.2,₹200 for one,"North Indian, Chinese, Seafood","Tolichowki, Hyderabad",0,no,no,no,no
+658,658,https://www.zomato.com/hyderabad/hotel-n7-elite-saroor-nagar,Hotel N7 Elite,3.3,₹200 for one,"North Indian, Chinese, Biryani, Mughlai, Seafood, Mithai, Desserts","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+659,659,https://www.zomato.com/hyderabad/savera-hotel-chandrayanagutta,Savera Hotel,4.0,₹200 for one,North Indian,"Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+660,660,https://www.zomato.com/hyderabad/terrassen-cafe-banjara-hills,Terrassen Cafe,3.9,₹200 for one,"Cafe, Healthy Food, Burger, Pizza, Fast Food, Tea, Beverages, Bakery","Banjara Hills, Hyderabad",0,yes,yes,no,yes
+661,661,https://www.zomato.com/hyderabad/suruchi-grand-ramanthapur,Suruchi Grand,3.8,₹200 for one,"North Indian, Chinese","Ramanthapur, Hyderabad",0,yes,yes,no,no
+662,662,https://www.zomato.com/hyderabad/grills-n-fries-langer-houz,Grills 'N' Fries,3.3,₹200 for one,"North Indian, Chinese, Biryani, Desserts, Sichuan","Langer Houz, Hyderabad",0,yes,yes,no,no
+663,663,https://www.zomato.com/hyderabad/coffee-time-cafe-charminar,Coffee Time Cafe,New,₹200 for one,"Cafe, Fast Food, Pizza, Burger, Wraps, Coffee, Shake, Beverages","Charminar, Hyderabad",0,yes,yes,no,yes
+664,664,https://www.zomato.com/hyderabad/food-com-1-mehdipatnam,Food.com,4.0,₹200 for one,"North Indian, Kebab, Seafood, Chinese, Sichuan","Mehdipatnam, Hyderabad",0,yes,yes,no,no
+665,665,https://www.zomato.com/hyderabad/francais-pizza-rajendra-nagar,Francais Pizza,2.9,₹200 for one,"Pizza, Fast Food","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+666,666,https://www.zomato.com/hyderabad/maa-santosh-dhaba-family-restaurant-somajiguda,Maa Santosh Dhaba Family Restaurant,4.1,₹200 for one,"North Indian, Chinese, Biryani, Ice Cream, Beverages","Somajiguda, Hyderabad",0,yes,yes,no,yes
+667,667,https://www.zomato.com/hyderabad/sri-balaji-family-dhaba-amberpet,Sri Balaji Family Dhaba,3.7,₹200 for one,"North Indian, Chinese, Beverages","Amberpet, Hyderabad",0,yes,yes,no,yes
+668,668,https://www.zomato.com/hyderabad/7-layers-bakery-and-snacks-amberpet,7 Layers Bakery And Snacks,-,₹200 for one,"Bakery, Pizza, Rolls, Burger, Fast Food","Amberpet, Hyderabad",0,yes,yes,no,no
+669,669,https://www.zomato.com/hyderabad/mandi-elite-1-dilsukhnagar,Mandi Elite,4.1,₹400 for one,"Mughlai, Seafood","Dilsukhnagar, Hyderabad",0,no,no,no,no
+670,670,https://www.zomato.com/hyderabad/the-country-wok-kothapet,The Country Wok,3.4,₹400 for one,"Chinese, Fast Food, Beverages","Kothapet, Hyderabad",0,no,no,no,no
+671,671,https://www.zomato.com/hyderabad/lucky-lucky-dilsukhnagar,Lucky Lucky,3.2,₹400 for one,"Chinese, Biryani","Dilsukhnagar, Hyderabad",0,no,no,no,no
+672,672,https://www.zomato.com/hyderabad/hotel-miskeen-ghansi-bazaar,Hotel Miskeen,3.8,₹400 for one,"Mughlai, Hyderabadi","Ghansi Bazaar, Hyderabad",0,yes,yes,no,yes
+673,673,https://www.zomato.com/hyderabad/santoshi-dhaba-dilsukhnagar,Santoshi Dhaba,-,₹400 for one,"North Indian, Chinese, Biryani, Salad, Desserts","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+674,674,https://www.zomato.com/hyderabad/terra-cakes-malakpet,Terra Cakes,3.6,₹400 for one,Bakery,"Malakpet, Hyderabad",0,yes,yes,no,no
+675,675,https://www.zomato.com/hyderabad/new-delhi-mithaiwala-amberpet,New Delhi Mithaiwala,-,₹400 for one,"Mithai, Street Food","Amberpet, Hyderabad",0,yes,yes,no,no
+676,676,https://www.zomato.com/hyderabad/robin-bay-kitchen-2-dilsukhnagar,Robin Bay Kitchen,3.4,₹400 for one,"Pizza, Burger, Pasta, Street Food, Desserts","Dilsukhnagar, Hyderabad",0,no,no,no,no
+677,677,https://www.zomato.com/hyderabad/cremeborne-ice-creams-and-desserts-1-abids,Cremeborne - Ice Creams And Desserts,3.6,₹400 for one,"Ice Cream, Desserts, Fast Food, Pizza, Burger, Waffle, Coffee, Pancake","Abids, Hyderabad",0,yes,yes,no,no
+678,678,https://www.zomato.com/hyderabad/cakes-pastries-banjara-hills,Cakes & Pastries,3.9,₹400 for one,"Bakery, Desserts","Banjara Hills, Hyderabad",0,no,no,no,no
+679,679,https://www.zomato.com/hyderabad/zam-zam-fast-food-centre-charminar,Zam Zam Fast Food Centre,4.0,₹400 for one,Chinese,"Charminar Area, Charminar, Hyderabad",23,yes,yes,no,yes
+680,680,https://www.zomato.com/hyderabad/biryani-in-minutes-dilsukhnagar,Biryani In Minutes,3.3,₹400 for one,"Biryani, Chinese, South Indian","Dilsukhnagar, Hyderabad",0,no,no,no,no
+681,681,https://www.zomato.com/hyderabad/keshavam-family-restaurant-kacheguda,Keshavam Family Restaurant,4.1,₹200 for one,"South Indian, North Indian, Biryani, Chinese, Fast Food, Street Food, Desserts, Beverages","Kacheguda, Hyderabad",0,yes,yes,no,yes
+682,682,https://www.zomato.com/hyderabad/elysium-creamery-1-abids,Elysium Creamery,-,₹200 for one,"Ice Cream, Desserts","Abids, Hyderabad",0,yes,yes,no,yes
+683,683,https://www.zomato.com/hyderabad/gelato-burger-house-2-chandrayanagutta,Gelato Burger House,4.0,₹200 for one,"Fast Food, Beverages","Chandrayanagutta, Hyderabad",0,no,no,no,no
+684,684,https://www.zomato.com/hyderabad/zamans-arabian-food-saroor-nagar,Zaman's Arabian Food,4.0,₹200 for one,"Arabian, North Indian","Saroor Nagar, Hyderabad",0,yes,yes,no,no
+685,685,https://www.zomato.com/hyderabad/chinese-kitchen-1-dilsukhnagar,Chinese Kitchen,3.8,₹200 for one,"Chinese, Seafood, North Indian, Mughlai","Dilsukhnagar, Hyderabad",0,no,no,no,no
+686,686,https://www.zomato.com/hyderabad/indari-banjara-hills,Indari,3.9,₹200 for one,"South Indian, Andhra, Street Food, Biryani","Banjara Hills, Hyderabad",0,yes,yes,no,no
+687,687,https://www.zomato.com/hyderabad/gopal-vada-pav-kacheguda,Gopal Vada Pav,3.6,₹200 for one,"Street Food, Fast Food, Sandwich, Shake","Kacheguda, Hyderabad",0,yes,yes,no,no
+688,688,https://www.zomato.com/hyderabad/shawarma-central-chandrayanagutta,Shawarma Central,New,₹200 for one,"Shawarma, Sandwich, Burger","Chandrayanagutta, Hyderabad",0,no,no,no,no
+689,689,https://www.zomato.com/hyderabad/naidugari-kunda-biryani-dilsukhnagar,Naidugari Kunda Biryani,New,₹200 for one,"Biryani, South Indian, Chinese","Dilsukhnagar, Hyderabad",0,no,no,no,no
+690,690,https://www.zomato.com/hyderabad/star-bucket-briyani-himayath-nagar,Star Bucket Briyani,-,₹200 for one,"Biryani, South Indian, Chinese","Himayath Nagar, Hyderabad",0,no,no,no,no
+691,691,https://www.zomato.com/hyderabad/bubji-restaurant-falaknuma,Bubji Restaurant,New,₹200 for one,"North Indian, Fast Food, Chinese","Falaknuma, Hyderabad",0,yes,yes,no,no
+692,692,https://www.zomato.com/hyderabad/pasta-home-rajendra-nagar,Pasta Home,3.2,₹200 for one,"Pasta, Fast Food, Beverages","Rajendra Nagar, Hyderabad",0,yes,yes,no,no
+693,693,https://www.zomato.com/hyderabad/italian-affair-khairatabad,Italian Affair,4.0,₹200 for one,"Pasta, Fast Food","Khairatabad, Hyderabad",0,no,no,no,no
+694,694,https://www.zomato.com/hyderabad/mingle-maggi-musheerabad,Mingle Maggi,2.8,₹200 for one,"Street Food, Fast Food","Musheerabad, Hyderabad",3,no,no,no,no
+695,695,https://www.zomato.com/hyderabad/amogh-multicuisine-restaurant-kacheguda,Amogh Multicuisine Restaurant,4.1,₹200 for one,"Biryani, South Indian","Kacheguda, Hyderabad",0,yes,yes,no,no
+696,696,https://www.zomato.com/hyderabad/mahboob-bakers-chandrayanagutta,Mahboob Bakers,4.0,₹200 for one,"Bakery, Desserts, Fast Food","Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+697,697,https://www.zomato.com/hyderabad/aroma-food-court-himayath-nagar,Aroma Food Court,4.0,₹200 for one,"South Indian, Chinese","Himayath Nagar, Hyderabad",0,yes,yes,no,yes
+698,698,https://www.zomato.com/hyderabad/shawarma-valley-dilsukhnagar,Shawarma Valley,-,₹200 for one,"Chinese, Biryani","Dilsukhnagar, Hyderabad",0,no,no,no,no
+699,699,https://www.zomato.com/hyderabad/hotel-aadaab-nampally,Hotel Aadaab,4.0,₹200 for one,"North Indian, Chinese, Biryani, Mughlai, Seafood","Nampally, Hyderabad",0,yes,yes,no,yes
+700,700,https://www.zomato.com/hyderabad/al-azaan-restaurant-lakdikapul,Al Azaan Restaurant,3.7,₹200 for one,"Rolls, Shawarma","Lakdikapul, Hyderabad",0,no,no,no,no
+701,701,https://www.zomato.com/hyderabad/blue-nile-2-dining-takeaway-kacheguda,Blue Nile 2 Dining & Takeaway,3.9,₹200 for one,"North Indian, Mughlai, Chinese","Kacheguda, Hyderabad",0,yes,yes,no,yes
+702,702,https://www.zomato.com/hyderabad/sri-raadhe-chills-thrills-abids,Sri Raadhe Chills & Thrills,3.9,₹200 for one,"Street Food, Fast Food, Chinese, Beverages, Desserts, Pizza","Abids, Hyderabad",0,yes,yes,no,yes
+703,703,https://www.zomato.com/hyderabad/american-bakers-basheer-bagh,American Bakers,4.2,₹200 for one,"Bakery, Fast Food, Desserts, Pizza, Sandwich, Burger","Basheer Bagh, Hyderabad",2,yes,yes,no,yes
+704,704,https://www.zomato.com/hyderabad/bowl-99-musheerabad,Bowl 99,3.4,₹200 for one,"North Indian, South Indian","Musheerabad, Hyderabad",2,no,no,no,no
+705,705,https://www.zomato.com/hyderabad/splurge-thickshakes-and-milkshakes-1-himayath-nagar,Splurge - Thickshakes And Milkshakes,3.5,₹300 for one,"Shake, Beverages","Himayath Nagar, Hyderabad",8,no,no,no,no
+706,706,https://www.zomato.com/hyderabad/mh-999-restaurant-rajendra-nagar,MH 999 Restaurant,-,₹300 for one,"North Indian, Mughlai, Biryani, Chinese, Seafood","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+707,707,https://www.zomato.com/hyderabad/hyderabad-shawarma-house-narayanguda,Hyderabad Shawarma House,3.5,₹300 for one,"Shawarma, Burger, Fast Food","Narayanguda, Hyderabad",0,yes,yes,no,yes
+708,708,https://www.zomato.com/hyderabad/shawarma-bazaar-saroor-nagar,Shawarma Bazaar,4.0,₹300 for one,Shawarma,"Saroor Nagar, Hyderabad",0,yes,yes,no,no
+709,709,https://www.zomato.com/hyderabad/svr-crunchy-fries-lassi-hub-saroor-nagar,SVR CRUNCHY FRIES & LASSI HUB,New,₹300 for one,North Indian,"Saroor Nagar, Hyderabad",0,yes,yes,no,no
+710,710,https://www.zomato.com/hyderabad/the-milkshake-shop-kacheguda,The Milkshake Shop,3.0,₹300 for one,"Desserts, Ice Cream, Beverages, Shake","Kacheguda, Hyderabad",0,yes,yes,no,no
+711,711,https://www.zomato.com/hyderabad/black-pearl-hotel-central-park-himayath-nagar,Black Pearl - Hotel Central Park,4.0,₹300 for one,"North Indian, Chinese, Mughlai, Seafood, Kebab, Biryani, Desserts, Beverages","Himayath Nagar, Hyderabad",0,yes,yes,no,yes
+712,712,https://www.zomato.com/hyderabad/spasta-multicuisine-family-restaurant-1-dilsukhnagar,Spasta Multicuisine Family Restaurant,3.4,₹300 for one,"North Indian, Chinese, Kebab, Mughlai, Biryani, Seafood","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+713,713,https://www.zomato.com/hyderabad/woking-street-pan-asian-himayath-nagar,Woking Street - Pan Asian,4.1,₹300 for one,"Chinese, Asian, Sushi","Himayath Nagar, Hyderabad",0,no,no,no,no
+714,714,https://www.zomato.com/hyderabad/shahran-kebab-nampally,Shahran Kebab,3.8,₹300 for one,Kebab,"Nampally, Hyderabad",0,yes,yes,no,no
+715,715,https://www.zomato.com/hyderabad/popking-popcorn-2-basheer-bagh,PopKing Popcorn,4.6,₹300 for one,Fast Food,"Basheer Bagh, Hyderabad",0,yes,yes,no,no
+716,716,https://www.zomato.com/hyderabad/tcs-the-cheese-cake-story-himayath-nagar,TCS - The Cheese Cake Story,3.7,₹300 for one,Desserts,"Himayath Nagar, Hyderabad",0,no,no,no,no
+717,717,https://www.zomato.com/hyderabad/taste-punjab-da-1-banjara-hills,Taste Punjab Da,3.5,₹100 for one,North Indian,"Banjara Hills, Hyderabad",0,no,no,no,no
+718,718,https://www.zomato.com/hyderabad/burhanpur-khowa-jalebi-masab-tank,Burhanpur Khowa Jalebi,4.4,₹100 for one,"Desserts, Mithai","Masab Tank, Hyderabad",0,yes,yes,no,no
+719,719,https://www.zomato.com/hyderabad/waffle-frolic-charminar,Waffle Frolic,-,₹100 for one,Waffle,"Charminar, Hyderabad",0,yes,yes,no,no
+720,720,https://www.zomato.com/hyderabad/noodle-co-saroor-nagar,Noodle Co,4.0,₹100 for one,"Chinese, Asian","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+721,721,https://www.zomato.com/hyderabad/hive-honey-cake-masab-tank,Hive Honey Cake,4.0,₹100 for one,"Bakery, Desserts","Masab Tank, Hyderabad",0,yes,yes,no,no
+722,722,https://www.zomato.com/hyderabad/lebanese-bites-2-lakdikapul,Lebanese Bites,-,₹100 for one,"Pizza, Wraps, Burger, Sandwich, Fast Food, Salad, Kebab","Lakdikapul, Hyderabad",0,yes,yes,no,yes
+723,723,https://www.zomato.com/hyderabad/mozarella-dudes-abids,Mozarella Dudes,3.3,₹100 for one,"Pizza, Sandwich, Fast Food","Abids, Hyderabad",0,yes,yes,no,no
+724,724,https://www.zomato.com/hyderabad/chawoosh-tiffins-and-fast-food-chandrayanagutta,Chawoosh Tiffins And Fast Food,3.9,₹100 for one,Chinese,"Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+725,725,https://www.zomato.com/hyderabad/turkish-shawarma-falaknuma,Turkish Shawarma,3.6,₹100 for one,Shawarma,"Falaknuma, Hyderabad",0,yes,yes,no,yes
+726,726,https://www.zomato.com/hyderabad/wahh-chaap-more-himayath-nagar,Wahh Chaap & More,4.2,₹100 for one,"Wraps, Momos, North Indian","Himayath Nagar, Hyderabad",5,yes,yes,yes,no
+727,727,https://www.zomato.com/hyderabad/bangkok-169-banjara-hills,Bangkok 169,3.5,₹100 for one,"Asian, Chinese, Thai","Banjara Hills, Hyderabad",0,no,no,no,no
+728,728,https://www.zomato.com/hyderabad/kaati-zone-rolls-and-wraps-dilsukhnagar,Kaati Zone Rolls and Wraps,3.9,₹100 for one,"Rolls, Wraps, Fast Food, Desserts, Shake","Dilsukhnagar, Hyderabad",15,yes,yes,no,no
+729,729,https://www.zomato.com/hyderabad/grill-xpress-restro-saroor-nagar,Grill Xpress Restro,New,₹150 for one,"Burger, Fast Food, Shake, Beverages","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+730,730,https://www.zomato.com/hyderabad/blue-sea-tea-bakery-abids,Blue Sea Tea & Bakery,4.1,₹150 for one,"Tea, Bakery","Abids, Hyderabad",0,no,no,no,no
+731,731,https://www.zomato.com/hyderabad/burger-fun-rtc-x-roads,Burger Fun,3.4,₹150 for one,"Fast Food, Pizza, Burger, Chinese","RTC X roads, Hyderabad",0,no,no,no,no
+732,732,https://www.zomato.com/hyderabad/blue-dragon-by-mandilicious-himayath-nagar,Blue Dragon By Mandilicious,4.0,₹150 for one,Chinese,"Himayath Nagar, Hyderabad",2,no,no,no,no
+733,733,https://www.zomato.com/hyderabad/the-rotii-makers-street-saroor-nagar,The Rotii Makers Street,3.4,₹150 for one,"Andhra, South Indian","Saroor Nagar, Hyderabad",0,yes,yes,no,no
+734,734,https://www.zomato.com/hyderabad/roostys-1-dilsukhnagar,Roostys,3.5,₹150 for one,"Fast Food, Beverages","Dilsukhnagar, Hyderabad",0,yes,yes,no,no
+735,735,https://www.zomato.com/hyderabad/milan-bakery-sweet-house-mehdipatnam,Milan Bakery & Sweet House,4.3,₹150 for one,"Bakery, Street Food, Fast Food","Mehdipatnam, Hyderabad",3,yes,yes,no,no
+736,736,https://www.zomato.com/hyderabad/pizza-plaza-1-dilsukhnagar,Pizza Plaza,3.6,₹150 for one,"Pizza, Burger, Fast Food","Dilsukhnagar, Hyderabad",0,no,no,no,no
+737,737,https://www.zomato.com/hyderabad/cake-wala-1-masab-tank,Cake Wala,3.6,₹150 for one,"Bakery, Desserts","Masab Tank, Hyderabad",2,yes,yes,no,no
+738,738,https://www.zomato.com/hyderabad/viceroy-restaurant-bar-meerpet,Viceroy Restaurant & Bar,4.3,₹150 for one,"North Indian, Bar Food, Chinese, Mughlai, Seafood, Biryani","Meerpet, Hyderabad",0,yes,yes,no,yes
+739,739,https://www.zomato.com/hyderabad/the-kulfi-falooda-project-himayath-nagar,The Kulfi & Falooda Project,3.6,₹150 for one,"Ice Cream, Desserts","Himayath Nagar, Hyderabad",4,no,no,no,no
+740,740,https://www.zomato.com/hyderabad/deccan-chinese-fast-food-amberpet,Deccan Chinese Fast Food,3.3,₹150 for one,"Chinese, Sichuan","Amberpet, Hyderabad",0,yes,yes,no,yes
+741,741,https://www.zomato.com/hyderabad/noodles-express-dilsukhnagar,Noodles Express,4.0,₹250 for one,"Chinese, Biryani","Dilsukhnagar, Hyderabad",0,no,no,no,no
+742,742,https://www.zomato.com/hyderabad/al-maskat-mandi-malakpet,Al Maskat Mandi,3.5,₹250 for one,"Mandi, North Indian","Malakpet, Hyderabad",0,no,no,no,no
+743,743,https://www.zomato.com/hyderabad/amul-top-spin-abids,Amul Top Spin,3.7,₹250 for one,"Desserts, Ice Cream, Fast Food","Abids, Hyderabad",2,yes,yes,no,no
+744,744,https://www.zomato.com/hyderabad/the-just-biryani-khairatabad,The Just Biryani,3.9,₹250 for one,Biryani,"Khairatabad, Hyderabad",0,yes,yes,no,yes
+745,745,https://www.zomato.com/hyderabad/telangana-attapur,Telangana,2.9,₹250 for one,"Chinese, Sichuan","Attapur, Hyderabad",0,no,no,no,no
+746,746,https://www.zomato.com/hyderabad/lassi-n-cafe-amberpet,Lassi N Cafe,3.7,₹250 for one,"Beverages, Fast Food, Desserts, Juices, Shake, Burger, Coffee","Amberpet, Hyderabad",3,yes,yes,no,no
+747,747,https://www.zomato.com/hyderabad/rolls-in-feast-bowl-rajendra-nagar,Rolls In - Feast Bowl,4.0,₹250 for one,Rolls,"Rajendra Nagar, Hyderabad",2,no,no,no,no
+748,748,https://www.zomato.com/hyderabad/chaska-shawarma-mehdipatnam,Chaska Shawarma,3.6,₹250 for one,"Kebab, North Indian, Shawarma","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+749,749,https://www.zomato.com/hyderabad/sandwich-fun-1-rtc-x-roads,Sandwich Fun,3.2,₹250 for one,"Sandwich, Fast Food","RTC X roads, Hyderabad",0,no,no,no,no
+750,750,https://www.zomato.com/hyderabad/lebanese-doner-chandrayanagutta,Lebanese Doner,3.3,₹250 for one,"Fast Food, North Indian, Juices, Shawarma","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+751,751,https://www.zomato.com/hyderabad/khatmandu-momos-lakdikapul,Khatmandu Momo's,New,₹250 for one,Momos,"Lakdikapul, Hyderabad",0,no,no,no,no
+752,752,https://www.zomato.com/hyderabad/la-milano-pizzeria-himayath-nagar,La Milano Pizzeria,3.9,₹250 for one,"Pizza, Pasta, Fast Food","Himayath Nagar, Hyderabad",0,yes,yes,yes,no
+753,753,https://www.zomato.com/hyderabad/hotel-delhi-darbar-ghansi-bazaar,Hotel Delhi Darbar,3.3,₹150 for one,"North Indian, Mughlai","Ghansi Bazaar, Hyderabad",0,yes,yes,no,yes
+754,754,https://www.zomato.com/hyderabad/aditya-restaurant-ramanthapur,Aditya Restaurant,-,₹150 for one,"Street Food, North Indian","Ramanthapur, Hyderabad",0,no,no,no,no
+755,755,https://www.zomato.com/hyderabad/mohan-dhaba-begum-bazaar,Mohan Dhaba,-,₹150 for one,"North Indian, Biryani, Salad, Chinese","Begum Bazaar, Hyderabad",0,yes,yes,yes,no
+756,756,https://www.zomato.com/hyderabad/hare-krishna-santosh-dhaba-khairatabad,Hare Krishna Santosh Dhaba,4.0,₹150 for one,"North Indian, Chinese, Biryani","Khairatabad, Hyderabad",0,yes,yes,no,yes
+757,757,https://www.zomato.com/hyderabad/s-m-z-paratha-charminar,S M Z Paratha,3.7,₹150 for one,North Indian,"Charminar, Hyderabad",0,no,no,no,no
+758,758,https://www.zomato.com/hyderabad/al-mattam-mandi-malakpet,Al Mattam Mandi,-,₹150 for one,"Mandi, Arabian","Malakpet, Hyderabad",0,yes,yes,no,no
+759,759,https://www.zomato.com/hyderabad/down-town-restaurant-cafeteria-2-masab-tank,Down Town Restaurant & Cafeteria,New,₹150 for one,"Wraps, Fast Food","Masab Tank, Hyderabad",0,yes,yes,no,no
+760,760,https://www.zomato.com/hyderabad/ekathva-restaurant-koti,Ekathva Restaurant,New,₹150 for one,"North Indian, Chinese","Koti, Hyderabad",0,yes,yes,no,yes
+761,761,https://www.zomato.com/hyderabad/club-10-chicken-dilsukhnagar,Club 10 Chicken,-,₹150 for one,"Chinese, Momos, Pizza, Fast Food","Dilsukhnagar, Hyderabad",4,yes,yes,no,yes
+762,762,https://www.zomato.com/hyderabad/kunafa-nation-lakdikapul,Kunafa Nation,New,₹150 for one,Desserts,"Lakdikapul, Hyderabad",0,no,no,no,no
+763,763,https://www.zomato.com/hyderabad/dubai-fried-chicken-mutton-charminar,Dubai Fried Chicken & Mutton,3.7,₹150 for one,"Fast Food, Burger","Charminar, Hyderabad",0,yes,yes,no,no
+764,764,https://www.zomato.com/hyderabad/bachelor-burgers-rtc-x-roads,Bachelor Burgers,2.9,₹150 for one,"Fast Food, Burger, Pizza","RTC X roads, Hyderabad",3,no,no,no,no
+765,765,https://www.zomato.com/hyderabad/butter-singh-khairatabad,Butter Singh,3.1,₹150 for one,"North Indian, Kebab, Street Food, Chinese, Biryani, Beverages, Desserts","Khairatabad, Hyderabad",2,no,no,no,no
+766,766,https://www.zomato.com/hyderabad/al-hamoor-cafeteria-chandrayanagutta,Al-Hamoor Cafeteria,4.1,₹150 for one,"Roast Chicken, Wraps, Sandwich, Fast Food, Desserts","Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+767,767,https://www.zomato.com/hyderabad/ohris-mings-court-banjara-hills,Ohri's Ming's Court,3.8,₹150 for one,"Asian, Sushi, Chinese, Japanese, Seafood, Desserts, Beverages","Banjara Hills, Hyderabad",3,yes,yes,no,yes
+768,768,https://www.zomato.com/hyderabad/eggiz-for-egg-lovers-attapur,Eggiz - For Egg Lovers,3.7,₹150 for one,"South Indian, Street Food, Fast Food, Chinese","Attapur, Hyderabad",2,no,no,no,no
+769,769,https://www.zomato.com/hyderabad/tropical-fried-chicken-amberpet,Tropical Fried Chicken,-,₹150 for one,Fast Food,"Amberpet, Hyderabad",0,yes,yes,no,yes
+770,770,https://www.zomato.com/hyderabad/the-shawarma-daddy-rtc-x-roads,The Shawarma Daddy,2.9,₹150 for one,"Fast Food, Rolls, Shawarma","RTC X roads, Hyderabad",0,no,no,no,no
+771,771,https://www.zomato.com/hyderabad/cakes-online-banjara-hills,Cakes Online,4.0,₹150 for one,"Bakery, Desserts","Banjara Hills, Hyderabad",2,yes,yes,no,no
+772,772,https://www.zomato.com/hyderabad/patiala-on-the-rocks-abids,Patiala On The Rocks,2.6,₹150 for one,"Beverages, Fast Food, Shake","Abids, Hyderabad",0,no,no,no,no
+773,773,https://www.zomato.com/hyderabad/steak-out-banjara-hills,Steak Out,3.6,₹150 for one,"Steak, Sandwich, Burger","Banjara Hills, Hyderabad",0,no,no,no,no
+774,774,https://www.zomato.com/hyderabad/dannyz-pizzeria-2-mehdipatnam,Danny'z Pizzeria,3.6,₹150 for one,"Pizza, Fast Food, Desserts, Shake, Beverages","Mehdipatnam, Hyderabad",0,no,no,no,no
+775,775,https://www.zomato.com/hyderabad/cakes-temptations-masab-tank,Cakes Temptations,3.9,₹150 for one,"Bakery, Desserts","Masab Tank, Hyderabad",0,no,no,no,no
+776,776,https://www.zomato.com/hyderabad/maggibar-attapur,Maggibar,4.0,₹150 for one,"Street Food, Fast Food","Attapur, Hyderabad",0,no,no,no,no
+777,777,https://www.zomato.com/hyderabad/tasty-and-quick-pizza-kitchen-malakpet,Tasty And Quick Pizza Kitchen,4.3,₹150 for one,"Pizza, Fast Food","Malakpet, Hyderabad",0,no,no,no,no
+778,778,https://www.zomato.com/hyderabad/madina-darbar-lakdikapul,Madina Darbar,3.9,₹150 for one,"North Indian, Chinese, Shawarma","Lakdikapul, Hyderabad",0,yes,yes,no,no
+779,779,https://www.zomato.com/hyderabad/d-lite-shakes-snacks-dilsukhnagar,D-Lite Shakes & Snacks,3.5,₹150 for one,"Beverages, Shake, Fast Food","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+780,780,https://www.zomato.com/hyderabad/andhra-meal-company-boiguda-secunderabad,Andhra Meal Company,3.2,₹150 for one,"Andhra, Desserts","Boiguda, Secunderabad",8,no,no,no,no
+781,781,https://www.zomato.com/hyderabad/marvel-mandi-1-meerpet,Marvel Mandi,-,₹150 for one,Mandi,"Meerpet, Hyderabad",0,yes,yes,no,no
+782,782,https://www.zomato.com/hyderabad/garam-bucket-biryani-padmarao-nagar-secunderabad,Garam Bucket Biryani,4.1,₹150 for one,"Biryani, South Indian","Padmarao Nagar, Secunderabad",0,yes,yes,no,no
+783,783,https://www.zomato.com/hyderabad/parathawala-malakpet,Parathawala,4.0,₹150 for one,North Indian,"Malakpet, Hyderabad",0,yes,yes,no,no
+784,784,https://www.zomato.com/hyderabad/peris-kitchen-rtc-x-roads,Peri's Kitchen,4.0,₹150 for one,Hyderabadi,"RTC X roads, Hyderabad",0,yes,yes,no,no
+785,785,https://www.zomato.com/hyderabad/prem-di-rasoi-abids,Prem Di Rasoi,4.1,₹150 for one,"North Indian, Chinese, Beverages, Shake, Pizza","Abids, Hyderabad",0,yes,yes,no,yes
+786,786,https://www.zomato.com/hyderabad/seedha-saada-samosa-attapur,Seedha Saada Samosa,2.9,₹150 for one,Fast Food,"Attapur, Hyderabad",3,no,no,no,no
+787,787,https://www.zomato.com/hyderabad/the-hot-bowl-2-kacheguda,The Hot Bowl,-,₹150 for one,Chinese,"Kacheguda, Hyderabad",0,yes,yes,no,yes
+788,788,https://www.zomato.com/hyderabad/the-palakollu-tiffins-pulaos-panjagutta,The Palakollu Tiffins & Pulaos,New,₹150 for one,South Indian,"Panjagutta, Hyderabad",0,yes,yes,no,no
+789,789,https://www.zomato.com/hyderabad/arabian-restro-chandrayanagutta,Arabian Restro,New,₹150 for one,"Shawarma, Fast Food, Sandwich, Burger","Chandrayanagutta, Hyderabad",0,no,no,no,no
+790,790,https://www.zomato.com/hyderabad/biryani-hazir-ho-attapur,Biryani Hazir Ho,3.0,₹150 for one,"Biryani, North Indian, Desserts, Beverages","Attapur, Hyderabad",3,yes,yes,no,no
+791,791,https://www.zomato.com/hyderabad/badmash-biryani-attapur,Badmash Biryani,3.1,₹150 for one,"Biryani, North Indian","Attapur, Hyderabad",3,no,no,no,no
+792,792,https://www.zomato.com/hyderabad/wild-west-burgers-narayanguda,Wild West Burgers,4.0,₹150 for one,"Burger, Sandwich, Fast Food, North Indian, Waffle, Beverages","Narayanguda, Hyderabad",2,yes,yes,no,yes
+793,793,https://www.zomato.com/hyderabad/the-fritter-fry-kothapet,The Fritter Fry,3.3,₹150 for one,"Continental, Beverages, Shake","Kothapet, Hyderabad",0,no,no,no,no
+794,794,https://www.zomato.com/hyderabad/d-grill-kitchen-nampally,D Grill Kitchen,4.3,₹150 for one,"Sandwich, Burger, Fast Food, Lebanese","Nampally, Hyderabad",0,yes,yes,no,no
+795,795,https://www.zomato.com/hyderabad/le-kaffeine-more-banjara-hills,Le - Kaffeine & More,-,₹100 for one,"Coffee, Shake, Beverages","Banjara Hills, Hyderabad",0,yes,yes,no,no
+796,796,https://www.zomato.com/hyderabad/kingdom-of-wraps-malakpet,Kingdom Of Wraps,3.2,₹200 for one,"Wraps, Sandwich, Burger, Fast Food, Seafood, North Indian","Malakpet, Hyderabad",0,yes,yes,no,no
+797,797,https://www.zomato.com/hyderabad/cafe-111-mehdipatnam,Cafe 111,3.2,₹150 for one,"Chinese, South Indian, Biryani","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+798,798,https://www.zomato.com/hyderabad/zaiqa-fish-point-5-chandrayanagutta,Zaiqa Fish Point,4.0,₹150 for one,Seafood,"Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+799,799,https://www.zomato.com/hyderabad/pop-pulao-boiguda-secunderabad,Pop Pulao,-,₹250 for one,"North Indian, Desserts","Boiguda, Secunderabad",3,no,no,no,no
+800,800,https://www.zomato.com/hyderabad/dozo-desi-meals-khairatabad,Dozo - Desi Meals,-,₹150 for one,"North Indian, Beverages","Khairatabad, Hyderabad",2,no,no,no,no
+801,801,https://www.zomato.com/hyderabad/royal-biryani-kababs-masab-tank,Royal Biryani & Kababs,3.8,₹100 for one,"North Indian, Chinese, Biryani","Masab Tank, Hyderabad",0,yes,yes,no,yes
+802,802,https://www.zomato.com/hyderabad/peshawar-juice-ice-cream-lakdikapul,Peshawar Juice & Ice Cream,3.7,₹100 for one,"Beverages, Desserts, Juices, Ice Cream","Lakdikapul, Hyderabad",0,yes,yes,no,yes
+803,803,https://www.zomato.com/hyderabad/zaras-biryani-corner-2-attapur,Zara's Biryani Corner,-,₹100 for one,Biryani,"Attapur, Hyderabad",0,no,no,no,no
+804,804,https://www.zomato.com/hyderabad/svs-vegetarian-restaurant-begum-bazaar,SVS Vegetarian Restaurant,-,₹100 for one,"North Indian, South Indian, Chinese, Biryani","Begum Bazaar, Hyderabad",0,yes,yes,yes,no
+805,805,https://www.zomato.com/hyderabad/pulao-king-dilsukhnagar,Pulao King,3.6,₹100 for one,"Andhra, South Indian","Dilsukhnagar, Hyderabad",0,no,no,no,no
+806,806,https://www.zomato.com/hyderabad/al-jabami-arabian-mandi-malakpet,Al Jabami Arabian Mandi,-,₹100 for one,Mandi,"Malakpet, Hyderabad",0,no,no,no,no
+807,807,https://www.zomato.com/hyderabad/bismillah-paratha-charminar,Bismillah Paratha,4.0,₹100 for one,North Indian,"Charminar, Hyderabad",0,no,no,no,no
+808,808,https://www.zomato.com/hyderabad/egg-morning-omlettes-boiguda-secunderabad,Egg Morning - Omlette's,3.8,₹100 for one,"Street Food, Desserts","Boiguda, Secunderabad",3,no,no,no,no
+809,809,https://www.zomato.com/hyderabad/hyderabadi-food-court-masab-tank,Hyderabadi Food Court,-,₹100 for one,"Hyderabadi, North Indian, Mandi, Chinese, Biryani, Seafood, Desserts","Masab Tank, Hyderabad",0,yes,yes,no,no
+810,810,https://www.zomato.com/hyderabad/fruitphall-narayanguda,Fruitphall,3.8,₹100 for one,"Healthy Food, Salad","Narayanguda, Hyderabad",0,no,no,no,no
+811,811,https://www.zomato.com/hyderabad/fabelle-chocolates-himayath-nagar,Fabelle Chocolates,4.0,₹100 for one,"Bakery, Desserts, Beverages, Ice Cream, Juices, Bengali","Himayath Nagar, Hyderabad",16,yes,yes,no,yes
+812,812,https://www.zomato.com/hyderabad/dude-wheres-my-burger-dilsukhnagar,Dude! Where's My Burger,3.4,₹100 for one,"Burger, Pizza, Sandwich, Wraps, Lebanese, Fast Food, Beverages","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+813,813,https://www.zomato.com/hyderabad/our-cake-heaven-1-amberpet,Our Cake Heaven,-,₹100 for one,"Bakery, Desserts","Amberpet, Hyderabad",0,no,no,no,no
+814,814,https://www.zomato.com/hyderabad/stop-n-go-bakers-lakdikapul,Stop N Go Bakers,3.9,₹100 for one,"Pizza, Burger, Fast Food, Chinese","Lakdikapul, Hyderabad",2,yes,yes,no,yes
+815,815,https://www.zomato.com/hyderabad/new-lavish-food-court-nallakunta,New Lavish Food Court,3.2,₹100 for one,"North Indian, Chinese","Nallakunta, Hyderabad",0,yes,yes,no,yes
+816,816,https://www.zomato.com/hyderabad/cakes-king-masab-tank,Cakes King,3.5,₹100 for one,"Bakery, Desserts","Masab Tank, Hyderabad",0,no,no,no,no
+817,817,https://www.zomato.com/hyderabad/new-satyanarayan-mithai-bhandar-begum-bazaar,New Satyanarayan Mithai Bhandar,4.2,₹100 for one,"Mithai, Desserts","Begum Bazaar, Hyderabad",0,yes,yes,no,no
+818,818,https://www.zomato.com/hyderabad/jo-momo-khairatabad,Jo Momo,3.6,₹100 for one,"Chinese, Momos, Asian, Fast Food, Beverages","Khairatabad, Hyderabad",6,no,no,no,no
+819,819,https://www.zomato.com/hyderabad/nizami-shawarma-banjara-hills,Nizami Shawarma,4.0,₹100 for one,Shawarma,"Banjara Hills, Hyderabad",0,no,no,no,no
+820,820,https://www.zomato.com/hyderabad/ishaan-pizza-zone-begum-bazaar,Ishaan Pizza Zone,3.3,₹100 for one,"Fast Food, Street Food, Pizza, Chinese, Paan","Begum Bazaar, Hyderabad",0,yes,yes,yes,no
+821,821,https://www.zomato.com/hyderabad/kafaras-cafe-studio-amberpet,Kafara's Cafe Studio,New,₹100 for one,"Fast Food, Shawarma","Amberpet, Hyderabad",0,no,no,no,no
+822,822,https://www.zomato.com/hyderabad/the-burger-life-dilsukhnagar,The Burger Life,3.5,₹100 for one,"Fast Food, Burger","Dilsukhnagar, Hyderabad",0,no,no,no,no
+823,823,https://www.zomato.com/hyderabad/around-the-world-koti,Around The World,-,₹100 for one,"Fast Food, Street Food, Pasta, Pizza, Waffle, Desserts, Shake, Beverages","Koti, Hyderabad",0,yes,yes,no,yes
+824,824,https://www.zomato.com/hyderabad/stop-n-eat-chicken-shawarma-saroor-nagar,Stop N Eat Chicken Shawarma,4.2,₹100 for one,Shawarma,"Saroor Nagar, Hyderabad",0,yes,yes,no,no
+825,825,https://www.zomato.com/hyderabad/gobblers-rolls-bowls-abids,Gobblers Rolls & Bowls,2.6,₹150 for one,"Rolls, North Indian, Italian, Fast Food, Shake","Abids, Hyderabad",0,no,no,no,no
+826,826,https://www.zomato.com/hyderabad/ghalibs-biryani-attapur,Ghalibs Biryani,2.8,₹150 for one,Biryani,"Attapur, Hyderabad",3,no,no,no,no
+827,827,https://www.zomato.com/hyderabad/crave-adda-attapur,Crave Adda,3.8,₹150 for one,"South Indian, Chinese, Tea, Beverages","Attapur, Hyderabad",0,yes,yes,no,no
+828,828,https://www.zomato.com/hyderabad/s-y-m-food-court-dilsukhnagar,S.Y.M. Food Court,4.1,₹150 for one,"North Indian, Chinese, Street Food, Beverages","Dilsukhnagar, Hyderabad",0,no,no,no,no
+829,829,https://www.zomato.com/hyderabad/brioche-the-bake-house-attapur,Brioche The Bake House,4.0,₹150 for one,"Bakery, Desserts, Pizza, Sandwich, Burger, Hot dogs","Attapur, Hyderabad",0,yes,yes,no,yes
+830,830,https://www.zomato.com/hyderabad/dorababu-pulao-dilsukhnagar,Dorababu Pulao,-,₹150 for one,"South Indian, Shawarma","Dilsukhnagar, Hyderabad",0,no,no,no,no
+831,831,https://www.zomato.com/hyderabad/khichdi-kahani-1-boiguda-secunderabad,Khichdi Kahani,-,₹150 for one,"Healthy Food, Desserts","Boiguda, Secunderabad",0,no,no,no,no
+832,832,https://www.zomato.com/hyderabad/emmy-biryani-saroor-nagar,Emmy Biryani,-,₹150 for one,"Biryani, South Indian, North Indian, Seafood, Chinese, Sichuan, Shawarma, Fast Food","Saroor Nagar, Hyderabad",0,no,no,no,no
+833,833,https://www.zomato.com/hyderabad/radhe-radhe-tiffins-rice-bowls-malakpet,Radhe Radhe Tiffins & Rice Bowls,-,₹150 for one,"South Indian, Street Food","Malakpet, Hyderabad",0,yes,yes,no,yes
+834,834,https://www.zomato.com/hyderabad/mccafe-by-mcdonalds-abids,McCafe by McDonald's,4.0,₹150 for one,"Cafe, Coffee, Shake, Fast Food, Desserts","MPM Mall, Abids, Hyderabad",3,yes,yes,no,yes
+835,835,https://www.zomato.com/hyderabad/slurpy-shakes-dilsukhnagar,Slurpy Shakes,3.2,₹150 for one,"Ice Cream, Shake, Desserts","Dilsukhnagar, Hyderabad",11,no,no,no,no
+836,836,https://www.zomato.com/hyderabad/balaji-govind-dhabaa-rajendra-nagar,Balaji Govind Dhabaa,4.0,₹150 for one,"North Indian, Chinese, Biryani","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+837,837,https://www.zomato.com/hyderabad/fast-food-platform-dilsukhnagar,Fast Food Platform,-,₹200 for one,Chinese,"Dilsukhnagar, Hyderabad",0,no,no,no,no
+838,838,https://www.zomato.com/hyderabad/ramzan-rumali-point-nampally,Ramzan Rumali Point,New,₹200 for one,"North Indian, Hyderabadi","Nampally, Hyderabad",0,no,no,no,no
+839,839,https://www.zomato.com/hyderabad/epic-kitchen-3-dilsukhnagar,Epic Kitchen,New,₹200 for one,"Chinese, Street Food, Momos, Pizza","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+840,840,https://www.zomato.com/hyderabad/tif-in-attapur,Tif In,3.4,₹200 for one,South Indian,"Attapur, Hyderabad",4,no,no,no,no
+841,841,https://www.zomato.com/hyderabad/ice-cream-shop-1-nampally,Ice Cream Shop,New,₹200 for one,"Ice Cream, Juices, Shake, Beverages","Nampally, Hyderabad",0,no,no,no,no
+842,842,https://www.zomato.com/hyderabad/my-crush-mandi-restaurant-2-attapur,My Crush Mandi Restaurant,New,₹200 for one,"Mandi, Biryani, Desserts, Seafood","Attapur, Hyderabad",0,no,no,no,no
+843,843,https://www.zomato.com/hyderabad/sumaakshi-fast-food-adda-narayanguda,Sumaakshi Fast Food Adda,4.2,₹200 for one,Chinese,"Narayanguda, Hyderabad",0,yes,yes,no,yes
+844,844,https://www.zomato.com/hyderabad/sharmaji-pav-bhaji-fast-food-begum-bazaar,Sharmaji Pav Bhaji & Fast Food,3.2,₹200 for one,"Chinese, Street Food","Begum Bazaar, Hyderabad",0,yes,yes,no,yes
+845,845,https://www.zomato.com/hyderabad/kings-food-court-abids,Kings Food Court,3.5,₹200 for one,"North Indian, Chinese, Sichuan","Abids, Hyderabad",0,yes,yes,no,yes
+846,846,https://www.zomato.com/hyderabad/eggoholic-musheerabad,Eggoholic,3.2,₹200 for one,"Sandwich, Rolls, Fast Food, Street Food, Shake, Beverages","Musheerabad, Hyderabad",0,yes,yes,no,yes
+847,847,https://www.zomato.com/hyderabad/bench-cafe-restaurant-abids,Bench Cafe & Restaurant,3.9,₹200 for one,"Cafe, Beverages, Sichuan, Chinese, Pizza, Burger, Momos, Fast Food","Abids, Hyderabad",0,yes,yes,no,yes
+848,848,https://www.zomato.com/hyderabad/laxmi-balaji-santosh-family-dhaba-boiguda-secunderabad,Laxmi Balaji Santosh Family Dhaba,4.3,₹200 for one,"North Indian, Chinese, Biryani","Boiguda, Secunderabad",0,yes,yes,no,yes
+849,849,https://www.zomato.com/hyderabad/momo-street-abids,Momo Street,3.3,₹150 for one,"Rolls, North Indian, Shake, Street Food, Fast Food","Abids, Hyderabad",0,no,no,no,no
+850,850,https://www.zomato.com/hyderabad/rizq-house-nadurgul,RIZQ House,New,₹150 for one,Chinese,"Nadurgul, Hyderabad",0,yes,yes,no,no
+851,851,https://www.zomato.com/hyderabad/varaahi-tiffins-dilsukhnagar,Varaahi Tiffins,-,₹150 for one,South Indian,"Dilsukhnagar, Hyderabad",0,yes,yes,no,no
+852,852,https://www.zomato.com/hyderabad/gobblers-rolls-bowls-khairatabad,Gobblers Rolls & Bowls,3.5,₹150 for one,"North Indian, Rolls, Beverages","Khairatabad, Hyderabad",0,no,no,no,no
+853,853,https://www.zomato.com/hyderabad/kekiz-cake-shop-malakpet,Kekiz Cake Shop,3.8,₹150 for one,"Bakery, Desserts, Fast Food","Malakpet, Hyderabad",2,yes,yes,no,no
+854,854,https://www.zomato.com/hyderabad/the-ketchup-hall-1-attapur,The Ketchup Hall,3.3,₹150 for one,Chinese,"Attapur, Hyderabad",4,no,no,no,no
+855,855,https://www.zomato.com/hyderabad/rhm-bakers-2-adikmet,RHM Bakers,3.3,₹150 for one,"Bakery, Fast Food, Shake, Beverages","Adikmet, Hyderabad",0,yes,yes,no,no
+856,856,https://www.zomato.com/hyderabad/tree-house-multi-cuisine-family-restaurant-saroor-nagar,Tree House Multi Cuisine Family Restaurant,New,₹150 for one,"North Indian, South Indian, Mughlai, Chinese, Shawarma, Biryani, Desserts, Beverages","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+857,857,https://www.zomato.com/hyderabad/rammy-fast-food-adikmet,Rammy Fast Food,3.7,₹150 for one,"Chinese, Sichuan","Adikmet, Hyderabad",0,yes,yes,no,yes
+858,858,https://www.zomato.com/hyderabad/best-burgers-malakpet,Best Burgers,3.5,₹150 for one,"Pizza, Burger, Fast Food","Malakpet, Hyderabad",0,yes,yes,no,yes
+859,859,https://www.zomato.com/hyderabad/us-live-pops-khairatabad,US Live Pops,4.7,₹150 for one,Fast Food,"Khairatabad, Hyderabad",0,yes,yes,no,no
+860,860,https://www.zomato.com/hyderabad/cake-le-gateau-galerie-dilsukhnagar,Cake - Le Gateau Galerie,-,₹150 for one,Bakery,"Dilsukhnagar, Hyderabad",0,yes,yes,no,no
+861,861,https://www.zomato.com/hyderabad/biryani-in-midnight-dilsukhnagar,Biryani In Midnight,-,₹350 for one,"Biryani, Chinese","Dilsukhnagar, Hyderabad",0,no,no,no,no
+862,862,https://www.zomato.com/hyderabad/crust-pizzeria-banjara-hills,Crust Pizzeria,-,₹350 for one,"Pizza, Pasta","Banjara Hills, Hyderabad",0,no,no,no,no
+863,863,https://www.zomato.com/hyderabad/royal-biryani-kabab-juice-center-masab-tank,"Royal Biryani, Kabab & Juice Center",3.0,₹350 for one,"Chinese, Biryani, North Indian, Kebab, Beverages","Masab Tank, Hyderabad",0,yes,yes,no,no
+864,864,https://www.zomato.com/hyderabad/panthashala-1-charminar,Panthashala,4.0,₹350 for one,"Chinese, North Indian, Biryani","Charminar, Hyderabad",0,yes,yes,no,yes
+865,865,https://www.zomato.com/hyderabad/new-shahi-naan-malakpet,New Shahi Naan,4.5,₹350 for one,North Indian,"Malakpet, Hyderabad",0,yes,yes,no,no
+866,866,https://www.zomato.com/hyderabad/cakes-king-1-banjara-hills,Cakes King,3.4,₹350 for one,"Bakery, Desserts","Banjara Hills, Hyderabad",0,no,no,no,no
+867,867,https://www.zomato.com/hyderabad/bar-house-and-restaurant-khairatabad,Bar House And Restaurant,-,₹350 for one,"Hyderabadi, North Indian, Seafood, Biryani, Mughlai, Chinese, Kebab","Khairatabad, Hyderabad",0,yes,yes,no,yes
+868,868,https://www.zomato.com/hyderabad/rabiyas-kitchen-malakpet,Rabiya's Kitchen,4.4,₹350 for one,"North Indian, Hyderabadi, Mughlai","Malakpet, Hyderabad",0,yes,yes,no,no
+869,869,https://www.zomato.com/hyderabad/magic-pan-chandrayanagutta,Magic Pan,New,₹350 for one,"South Indian, Chinese","Chandrayanagutta, Hyderabad",0,no,no,no,no
+870,870,https://www.zomato.com/hyderabad/dollar-the-cloud-nampally,Dollar The Cloud,-,₹350 for one,"Momos, Rolls, Street Food","Nampally, Hyderabad",0,no,no,no,no
+871,871,https://www.zomato.com/hyderabad/shero-home-food-andhra-3-saroor-nagar,Shero Home Food - Andhra,3.8,₹350 for one,"Andhra, South Indian, Desserts","Saroor Nagar, Hyderabad",89,no,no,no,no
+872,872,https://www.zomato.com/hyderabad/chinese-house-saroor-nagar,Chinese House,New,₹350 for one,"North Indian, Chinese, Kebab, Seafood, Street Food, Shake, Coffee, Beverages","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+873,873,https://www.zomato.com/hyderabad/tawakkal-mandi-arabian-food-court-saroor-nagar,Tawakkal Mandi Arabian Food Court,-,₹300 for one,"Mandi, Biryani","Saroor Nagar, Hyderabad",0,yes,yes,no,yes
+874,874,https://www.zomato.com/hyderabad/acme-candy-food-malakpet,Acme Candy Food,-,₹300 for one,Desserts,"Malakpet, Hyderabad",0,no,no,no,no
+875,875,https://www.zomato.com/hyderabad/cakes-papaji-masab-tank,Cakes Papaji,3.3,₹300 for one,"Bakery, Desserts","Masab Tank, Hyderabad",0,no,no,no,no
+876,876,https://www.zomato.com/hyderabad/dark-house-2-dilsukhnagar,Dark House,New,₹300 for one,"North Indian, Biryani, Chinese","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+877,877,https://www.zomato.com/hyderabad/funshakes-rtc-x-roads,Funshakes,3.1,₹300 for one,"Fast Food, Shake, Pizza","RTC X roads, Hyderabad",0,no,no,no,no
+878,878,https://www.zomato.com/hyderabad/alfa-bakery-3-masab-tank,Alfa Bakery,3.3,₹300 for one,Bakery,"Masab Tank, Hyderabad",0,yes,yes,no,no
+879,879,https://www.zomato.com/hyderabad/sundar-family-dhaba-attapur,Sundar Family Dhaba,-,₹300 for one,"Chinese, North Indian, South Indian","Attapur, Hyderabad",0,yes,yes,no,yes
+880,880,https://www.zomato.com/hyderabad/the-burger-club-koti,The Burger Club,3.3,₹300 for one,"Burger, Sandwich, Fast Food, Lebanese, Shake","Koti, Hyderabad",3,yes,yes,no,no
+881,881,https://www.zomato.com/hyderabad/hyderabad-caffe-mehdipatnam,Hyderabad Caffe,New,₹300 for one,"Fast Food, Beverages, Shake, Coffee","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+882,882,https://www.zomato.com/hyderabad/tortilla-wraps-rolls-boiguda-secunderabad,Tortilla - Wraps & Rolls,3.3,₹300 for one,Wraps,"Boiguda, Secunderabad",3,no,no,no,no
+883,883,https://www.zomato.com/hyderabad/nayaab-haleem-an-more-somajiguda,Nayaab Haleem An More,New,₹300 for one,"Hyderabadi, Biryani","Somajiguda, Hyderabad",0,no,no,no,no
+884,884,https://www.zomato.com/hyderabad/puliyogare-palace-boiguda-secunderabad,Puliyogare Palace,3.0,₹300 for one,"South Indian, Desserts","Boiguda, Secunderabad",0,no,no,no,no
+885,885,https://www.zomato.com/hyderabad/al-kusum-mandi-malakpet,Al - Kusum Mandi,-,₹200 for one,Mandi,"Malakpet, Hyderabad",0,no,no,no,no
+886,886,https://www.zomato.com/hyderabad/cheesecakes-by-cakezone-himayath-nagar,Cheesecakes by CakeZone,4.0,₹200 for one,"Bakery, Desserts","Himayath Nagar, Hyderabad",17,no,no,no,no
+887,887,https://www.zomato.com/hyderabad/maliks-food-hub-rajendra-nagar,Malik's Food Hub,3.7,₹200 for one,"North Indian, Seafood","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+888,888,https://www.zomato.com/hyderabad/the-sandwich-story-himayath-nagar,The Sandwich Story,3.5,₹200 for one,"Sandwich, Beverages, Shake","Himayath Nagar, Hyderabad",4,no,no,no,no
+889,889,https://www.zomato.com/hyderabad/piyush-juice-and-chat-abids,Piyush Juice And Chat,-,₹200 for one,"Fast Food, Street Food, Sandwich, Pizza, Burger, Ice Cream, Juices, Shake","Abids, Hyderabad",0,yes,yes,no,no
+890,890,https://www.zomato.com/hyderabad/veg-luv-bowl-musheerabad,Veg Luv Bowl,-,₹200 for one,North Indian,"Musheerabad, Hyderabad",0,no,no,no,no
+891,891,https://www.zomato.com/hyderabad/healthy-grub-banjara-hills,Healthy Grub,-,₹200 for one,"Fast Food, Chinese, Salad, Desserts","Banjara Hills, Hyderabad",0,no,no,no,no
+892,892,https://www.zomato.com/hyderabad/makhanwala-khairatabad,Makhanwala,2.7,₹200 for one,"Kebab, North Indian","Khairatabad, Hyderabad",3,no,no,no,no
+893,893,https://www.zomato.com/hyderabad/shawarma-house-4-chandrayanagutta,Shawarma House,-,₹200 for one,"Pizza, Burger, Fast Food, Shawarma","Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+894,894,https://www.zomato.com/hyderabad/shakezone-himayath-nagar,Shakezone,3.6,₹200 for one,Shake,"Himayath Nagar, Hyderabad",0,no,no,no,no
+895,895,https://www.zomato.com/hyderabad/aroha-restaurant-1-lakdikapul,Aroha Restaurant,-,₹200 for one,"South Indian, Chinese, Biryani, North Indian, Mughlai","Lakdikapul, Hyderabad",0,yes,yes,no,yes
+896,896,https://www.zomato.com/hyderabad/the-shahanis-rtc-x-roads,The Shahani's,-,₹200 for one,"Chinese, Sichuan","RTC X roads, Hyderabad",0,no,no,no,no
+897,897,https://www.zomato.com/hyderabad/jumerah-arabian-mandi-1-malakpet,Jumerah Arabian Mandi,-,₹500 for one,"Mandi, Arabian, North Indian","Malakpet, Hyderabad",0,yes,yes,no,no
+898,898,https://www.zomato.com/hyderabad/feel-in-saudia-charminar,Feel in Saudia,3.7,₹500 for one,"Lebanese, Beverages","Charminar, Hyderabad",0,yes,yes,no,no
+899,899,https://www.zomato.com/hyderabad/burger-brothers-boiguda-secunderabad,Burger Brother's,-,₹500 for one,"Burger, Fast Food","Boiguda, Secunderabad",0,no,no,no,no
+900,900,https://www.zomato.com/hyderabad/parampara-flavours-of-india-banjara-hills,Parampara - Flavours Of India,4.0,₹500 for one,"North Indian, South Indian, Chinese","Banjara Hills, Hyderabad",2,yes,yes,no,yes
+901,901,https://www.zomato.com/hyderabad/dubai-fried-chicken-mutton-1-charminar,Dubai Fried Chicken & Mutton,-,₹500 for one,"Burger, BBQ, Fast Food, Beverages","Charminar, Hyderabad",0,yes,yes,no,yes
+902,902,https://www.zomato.com/hyderabad/broast-express-rajendra-nagar,Broast Express,3.9,₹500 for one,"Fast Food, Roast Chicken","Rajendra Nagar, Hyderabad",0,yes,yes,no,no
+903,903,https://www.zomato.com/hyderabad/lakhdatar-fast-food-and-chat-kacheguda,Lakhdatar Fast Food And Chat,-,₹500 for one,"Chinese, Sichuan","Kacheguda, Hyderabad",0,yes,yes,no,no
+904,904,https://www.zomato.com/hyderabad/sai-charan-dhaba-2-attapur,Sai Charan Dhaba 2,4.1,₹500 for one,"North Indian, Chinese, Biryani","Attapur, Hyderabad",0,yes,yes,no,yes
+905,905,https://www.zomato.com/hyderabad/lassi-more-masab-tank,Lassi & More,3.6,₹500 for one,"Coffee, Shake, Ice Cream, Beverages","Masab Tank, Hyderabad",0,no,no,no,no
+906,906,https://www.zomato.com/hyderabad/24-7-biryani-dilsukhnagar,24/7 Biryani,3.4,₹500 for one,"Biryani, Chinese","Dilsukhnagar, Hyderabad",0,no,no,no,no
+907,907,https://www.zomato.com/hyderabad/chicken-65-box-dilsukhnagar,Chicken 65 Box,New,₹500 for one,"Chinese, Sichuan, Biryani","Dilsukhnagar, Hyderabad",0,no,no,no,no
+908,908,https://www.zomato.com/hyderabad/rock-springs-food-court-dilsukhnagar,Rock Springs Food Court,4.1,₹500 for one,"North Indian, Biryani, Chinese, Sichuan","Dilsukhnagar, Hyderabad",0,yes,yes,no,yes
+909,909,https://www.zomato.com/hyderabad/siri-food-court-kothapet,Siri Food Court,3.7,₹100 for one,"Chinese, Sichuan","Kothapet, Hyderabad",0,yes,yes,no,no
+910,910,https://www.zomato.com/hyderabad/bijing-chef-khairatabad,Bijing chef,-,₹100 for one,"Chinese, North Indian, Sichuan","Khairatabad, Hyderabad",0,yes,yes,no,no
+911,911,https://www.zomato.com/hyderabad/burger-bytes-lakdikapul,Burger Bytes,New,₹100 for one,"Fast Food, Burger, Sandwich","Lakdikapul, Hyderabad",0,no,no,no,no
+912,912,https://www.zomato.com/hyderabad/the-pit-smokers-banjara-hills,The Pit Smokers,4.0,₹100 for one,"Burger, BBQ","Banjara Hills, Hyderabad",0,no,no,no,no
+913,913,https://www.zomato.com/hyderabad/kafenio-lounge-1-banjara-hills,Kafenio Lounge,New,₹100 for one,"Cafe, Coffee, Tea, Shake, Beverages, Sandwich, Fast Food, Street Food","Banjara Hills, Hyderabad",0,yes,yes,no,yes
+914,914,https://www.zomato.com/hyderabad/ice-creamwalla-co-lakdikapul,Ice Creamwalla & Co.,New,₹100 for one,Ice Cream,"Lakdikapul, Hyderabad",0,no,no,no,no
+915,915,https://www.zomato.com/hyderabad/sandwich-box-malakpet,Sandwich Box,4.3,₹100 for one,"Sandwich, Fast Food, North Indian","Malakpet, Hyderabad",0,yes,yes,no,no
+916,916,https://www.zomato.com/hyderabad/naan-munshi-sahab-nampally,Naan Munshi Sahab,4.0,₹100 for one,North Indian,"Nampally, Hyderabad",0,yes,yes,no,no
+917,917,https://www.zomato.com/hyderabad/hard-rock-cafe-banjara-hills,Hard Rock Cafe,3.7,₹100 for one,"American, Continental, Fast Food, Beverages, Burger","GVK One Mall, Banjara Hills, Hyderabad",14,yes,yes,no,yes
+918,918,https://www.zomato.com/hyderabad/cake-wala-masab-tank,Cake Wala,-,₹100 for one,"Bakery, Desserts, Shake, Ice Cream","Masab Tank, Hyderabad",0,no,no,no,no
+919,919,https://www.zomato.com/hyderabad/mubarak-arabian-mandi-house-kacheguda,Mubarak Arabian Mandi House,-,₹100 for one,"Mandi, North Indian, Mughlai, Kebab, Chinese, Desserts, Shake, Beverages","Kacheguda, Hyderabad",0,yes,yes,no,yes
+920,920,https://www.zomato.com/hyderabad/quality-shawarma-mehdipatnam,Quality Shawarma,-,₹100 for one,Bakery,"Mehdipatnam, Hyderabad",0,no,no,no,no
+921,921,https://www.zomato.com/hyderabad/real-taste-chinese-fast-food-masab-tank,Real Taste Chinese Fast Food,3.6,₹100 for one,Chinese,"Masab Tank, Hyderabad",0,yes,yes,no,yes
+922,922,https://www.zomato.com/hyderabad/hyderabad-mandi-town-attapur,Hyderabad Mandi Town,4.0,₹100 for one,"Mandi, North Indian","Attapur, Hyderabad",0,yes,yes,no,yes
+923,923,https://www.zomato.com/hyderabad/food-studio-banjara-hills,Food Studio,3.5,₹100 for one,"Sandwich, Burger, Pizza, Fast Food, Salad, Shawarma, Mandi, Beverages","Banjara Hills, Hyderabad",0,no,no,no,no
+924,924,https://www.zomato.com/hyderabad/quality-cakes-mehdipatnam,Quality Cakes,4.3,₹100 for one,"Bakery, Desserts","Mehdipatnam, Hyderabad",4,yes,yes,no,no
+925,925,https://www.zomato.com/hyderabad/cakes-07-banjara-hills,Cakes 07,4.0,₹100 for one,"Bakery, Desserts, Beverages","Banjara Hills, Hyderabad",0,no,no,no,no
+926,926,https://www.zomato.com/hyderabad/11-spices-multi-cusine-restaurant-masab-tank,11 Spices Multi Cusine Restaurant,3.8,₹100 for one,"Biryani, Chinese, Arabian, Afghan, Mandi, Sichuan","Masab Tank, Hyderabad",0,yes,yes,no,yes
+927,927,https://www.zomato.com/hyderabad/green-kitchen-dilsukhnagar,Green Kitchen,New,₹100 for one,Chinese,"Dilsukhnagar, Hyderabad",0,no,no,no,no
+928,928,https://www.zomato.com/hyderabad/zee-n-cafe-amberpet,Zee N Cafe,-,₹100 for one,"Sandwich, Momos, Pizza, Burger, Fast Food, Street Food","Amberpet, Hyderabad",0,yes,yes,no,yes
+929,929,https://www.zomato.com/hyderabad/dr-cakes-masab-tank,Dr Cakes,4.3,₹100 for one,"Bakery, Desserts","Masab Tank, Hyderabad",0,no,no,no,no
+930,930,https://www.zomato.com/hyderabad/instant-kitchen-attapur,Instant Kitchen,4.0,₹100 for one,Street Food,"Attapur, Hyderabad",0,no,no,no,no
+931,931,https://www.zomato.com/hyderabad/moin-chakana-nampally,Moin Chakana,3.6,₹100 for one,"South Indian, Hyderabadi","Nampally, Hyderabad",0,yes,yes,no,no
+932,932,https://www.zomato.com/hyderabad/burger-fills-somajiguda,Burger Fills,-,₹100 for one,"Burger, Fast Food, Shake","Somajiguda, Hyderabad",0,no,no,no,no
+933,933,https://www.zomato.com/hyderabad/sandwich-dudes-abids,Sandwich Dudes,-,₹150 for one,"Sandwich, Fast Food, Beverages, Shake","Abids, Hyderabad",0,no,no,no,no
+934,934,https://www.zomato.com/hyderabad/smiley-mohan-fast-food-mehdipatnam,Smiley Mohan Fast Food,3.8,₹150 for one,"Fast Food, Chinese, Sichuan","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+935,935,https://www.zomato.com/hyderabad/burger-dudes-abids,Burger Dudes,2.6,₹150 for one,"Burger, Fast Food, Beverages, Shake","Abids, Hyderabad",0,yes,yes,no,no
+936,936,https://www.zomato.com/hyderabad/kabeirs-kitchen-mehdipatnam,Kabeir's Kitchen,-,₹150 for one,"Fast Food, Street Food, Momos","Mehdipatnam, Hyderabad",0,yes,yes,no,yes
+937,937,https://www.zomato.com/hyderabad/kebab-klub-banjara-hills,Kebab Klub,3.6,₹150 for one,"Kebab, North Indian, Biryani","Banjara Hills, Hyderabad",2,no,no,no,no
+938,938,https://www.zomato.com/hyderabad/al-noor-bakery-charminar,Al Noor Bakery,-,₹150 for one,"Bakery, Desserts","Charminar, Hyderabad",0,yes,yes,no,yes
+939,939,https://www.zomato.com/hyderabad/arabella-lakdikapul,Arabella,3.9,₹150 for one,"Lebanese, Arabian, North Indian, Mandi, Kebab, Desserts, Beverages","Lakdikapul, Hyderabad",0,yes,yes,no,yes
+940,940,https://www.zomato.com/hyderabad/hero-sandwich-necklace-road,Hero Sandwich,New,₹150 for one,"Wraps, Panini, Fast Food","Necklace Road, Hyderabad",0,no,no,no,no
+941,941,https://www.zomato.com/hyderabad/pavman-himayath-nagar,PavMan,New,₹150 for one,Street Food,"Himayath Nagar, Hyderabad",3,no,no,no,no
+942,942,https://www.zomato.com/hyderabad/ilahi-naan-musheerabad,Ilahi Naan,New,₹150 for one,South Indian,"Musheerabad, Hyderabad",0,yes,yes,no,no
+943,943,https://www.zomato.com/hyderabad/peshawar-juice-centre-1-malakpet,Peshawar Juice Centre,4.3,₹150 for one,"Beverages, Ice Cream, Desserts","Malakpet, Hyderabad",0,yes,yes,no,no
+944,944,https://www.zomato.com/hyderabad/good-cakes-masab-tank,Good Cakes,-,₹150 for one,Bakery,"Masab Tank, Hyderabad",0,no,no,no,no
+945,945,https://www.zomato.com/hyderabad/z-plus-arabian-mandi-on-wheels-chandrayanagutta,Z Plus Arabian Mandi On Wheels,New,₹300 for one,Mandi,"Chandrayanagutta, Hyderabad",0,yes,yes,no,no
+946,946,https://www.zomato.com/hyderabad/al-rikab-arabian-mandi-restaurant-lakdikapul,Al Rikab Arabian Mandi Restaurant,New,₹300 for one,"Mandi, Arabian","Lakdikapul, Hyderabad",0,yes,yes,no,yes
+947,947,https://www.zomato.com/hyderabad/polar-bear-ice-cream-sundae-zone-himayath-nagar,Polar Bear – Ice Cream Sundae Zone,-,₹300 for one,"Ice Cream, Shake, Beverages","Himayath Nagar, Hyderabad",3,yes,yes,no,no
+948,948,https://www.zomato.com/hyderabad/what-a-sandwich-himayath-nagar,What A Sandwich,New,₹300 for one,"Sandwich, Salad, Burger","Himayath Nagar, Hyderabad",0,no,no,no,no
+949,949,https://www.zomato.com/hyderabad/five-star-attapur,Five Star,New,₹300 for one,"Fast Food, Burger, Rolls","Attapur, Hyderabad",3,yes,yes,no,yes
+950,950,https://www.zomato.com/hyderabad/the-kunafa-kingdom-malakpet,The Kunafa Kingdom,New,₹300 for one,"Desserts, Fast Food, Wraps, Burger","Malakpet, Hyderabad",0,no,no,no,no
+951,951,https://www.zomato.com/hyderabad/biryani-expres-dilsukhnagar,Biryani Expres,3.8,₹300 for one,Chinese,"Dilsukhnagar, Hyderabad",0,no,no,no,no
+952,952,https://www.zomato.com/hyderabad/grill-tandoori-shawarma-1-rajendra-nagar,Grill Tandoori Shawarma,3.6,₹300 for one,"Pizza, Fast Food, Shawarma","Rajendra Nagar, Hyderabad",0,yes,yes,no,no
+953,953,https://www.zomato.com/hyderabad/chak-de-pizza-abids,Chak De Pizza,3.0,₹300 for one,"Pizza, Fast Food, Chinese, Shake, Beverages","Abids, Hyderabad",0,no,no,no,no
+954,954,https://www.zomato.com/hyderabad/sitara-juice-world-rtc-x-roads,Sitara Juice World,New,₹300 for one,"Juices, Beverages","RTC X roads, Hyderabad",0,no,no,no,no
+955,955,https://www.zomato.com/hyderabad/captial-cafe-saroor-nagar,Captial Cafe,-,₹300 for one,Chinese,"Saroor Nagar, Hyderabad",0,no,no,no,no
+956,956,https://www.zomato.com/hyderabad/ss-restaurant-dilsukhnagar,SS Restaurant,-,₹300 for one,"Biryani, Chinese","Dilsukhnagar, Hyderabad",0,no,no,no,no
+957,957,https://www.zomato.com/hyderabad/creamy-n-creamy-ice-stone-1-banjara-hills,Creamy N Creamy Ice Stone,3.7,₹150 for one,"Desserts, Ice Cream, Fast Food, Shake, Beverages, Waffle","Banjara Hills, Hyderabad",0,yes,yes,no,yes
+958,958,https://www.zomato.com/hyderabad/siri-lit-cafe-kothapet,Siri Lit Cafe,New,₹150 for one,"Cafe, Fast Food","Kothapet, Hyderabad",0,yes,yes,no,yes
+959,959,https://www.zomato.com/hyderabad/vaah-kitchen-dilsukhnagar,Vaah Kitchen,-,₹150 for one,"South Indian, Chinese, Mughlai, Seafood, Biryani, Shawarma, Fast Food, Street Food","Dilsukhnagar, Hyderabad",0,no,no,no,no
+960,960,https://www.zomato.com/hyderabad/yummy-bee-himayath-nagar,Yummy Bee,4.0,₹150 for one,"Desserts, Sandwich","Himayath Nagar, Hyderabad",0,no,no,no,no
+961,961,https://www.zomato.com/hyderabad/healthy-food-restaurant-charminar,Healthy Food Restaurant,3.9,₹150 for one,"South Indian, Beverages","Charminar, Hyderabad",0,no,no,no,no
+962,962,https://www.zomato.com/hyderabad/shawarma-corner-more-charminar,Shawarma Corner & More,-,₹150 for one,"Shawarma, Fast Food","Charminar, Hyderabad",0,yes,yes,no,no
+963,963,https://www.zomato.com/hyderabad/new-alams-biryani-and-fast-food-charminar,New Alams Biryani And Fast Food,New,₹150 for one,"North Indian, Chinese, Street Food","Charminar, Hyderabad",0,yes,yes,no,no
+964,964,https://www.zomato.com/hyderabad/bombay-bar-restaurant-nampally,Bombay Bar & Restaurant,4.2,₹150 for one,"North Indian, Chinese, Seafood","Nampally, Hyderabad",0,yes,yes,no,yes
+965,965,https://www.zomato.com/hyderabad/cake-works-saroor-nagar,Cake Works,New,₹150 for one,"Bakery, Desserts","Saroor Nagar, Hyderabad",0,no,no,no,no
+966,966,https://www.zomato.com/hyderabad/indian-bowl-co-musheerabad,Indian Bowl Co,-,₹150 for one,North Indian,"Musheerabad, Hyderabad",0,no,no,no,no
+967,967,https://www.zomato.com/hyderabad/yo-chinese-nallakunta,Yo Chinese !,3.4,₹150 for one,"Fast Food, Chinese, Sichuan","Nallakunta, Hyderabad",0,yes,yes,no,no
+968,968,https://www.zomato.com/hyderabad/shawarma-hot-and-cool-point-malakpet,Shawarma Hot And Cool Point,4.1,₹150 for one,Shawarma,"Malakpet, Hyderabad",0,yes,yes,no,yes
+969,969,https://www.zomato.com/hyderabad/alfa-sweets-1-masab-tank,Alfa Sweets,3.4,₹150 for one,"Mithai, Desserts","Masab Tank, Hyderabad",0,yes,yes,no,no
+970,970,https://www.zomato.com/hyderabad/black-pot-cafe-malakpet,Black Pot & Cafe,New,₹150 for one,"Pizza, Wraps","Malakpet, Hyderabad",0,yes,yes,no,yes
+971,971,https://www.zomato.com/hyderabad/best-shawarmas-meerpet,Best Shawarmas,3.3,₹150 for one,"Fast Food, Burger, Shawarma","Meerpet, Hyderabad",0,yes,yes,no,yes
+972,972,https://www.zomato.com/hyderabad/feel-in-byte-chandrayanagutta,Feel In Byte,3.6,₹150 for one,"Lebanese, Fast Food, Shawarma","Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+973,973,https://www.zomato.com/hyderabad/thickshakes-junction-nampally,Thickshakes Junction,New,₹150 for one,Shake,"Nampally, Hyderabad",0,no,no,no,no
+974,974,https://www.zomato.com/hyderabad/waffle-world-food-rtc-x-roads,Waffle World Food,New,₹150 for one,"Waffle, Desserts, Fast Food, Shawarma, Street Food, Beverages","RTC X roads, Hyderabad",0,yes,yes,no,no
+975,975,https://www.zomato.com/hyderabad/mehraab-restaurant-rajendra-nagar,Mehraab Restaurant,New,₹150 for one,"Biryani, North Indian","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+976,976,https://www.zomato.com/hyderabad/amritsar-haveli-attapur,Amritsar Haveli,3.5,₹150 for one,"North Indian, Chinese, Fast Food, Ice Cream, Tea, Desserts, Beverages","Attapur, Hyderabad",0,yes,yes,no,yes
+977,977,https://www.zomato.com/hyderabad/sri-sai-raghavendra-udupi-veg-kothapet,Sri Sai Raghavendra Udupi Veg,4.0,₹150 for one,"South Indian, North Indian","Kothapet, Hyderabad",0,yes,yes,no,yes
+978,978,https://www.zomato.com/hyderabad/al-barka-al-arabia-cafeteria-nadurgul,Al Barka-Al Arabia Cafeteria,New,₹150 for one,"Fast Food, Shawarma, Sandwich, Burger","Nadurgul, Hyderabad",0,no,no,no,no
+979,979,https://www.zomato.com/hyderabad/wu-tang-panjagutta,Wu -Tang,New,₹150 for one,"Chinese, South Indian","Panjagutta, Hyderabad",0,no,no,no,no
+980,980,https://www.zomato.com/hyderabad/bharpur-multicuisine-restaurant-panjagutta,Bharpur Multicuisine Restaurant,New,₹150 for one,"South Indian, North Indian, Biryani, Mughlai, Seafood, Desserts, Shake, Beverages","Panjagutta, Hyderabad",0,yes,yes,no,yes
+981,981,https://www.zomato.com/hyderabad/yaba-1-falaknuma,Yaba,New,₹150 for one,Chinese,"Falaknuma, Hyderabad",2,yes,yes,no,yes
+982,982,https://www.zomato.com/hyderabad/zorro-milkshakes-and-thickshakes-himayath-nagar,Zorro - Milkshakes And Thickshakes,3.9,₹150 for one,"Shake, Beverages","Himayath Nagar, Hyderabad",8,no,no,no,no
+983,983,https://www.zomato.com/hyderabad/quality-foods-nampally,Quality Foods,New,₹250 for one,Bakery,"Nampally, Hyderabad",0,no,no,no,no
+984,984,https://www.zomato.com/hyderabad/little-changs-rajendra-nagar,Little Chang's,3.7,₹350 for one,"Chinese, Sichuan, Asian, Seafood","Rajendra Nagar, Hyderabad",0,yes,yes,no,yes
+985,985,https://www.zomato.com/hyderabad/chopstix-a-chinese-cuisine-attapur,Chopstix A Chinese Cuisine,4.0,₹150 for one,"Chinese, Seafood, Fast Food, Street Food","Attapur, Hyderabad",0,yes,yes,no,yes
+986,986,https://www.zomato.com/hyderabad/the-egg-stuff-1-himayath-nagar,The Egg Stuff,New,₹100 for one,"North Indian, Hyderabadi, Beverages","Himayath Nagar, Hyderabad",0,no,no,no,no
+987,987,https://www.zomato.com/hyderabad/anand-paan-shop-nampally,Anand Paan Shop,-,₹40 for one,Paan,"Nampally, Hyderabad",0,yes,yes,yes,no
+988,988,https://www.zomato.com/hyderabad/snack-city-rtc-x-roads,Snack City,-,₹150 for one,"Wraps, Pizza, Fast Food, Sandwich, Beverages","RTC X roads, Hyderabad",0,yes,yes,no,yes
+989,989,https://www.zomato.com/hyderabad/al-marwan-mandi-chandrayanagutta,Al Marwan Mandi,New,₹200 for one,Mandi,"Chandrayanagutta, Hyderabad",0,yes,yes,no,yes
+990,990,https://www.zomato.com/hyderabad/ar-foods-1-nampally,AR Foods,-,₹200 for one,"Biryani, South Indian","Nampally, Hyderabad",0,no,no,no,no
+991,991,https://www.zomato.com/hyderabad/el-jannah-restaurant-attapur,El Jannah Restaurant,New,₹400 for one,"Mandi, Biryani","Attapur, Hyderabad",0,yes,yes,no,yes
+992,992,https://www.zomato.com/hyderabad/body-power-cafe-masab-tank,Body Power Cafe,3.9,₹250 for one,"Healthy Food, Salad, Fast Food, Street Food, Coffee, Beverages","Masab Tank, Hyderabad",3,no,no,no,no
+993,993,https://www.zomato.com/hyderabad/krispinos-2-himayath-nagar,Krispinos,-,₹200 for one,"Burger, Sandwich, Fast Food, Pizza, Wraps, Shake, Beverages","Himayath Nagar, Hyderabad",0,yes,yes,no,yes
+994,994,https://www.zomato.com/hyderabad/colecrust-pizza-amberpet,Colecrust Pizza,New,₹200 for one,"Fast Food, Pizza","Amberpet, Hyderabad",0,yes,yes,no,yes
+995,995,https://www.zomato.com/hyderabad/narmadas-rasoi-himayath-nagar,Narmada's Rasoi,New,₹200 for one,"North Indian, Chinese, Biryani","Himayath Nagar, Hyderabad",0,yes,yes,no,yes
+996,996,https://www.zomato.com/hyderabad/balaji-tiffins-resturant-rajendra-nagar,Balaji Tiffins & Resturant,New,₹200 for one,Hyderabadi,"Rajendra Nagar, Hyderabad",0,yes,yes,no,no
+997,997,https://www.zomato.com/hyderabad/kebabzadeh-tolichowki,Kebabzadeh,4.0,₹200 for one,"Kebab, North Indian, Hyderabadi","Tolichowki, Hyderabad",0,yes,yes,no,yes
+998,998,https://www.zomato.com/hyderabad/the-nosh-express-dilsukhnagar,The Nosh Express,New,₹200 for one,"Burger, Sandwich, Pasta, Pizza, Wraps, Fast Food, Momos, Beverages","Dilsukhnagar, Hyderabad",0,yes,yes,yes,no
+999,999,https://www.zomato.com/hyderabad/papadams-blue-kothapet,Papadams Blue,4.0,₹200 for one,"North Indian, Chinese, Mughlai, Kebab, Biryani, Desserts","Kothapet, Hyderabad",2,yes,yes,no,yes
+1000,1000,https://www.zomato.com/hyderabad/subhan-bakery-nampally,Subhan Bakery,4.7,₹200 for one,Bakery,"Nampally, Hyderabad",0,yes,yes,no,no
+1001,1001,https://www.zomato.com/hyderabad/pista-house-bakery-koti,Pista House Bakery,4.3,₹200 for one,"Bakery, Pizza, Fast Food, Rolls, Desserts","Koti, Hyderabad",15,no,no,no,no
+1002,1002,https://www.zomato.com/hyderabad/scoops-ice-cream-1-attapur,Scoops Ice Cream,4.1,₹200 for one,"Ice Cream, Street Food, Beverages, Shake, Fast Food","Attapur, Hyderabad",58,yes,yes,no,yes
+1003,1003,https://www.zomato.com/hyderabad/pista-house-20-charminar,Pista House,4.1,₹200 for one,"North Indian, Chinese, Biryani, Kebab, Seafood, Ice Cream, Desserts, Beverages","Charminar Area, Charminar, Hyderabad",23,yes,yes,no,yes
+1004,1004,https://www.zomato.com/hyderabad/kfc-2-mehdipatnam,KFC,3.8,₹200 for one,"Burger, Fast Food, Biryani, Desserts, Beverages","Mehdipatnam, Hyderabad",71,yes,yes,no,yes
+1005,1005,https://www.zomato.com/hyderabad/cream-stone-ice-cream-necklace-road,Cream Stone Ice Cream,4.1,₹200 for one,"Ice Cream, Desserts","Prasads Multiplex, Necklace Road, Hyderabad",5,yes,yes,no,yes
+1006,1006,https://www.zomato.com/hyderabad/pizza-hut-1-banjara-hills,Pizza Hut,3.3,₹200 for one,"Pizza, Pasta, Italian, Desserts, Beverages","GVK One Mall, Banjara Hills, Hyderabad",14,yes,yes,no,no
+1007,1007,https://www.zomato.com/hyderabad/burger-king-banjara-hills,Burger King,4.1,₹200 for one,"Burger, Fast Food","GVK One Mall, Banjara Hills, Hyderabad",14,yes,yes,no,yes
+1008,1008,https://www.zomato.com/hyderabad/mcdonalds-1-necklace-road,McDonald's,4.0,₹200 for one,"Burger, Fast Food","Prasads Multiplex, Necklace Road, Hyderabad",5,yes,yes,no,yes
+1009,1009,https://www.zomato.com/hyderabad/red-bucket-biryani-rajendra-nagar,Red Bucket Biryani,3.7,₹200 for one,Biryani,"Rajendra Nagar, Hyderabad",39,yes,yes,no,no
+1010,1010,https://www.zomato.com/hyderabad/mohammedia-shawarma-1-langer-houz,Mohammedia Shawarma,4.1,₹200 for one,"North Indian, Chinese, Shawarma","Langer Houz, Hyderabad",32,yes,yes,no,yes
+1011,1011,https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-boiguda-secunderabad,Kwality Wall’s Frozen Dessert and Ice Cream Shop,4.3,₹150 for one,"Ice Cream, Desserts","Boiguda, Secunderabad",116,yes,yes,no,no
+1012,1012,https://www.zomato.com/hyderabad/la-pinoz-pizza-attapur,La Pino'z Pizza,3.9,₹150 for one,"Pizza, Pasta, Italian, Fast Food","Attapur, Hyderabad",18,yes,yes,no,yes
+1013,1013,https://www.zomato.com/hyderabad/lassi-shop-1-himayath-nagar,Lassi Shop,4.2,₹150 for one,"Ice Cream, Beverages, Shake, Desserts","Himayath Nagar, Hyderabad",61,yes,yes,no,no
+1014,1014,https://www.zomato.com/hyderabad/paradise-biryani-koti,Paradise Biryani,3.7,₹150 for one,"Biryani, North Indian, Kebab, Chinese, Desserts","Koti, Hyderabad",41,yes,yes,no,no
+1015,1015,https://www.zomato.com/hyderabad/karachi-bakery-2-nampally,Karachi Bakery,3.8,₹150 for one,"Bakery, Chinese, Pizza, Sandwich, Italian, Wraps, Street Food, Fast Food","Nampally, Hyderabad",36,yes,yes,no,no
+1016,1016,https://www.zomato.com/hyderabad/balaji-santosh-family-dhaba-shamshabad,Balaji Santosh Family Dhaba,3.9,₹150 for one,"North Indian, Chinese, Biryani","Shamshabad, Hyderabad",19,yes,yes,no,yes
+1017,1017,https://www.zomato.com/hyderabad/kritunga-himayath-nagar,Kritunga,3.7,₹150 for one,"North Indian, South Indian, Chinese, BBQ, Biryani, Sichuan, Desserts, Beverages","Himayath Nagar, Hyderabad",19,yes,yes,no,yes
+1018,1018,https://www.zomato.com/hyderabad/the-thickshake-factory-2-banjara-hills,The ThickShake Factory,3.9,₹150 for one,"Shake, Beverages","Banjara Hills, Hyderabad",65,no,no,no,no
+1019,1019,https://www.zomato.com/hyderabad/natural-ice-cream-1-himayath-nagar,Natural Ice Cream,4.5,₹150 for one,"Ice Cream, Desserts","Himayath Nagar, Hyderabad",19,no,no,no,no
+1020,1020,https://www.zomato.com/hyderabad/makers-of-milkshakes-1-marredpally-secunderabad,Makers Of Milkshakes,4.2,₹150 for one,"Shake, Beverages, Waffle, Desserts","Marredpally, Secunderabad",55,yes,yes,no,yes
+1021,1021,https://www.zomato.com/hyderabad/ram-ki-bandi-nampally,Ram Ki Bandi,4.2,₹150 for one,South Indian,"Nampally, Hyderabad",12,yes,yes,no,no
+1022,1022,https://www.zomato.com/hyderabad/sha-sha-shandaar-shawarma-attapur,Sha Sha Shandaar Shawarma,4.1,₹150 for one,"Shawarma, Wraps, Fast Food","Attapur, Hyderabad",20,yes,yes,no,yes
+1023,1023,https://www.zomato.com/hyderabad/subway-1-necklace-road,Subway,3.8,₹250 for one,"Healthy Food, Fast Food, Sandwich, Salad, Wraps, Beverages","Prasads Multiplex, Necklace Road, Hyderabad",5,yes,yes,no,yes
+1024,1024,https://www.zomato.com/hyderabad/hotel-rumaan-1-charminar,Hotel Rumaan,4.0,₹250 for one,"Biryani, Chinese, North Indian","Charminar, Hyderabad",4,yes,yes,no,yes
+1025,1025,https://www.zomato.com/hyderabad/wow-momo-himayath-nagar,WOW! Momo,4.0,₹250 for one,"Momos, Fast Food, Tibetan, Sichuan, Beverages","Himayath Nagar, Hyderabad",28,yes,yes,no,yes
+1026,1026,https://www.zomato.com/hyderabad/eagles-pizza-himayath-nagar,Eagles Pizza,3.8,₹250 for one,"Pizza, Fast Food","Himayath Nagar, Hyderabad",12,yes,yes,no,yes
+1027,1027,https://www.zomato.com/hyderabad/masqati-ice-cream-saroor-nagar,Masqati Ice Cream,4.2,₹250 for one,"Ice Cream, Desserts, Pizza, Fast Food, Street Food, Beverages","Saroor Nagar, Hyderabad",13,yes,yes,no,yes
+1028,1028,https://www.zomato.com/hyderabad/zomoz-the-momo-company-dilsukhnagar,Zomoz-The Momo Company,4.2,₹250 for one,"Momos, Chinese, Fast Food","Dilsukhnagar, Hyderabad",29,no,no,no,no
+1029,1029,https://www.zomato.com/hyderabad/biryani-by-kilo-kothapet,Biryani By Kilo,3.8,₹250 for one,"Biryani, North Indian, Kebab","Kothapet, Hyderabad",9,no,no,no,no
+1030,1030,https://www.zomato.com/hyderabad/santosh-dhaba-the-original-attapur,Santosh Dhaba The Original,3.7,₹250 for one,"North Indian, Chinese","Attapur, Hyderabad",10,yes,yes,no,yes
+1031,1031,https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-3-khairatabad,Kwality Wall’s Frozen Dessert And Ice Cream Shop,4.2,₹250 for one,"Ice Cream, Desserts","Khairatabad, Hyderabad",15,no,no,no,no
+1032,1032,https://www.zomato.com/hyderabad/kwality-walls-frozen-dessert-and-ice-cream-shop-saroor-nagar,Kwality Wall’s Frozen Dessert and Ice Cream Shop,4.3,₹250 for one,"Ice Cream, Desserts","Saroor Nagar, Hyderabad",5,no,no,no,no
+1033,1033,https://www.zomato.com/hyderabad/wow-china-banjara-hills,WOW! China,3.6,₹250 for one,"Chinese, Oriental, Asian, Sichuan, Seafood","GVK One Mall, Banjara Hills, Hyderabad",14,yes,yes,no,no
+1034,1034,https://www.zomato.com/hyderabad/rice-bowl-dilsukhnagar,Rice Bowl,3.8,₹250 for one,North Indian,"Dilsukhnagar, Hyderabad",15,yes,yes,no,no
+1035,1035,https://www.zomato.com/hyderabad/bhattad-ki-idli-rambharose-bhandar-kacheguda,Bhattad Ki Idli - Rambharose Bhandar,4.0,₹100 for one,South Indian,"Kacheguda, Hyderabad",4,yes,yes,no,yes
+1036,1036,https://www.zomato.com/hyderabad/masqati-ice-cream-charminar,Masqati Ice Cream,4.4,₹100 for one,"Desserts, Fast Food, Street Food, Pizza, Ice Cream, Beverages","Charminar, Hyderabad",8,yes,yes,no,yes
+1037,1037,https://www.zomato.com/hyderabad/theobroma-himayath-nagar,Theobroma,4.4,₹100 for one,"Bakery, Desserts, Fast Food, Beverages","Himayath Nagar, Hyderabad",22,yes,yes,no,no
+1038,1038,https://www.zomato.com/hyderabad/biryanis-and-more-khairatabad,Biryanis And More,3.5,₹100 for one,"Biryani, North Indian, Andhra, Chinese, Sichuan","Khairatabad, Hyderabad",7,yes,yes,no,no
+1039,1039,https://www.zomato.com/hyderabad/pista-house-zafrani-tea-charminar,Pista House Zafrani Tea,4.5,₹100 for one,"Tea, Beverages","Charminar, Hyderabad",5,yes,yes,no,no
+1040,1040,https://www.zomato.com/hyderabad/samosa-singh-banjara-hills,Samosa Singh,4.0,₹100 for one,"Street Food, North Indian, Beverages","Banjara Hills, Hyderabad",19,no,no,no,no
+1041,1041,https://www.zomato.com/hyderabad/california-burrito-boiguda-secunderabad,California Burrito,4.4,₹100 for one,"Mexican, Healthy Food, American, Salad, Fast Food, Beverages","Boiguda, Secunderabad",10,yes,yes,no,no
+1042,1042,https://www.zomato.com/hyderabad/royal-tiffin-centre-rajendra-nagar,Royal Tiffin Centre,3.7,₹100 for one,"South Indian, Street Food, Beverages","Rajendra Nagar, Hyderabad",0,yes,no,no,yes
